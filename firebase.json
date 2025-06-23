@@ -1,0 +1,18 @@
+{
+  "hosting": {
+    "target": "main",
+    "public": "exb/ArcGISExperienceBuilder/app",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      "**/*.log"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

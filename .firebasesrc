@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ut-dnr-ugs-gslhub"
+  },
+  "targets": {
+    "ut-dnr-ugs-gslhub": {
+      "hosting": {
+        "main": [
+          "ut-dnr-ugs-gslhub"
+        ]
+      }
+    }
+  }
+}
