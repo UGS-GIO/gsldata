@@ -1,20 +1,20 @@
 {
-  "created": 1750361878378,
+  "created": 1755024671577,
   "description": "",
-  "id": "18",
-  "modified": 1750361906380,
+  "id": "21",
+  "modified": 1755024671590,
   "owner": "rwillmore",
   "tags": [],
   "thumbnail": null,
-  "title": "GSL Brine Chemistry and Density Dashboard 1",
+  "title": "GSL Brine Chemistry and Density Dashboard 2",
   "type": "Web Experience",
   "snippet": "",
   "typeKeywords": [
     "EXB Experience",
     "JavaScript",
     "Ready To Use",
-    "status: Published",
-    "version:1.17.0",
+    "status: Draft",
+    "version:1.18.0",
     "Web Application",
     "Web Experience",
     "Web Mapping Application",
@@ -22,6 +22,5 @@
     "Web Site"
   ],
   "portalUrl": "https://utahdnr.maps.arcgis.com",
-  "username": "rwillmore",
-  "url": null
+  "username": "rwillmore"
 }
