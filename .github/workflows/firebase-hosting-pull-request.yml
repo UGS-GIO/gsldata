@@ -107,10 +107,10 @@ jobs:
         echo "Contents of app directory:"
         ls -la app/
     
-    - name: Deploy to Firebase
+    - name: Deploy to Firebase Preview Channel
       uses: FirebaseExtended/action-hosting-deploy@v0
       with:
-        repoToken: '${{ secrets.GITHUB_TOKEN }}'
-        firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_UT_DNR_UGS_GSLHUB }}'
-        projectId: gsldata-preview
-        channelId: pr-${{ github.event.number }}
+        repoToken: ${{ secrets.GITHUB_TOKEN }}
+        firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_UT_DNR_UGS_GSLHUB }}
+        projectId: ut-dnr-ugs-gslhub
+        channelId: preview
