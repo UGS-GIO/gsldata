@@ -1,0 +1,22 @@
+{
+  "1746628937093.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1746628937093.png",
+    "properties": {
+      "filename": "1746628937093.png",
+      "originalName": "menu-icon-gray.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1746628937093.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1750960326947.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1750960326947.png",
+    "properties": {
+      "filename": "1750960326947.png",
+      "originalName": "ugs favicon.png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1750960326947.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  }
+}

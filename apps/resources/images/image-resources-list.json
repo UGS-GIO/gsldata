@@ -1,0 +1,78 @@
+{
+  "1741129066801": {
+    "originalName": "1712155160033.png",
+    "fileName": "1741129066801.png",
+    "size": 3304,
+    "url": "${appResourceUrl}/images/widget_75/1741129066801.png",
+    "created": 1741129066801,
+    "resourcesPrefix": "images/widget_75",
+    "referredIds": [],
+    "originId": "1741129066801",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 58,
+    "originalHeight": 65
+  },
+  "1742320039204": {
+    "originalName": "gsl-placeholder.jpg",
+    "fileName": "1742320039204.jpg",
+    "size": 151054,
+    "url": "${appResourceUrl}/images/widget_153/1742320039204.jpg",
+    "created": 1742320039204,
+    "resourcesPrefix": "images/widget_153",
+    "referredIds": [
+      "1749073441839",
+      "1749073459871"
+    ],
+    "originId": "1742320039204",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 1016,
+    "originalHeight": 761
+  },
+  "1749073436106": {
+    "file": {},
+    "fileName": "1749073436106.jpeg",
+    "url": "${appResourceUrl}/images/templates/1749073436106.jpeg",
+    "referredIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1742320039204",
+    "resourcesPrefix": "images/templates"
+  },
+  "1749073441839": {
+    "file": {},
+    "fileName": "1749073441839.jpeg",
+    "url": "${appResourceUrl}/images/templates/1749073441839.jpeg",
+    "referredIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1742320039204",
+    "resourcesPrefix": "images/templates"
+  },
+  "1749073450622": {
+    "file": {},
+    "fileName": "1749073450622.jpeg",
+    "url": "${appResourceUrl}/images/templates/1749073450622.jpeg",
+    "referredIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1742320039204",
+    "resourcesPrefix": "images/templates"
+  },
+  "1749073459871": {
+    "file": {},
+    "fileName": "1749073459871.jpeg",
+    "url": "${appResourceUrl}/images/templates/1749073459871.jpeg",
+    "referredIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1742320039204",
+    "resourcesPrefix": "images/templates"
+  },
+  "1749752793799": {
+    "file": {},
+    "fileName": "1749752793799.jpeg",
+    "url": "${appResourceUrl}/images/templates/1749752793799.jpeg",
+    "referredIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1742320039204",
+    "resourcesPrefix": "images/templates"
+  }
+}
