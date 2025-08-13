@@ -2,7 +2,7 @@
   "created": 1755024671577,
   "description": "",
   "id": "21",
-  "modified": 1755024671590,
+  "modified": 1755037274738,
   "owner": "rwillmore",
   "tags": [],
   "thumbnail": null,
@@ -13,7 +13,7 @@
     "EXB Experience",
     "JavaScript",
     "Ready To Use",
-    "status: Draft",
+    "status: Published",
     "version:1.18.0",
     "Web Application",
     "Web Experience",
@@ -22,5 +22,6 @@
     "Web Site"
   ],
   "portalUrl": "https://utahdnr.maps.arcgis.com",
-  "username": "rwillmore"
+  "username": "rwillmore",
+  "url": null
 }
