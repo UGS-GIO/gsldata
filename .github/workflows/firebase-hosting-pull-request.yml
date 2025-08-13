@@ -1,96 +1,116 @@
-name: Build and Deploy to Firebase Preview
-on: pull_request
-permissions:
-  checks: write
-  contents: read
-  pull-requests: write
+name: Build-and-Deploy
+on:
+  pull_request:
+    branches: [ main ]
+
 jobs:
-  Build-and-Deploy:
-    if: ${{ github.event.pull_request.head.repo.full_name == github.repository }}
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository code
-        uses: actions/checkout@v4
-      - name: Download Experience Builder 1.18
-        run: |
-          echo "Downloading Experience Builder 1.18..."
-          curl -o exb.zip "$(curl -s 'https://downloads.arcgis.com/dms/rest/download/secured/arcgis-experience-builder-1.18.zip?f=json&folder=software%2FExperienceBuilder%2F1.18' | python3 -c "import sys, json; print(json.load(sys.stdin)['url'])")"
-          echo "Download completed. File size:"
-          ls -la exb.zip
-
-      - name: Extract and verify Experience Builder
-        run: |
-          echo "Extracting Experience Builder..."
-          unzip -q exb.zip -d exb
-          echo "Extraction completed. Contents of exb directory:"
-          ls -la exb/
+    - uses: actions/checkout@v4
+    
+    - name: Download Experience Builder 1.18
+      run: |
+        echo "Downloading Experience Builder 1.18..."
+        curl -o exb.zip "$(curl -s 'https://downloads.arcgis.com/dms/rest/download/secured/arcgis-experience-builder-1.18.zip?f=json&folder=software%2FExperienceBuilder%2F1.18' | python3 -c "import sys, json; print(json.load(sys.stdin)['url'])")"
+    
+    - name: Extract Experience Builder
+      run: |
+        echo "Extracting Experience Builder..."
+        unzip -q exb.zip -d exb
+        echo "Experience Builder extracted successfully"
+    
+    - name: Setup app directories
+      run: |
+        # Create the apps directory in the correct location (exb/server, not exb/ArcGISExperienceBuilder/server)
+        mkdir -p exb/server/public/apps
+        echo "Created apps directory at exb/server/public/apps"
+    
+    - name: Copy app files
+      run: |
+        echo "Copying app files..."
+        cp -r apps/* exb/server/public/apps/
+        echo "App files copied successfully"
+        
+        # Verify the copy worked
+        echo "Contents of apps directory:"
+        ls -la exb/server/public/apps/
+    
+    - name: Install client dependencies
+      run: |
+        echo "Installing client dependencies..."
+        cd exb/client
+        npm ci
+    
+    - name: Install server dependencies
+      run: |
+        echo "Installing server dependencies..."
+        cd exb/server
+        npm ci
+        
+    - name: Build client (dev)
+      run: |
+        echo "Building client (dev)..."
+        cd exb/client
+        npm run build:dev
+        
+    - name: Build client (prod)
+      run: |
+        echo "Building client (prod)..."
+        cd exb/client
+        npm run build:prod
+        
+    - name: Publish and build app
+      run: |
+        echo "Publishing and building app..."
+        cd exb  # Note: working from the exb root directory now
+        
+        # Publish the app first
+        echo "Publishing app..."
+        node -e "
+          const fs = require('fs');
+          const configPath = './server/public/apps/0/config.json';
           
-          echo "Looking for ArcGISExperienceBuilder directory:"
-          if [ -d "exb/ArcGISExperienceBuilder" ]; then
-            echo "ArcGISExperienceBuilder directory found"
-            echo "Contents:"
-            ls -la exb/ArcGISExperienceBuilder/
-            
-            if [ -d "exb/ArcGISExperienceBuilder/server" ]; then
-              echo "Server directory found"
-              ls -la exb/ArcGISExperienceBuilder/server/
-            else
-              echo "ERROR: Server directory not found"
-            fi
-            
-            if [ -d "exb/ArcGISExperienceBuilder/client" ]; then
-              echo "Client directory found"
-              ls -la exb/ArcGISExperienceBuilder/client/
-            else
-              echo "ERROR: Client directory not found"
-            fi
-          else
-            echo "ERROR: ArcGISExperienceBuilder directory not found"
-            echo "Available directories in exb/:"
-            find exb/ -type d -maxdepth 2
-          fi
-      # - name: Download Experience Builder
-      #   run: curl -o exb.zip "$(curl -s 'https://downloads.arcgis.com/dms/rest/download/secured/arcgis-experience-builder-1.18.zip?f=json&folder=software%2FExperienceBuilder%2F1.18' | python3 -c "import sys, json; print(json.load(sys.stdin)['url'])")"
-      # - name: Unzip Experience Builder
-      #   run: unzip -q exb.zip -d exb
-      # - name: Copy Custom Widgets
-      # run: cp -r widgets/* exb/ArcGISExperienceBuilder/client/your-extensions/widgets
-      # - name: Copy Custom Themes
-      # run: cp -r themes/* exb/ArcGISExperienceBuilder/client/your-extensions/themes
-      - name: Create App directory
-        run: mkdir public && cd public && mkdir apps && cd apps
-        working-directory: exb/ArcGISExperienceBuilder/server
-      - name: Copy apps
-        run: cp -r apps/* exb/ArcGISExperienceBuilder/server/public/apps
-      - name: NPM install client folder
-        run: npm ci
-        working-directory: exb/ArcGISExperienceBuilder/client
-      - name: NPM install in server folder
-        run: npm ci
-        working-directory: exb/ArcGISExperienceBuilder/server
-      - name: Build widgets - dev
-        run: npm run build:dev
-        working-directory: exb/ArcGISExperienceBuilder/client
-      - name: Build widgets
-        run: npm run build:prod
-        working-directory: exb/ArcGISExperienceBuilder/client
-      - name: Run download script
-        run: |
-          node -e "require('./server/src/middlewares/dev/apps/app-download.js').zipApp('0', 'app.zip')"
-          ls -la  # This will show where the file is created
-        working-directory: exb/ArcGISExperienceBuilder
-        env:
-          NODE_ENV: production
-      - name: Unzip app zip
-        run: |
-          unzip -o -q app.zip -d app
-          chmod -R 777 app
-        working-directory: exb/ArcGISExperienceBuilder
-
-      - name: Deploy to Firebase Preview Channel
-        uses: FirebaseExtended/action-hosting-deploy@v0
-        with:
-          repoToken: ${{ secrets.GITHUB_TOKEN }}
-          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_UT_DNR_UGS_GSLHUB }}
-          projectId: ut-dnr-ugs-gslhub
-          channelId: preview
+          if (fs.existsSync(configPath)) {
+            const config = JSON.parse(fs.readFileSync(configPath, 'utf8'));
+            config.published = true;
+            fs.writeFileSync(configPath, JSON.stringify(config, null, 2));
+            console.log('App marked as published');
+          } else {
+            console.error('Config file not found at', configPath);
+            process.exit(1);
+          }
+        "
+        
+        # Create the ZIP export
+        echo "Creating ZIP export..."
+        node -e "require('./server/src/middlewares/dev/apps/app-download.js').zipApp('0', 'app.zip')"
+        
+        # Verify ZIP was created
+        if [ -f "app.zip" ]; then
+          echo "app.zip created successfully"
+          echo "File size: $(du -h app.zip)"
+        else
+          echo "ERROR: app.zip was not created"
+          ls -la
+          exit 1
+        fi
+    
+    - name: Extract and deploy app
+      run: |
+        echo "Extracting app for deployment..."
+        unzip -o -q exb/app.zip -d app
+        chmod -R 777 app
+        echo "App extracted successfully"
+        
+        # Verify extraction
+        echo "Contents of app directory:"
+        ls -la app/
+    
+    - name: Deploy to Firebase
+      uses: FirebaseExtended/action-hosting-deploy@v0
+      with:
+        repoToken: '${{ secrets.GITHUB_TOKEN }}'
+        firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_GSLDATA_PREVIEW }}'
+        projectId: gsldata-preview
+        channelId: pr-${{ github.event.number }}
