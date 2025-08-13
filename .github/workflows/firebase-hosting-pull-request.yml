@@ -2,71 +2,60 @@ name: Build-and-Deploy
 on:
   pull_request:
     branches: [ main ]
-
+    
+permissions:
+  checks: write
+  contents: read
+  pull-requests: write
+  
 jobs:
   build-and-deploy:
+    if: ${{ github.event.pull_request.head.repo.full_name == github.repository }}
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
     
     - name: Download Experience Builder 1.18
       run: |
-        echo "Downloading Experience Builder 1.18..."
         curl -o exb.zip "$(curl -s 'https://downloads.arcgis.com/dms/rest/download/secured/arcgis-experience-builder-1.18.zip?f=json&folder=software%2FExperienceBuilder%2F1.18' | python3 -c "import sys, json; print(json.load(sys.stdin)['url'])")"
     
     - name: Extract Experience Builder
       run: |
-        echo "Extracting Experience Builder..."
         unzip -q exb.zip -d exb
-        echo "Experience Builder extracted successfully"
     
     - name: Setup app directories
       run: |
-        # Create the apps directory in the correct location (exb/server, not exb/ArcGISExperienceBuilder/server)
         mkdir -p exb/server/public/apps
-        echo "Created apps directory at exb/server/public/apps"
     
     - name: Copy app files
       run: |
-        echo "Copying app files..."
         cp -r apps/* exb/server/public/apps/
-        echo "App files copied successfully"
-        
-        # Verify the copy worked
-        echo "Contents of apps directory:"
-        ls -la exb/server/public/apps/
     
     - name: Install client dependencies
       run: |
-        echo "Installing client dependencies..."
         cd exb/client
         npm ci
     
     - name: Install server dependencies
       run: |
-        echo "Installing server dependencies..."
         cd exb/server
         npm ci
         
     - name: Build client (dev)
       run: |
-        echo "Building client (dev)..."
         cd exb/client
         npm run build:dev
         
     - name: Build client (prod)
       run: |
-        echo "Building client (prod)..."
         cd exb/client
         npm run build:prod
         
     - name: Publish and build app
       run: |
-        echo "Publishing and building app..."
-        cd exb  # Note: working from the exb root directory now
+        cd exb
         
         # Publish the app first
-        echo "Publishing app..."
         node -e "
           const fs = require('fs');
           const configPath = './server/public/apps/0/config.json';
@@ -83,29 +72,16 @@ jobs:
         "
         
         # Create the ZIP export
-        echo "Creating ZIP export..."
         node -e "require('./server/src/middlewares/dev/apps/app-download.js').zipApp('0', 'app.zip')"
-        
-        # Verify ZIP was created
-        if [ -f "app.zip" ]; then
-          echo "app.zip created successfully"
-          echo "File size: $(du -h app.zip)"
-        else
-          echo "ERROR: app.zip was not created"
-          ls -la
-          exit 1
-        fi
+        ls -la  # Show where the file is created
+      env:
+        NODE_ENV: production
     
-    - name: Extract and deploy app
+    - name: Unzip app zip
       run: |
-        echo "Extracting app for deployment..."
-        unzip -o -q exb/app.zip -d app
+        unzip -o -q app.zip -d app
         chmod -R 777 app
-        echo "App extracted successfully"
-        
-        # Verify extraction
-        echo "Contents of app directory:"
-        ls -la app/
+      working-directory: exb
     
     - name: Deploy to Firebase Preview Channel
       uses: FirebaseExtended/action-hosting-deploy@v0
