@@ -25262,9 +25262,9 @@
       },
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-          "mainDataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
-          "rootDataSourceId": "dataSource_15",
+          "dataSourceId": "dataSource_14-48-dataView_1",
+          "mainDataSourceId": "dataSource_14-48",
+          "rootDataSourceId": "dataSource_14",
           "dataViewId": "dataView_1",
           "fields": []
         }
@@ -25280,7 +25280,7 @@
       "version": "1.18.0",
       "label": "Text 306",
       "config": {
-        "text": "<p style=\"text-align: left;\">&nbsp;&nbsp;&nbsp;&nbsp;<strong style=\"font-size: 18px;\"><exp data-uniqueid=\"2768b54a_1491_a19d_abb4_1de88abe8786\" data-dsid=\"dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Site}﻿</span>﻿</exp></strong><span style=\"font-size: 18px;\">&nbsp;<exp data-uniqueid=\"9ff869e8_027b_47df_d063_a28e08cf91da\" data-dsid=\"dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿</span>﻿</exp></span></p>",
+        "text": "<p style=\"text-align: left;\">&nbsp;&nbsp;&nbsp;<span style=\"font-size: 18px;\">&nbsp;<exp data-uniqueid=\"9ff869e8_027b_47df_d063_a28e08cf91da\" data-dsid=\"dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></span>&nbsp;<strong style=\"font-size: 18px;\"><exp data-uniqueid=\"307acc28_fafd_a4db_4c7b_edda6edc2504\" data-dsid=\"dataSource_14-48-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_14-48-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿{Site}﻿﻿﻿</span>﻿</exp></strong>&nbsp;</p>",
         "style": {
           "verticalAlign": "start",
           "wrap": false,
@@ -25291,9 +25291,9 @@
       "id": "widget_1373",
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-          "mainDataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
-          "rootDataSourceId": "dataSource_15",
+          "dataSourceId": "dataSource_14-48-dataView_1",
+          "mainDataSourceId": "dataSource_14-48",
+          "rootDataSourceId": "dataSource_14",
           "dataViewId": "dataView_1",
           "fields": [
             "Site"
@@ -25307,7 +25307,7 @@
       "version": "1.18.0",
       "label": "Text 307",
       "config": {
-        "text": "<p style=\"text-align: right;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 18px;\"><exp data-uniqueid=\"146f74cf_070d_d842_3fa1_4116eb578bcf\" data-dsid=\"dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BStatus%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BStatus%7D%22%2C%22dataSourceId%22%3A%22dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1%22%2C%22jimuFieldName%22%3A%22Status%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Status}﻿</span>﻿</exp></span>&nbsp;</p>",
+        "text": "<p style=\"text-align: right;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong style=\"font-size: 18px;\"><exp data-uniqueid=\"5f057a85_58bc_2a09_429e_58a58bd48ac3\" data-dsid=\"dataSource_14-48-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BStatus%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BStatus%7D%22%2C%22dataSourceId%22%3A%22dataSource_14-48-dataView_1%22%2C%22jimuFieldName%22%3A%22Status%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Status}﻿</span>﻿</exp></strong>&nbsp;</p>",
         "style": {
           "wrap": true
         }
@@ -25315,9 +25315,9 @@
       "id": "widget_1374",
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-          "mainDataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
-          "rootDataSourceId": "dataSource_15",
+          "dataSourceId": "dataSource_14-48-dataView_1",
+          "mainDataSourceId": "dataSource_14-48",
+          "rootDataSourceId": "dataSource_14",
           "dataViewId": "dataView_1",
           "fields": [
             "Status"
@@ -25558,7 +25558,7 @@
           "canNavigation": true,
           "canBaseMap": false,
           "canScaleBar": true,
-          "canLayers": true,
+          "canLayers": false,
           "canCompass": true
         },
         "isUseCustomMapState": true,
@@ -25590,7 +25590,7 @@
           "viewType": "2d"
         },
         "scaleRange": null,
-        "disablePopUp": false,
+        "disablePopUp": true,
         "showPopupUponSelection": false,
         "popupDockPosition": "",
         "layoutIndex": 1
@@ -26484,8 +26484,12 @@
               "groupByFieldsForStatistics": [
                 "DATE"
               ],
-              "outFields": [
-                "LAB_DEN__g_cm3_"
+              "outStatistics": [
+                {
+                  "statisticType": "avg",
+                  "onStatisticField": "LAB_DEN__g_cm3_",
+                  "outStatisticFieldName": "avg_of_LAB_DEN__g_cm3_"
+                }
               ]
             }
           },
@@ -26498,11 +26502,11 @@
               "id": "LAB_DEN__g_cm3_",
               "name": "LAB-DEN_(g/cm3)",
               "x": "DATE",
-              "y": "LAB_DEN__g_cm3_",
+              "y": "avg_of_LAB_DEN__g_cm3_",
               "lineSymbol": {
                 "type": "esriSLS",
                 "style": "esriSLSSolid",
-                "color": "rgba(33,37,41,0)",
+                "color": "#282828",
                 "width": 2
               },
               "dataLabels": {
@@ -26530,11 +26534,11 @@
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
                 "color": "#ee994a",
-                "size": 7,
+                "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "var(--primary-700)",
+                  "color": "#ee994a",
                   "width": 2
                 }
               },
@@ -26659,8 +26663,7 @@
                 "width": 0
               },
               "minimum": 1,
-              "maximum": 1.3,
-              "integerOnlyValues": false
+              "maximum": 1.3
             }
           ],
           "background": "var(--secondary-300)",
@@ -26756,8 +26759,7 @@
           "dataViewId": "selection",
           "fields": [
             "DATE",
-            "LAB_DEN__g_cm3_",
-            "LK_ELEV__feet_"
+            "LAB_DEN__g_cm3_"
           ]
         }
       ],
@@ -33787,9 +33789,9 @@
       },
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-          "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-          "rootDataSourceId": "dataSource_12",
+          "dataSourceId": "dataSource_14-48-dataView_1",
+          "mainDataSourceId": "dataSource_14-48",
+          "rootDataSourceId": "dataSource_14",
           "dataViewId": "dataView_1",
           "fields": []
         }
@@ -33805,7 +33807,7 @@
       "version": "1.18.0",
       "label": "Text 330",
       "config": {
-        "text": "<p style=\"text-align: left;\">&nbsp;<span style=\"font-size: 18px;\"><exp data-uniqueid=\"1c785fce_bb7f_5eff_95d6_f1e8c7e3df9c\" data-dsid=\"dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">{Site}</span>﻿</exp></span>&nbsp;</p>",
+        "text": "<p style=\"text-align: left;\">&nbsp;&nbsp;<strong style=\"font-size: 18px;\"><exp data-uniqueid=\"91e358b1_7174_ee79_698d_c646c4842ffc\" data-dsid=\"dataSource_14-48-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_14-48-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{Site}﻿﻿</span>﻿</exp></strong>&nbsp;</p>",
         "style": {
           "verticalAlign": "start",
           "wrap": false,
@@ -33816,9 +33818,9 @@
       "id": "widget_1468",
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-          "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-          "rootDataSourceId": "dataSource_12",
+          "dataSourceId": "dataSource_14-48-dataView_1",
+          "mainDataSourceId": "dataSource_14-48",
+          "rootDataSourceId": "dataSource_14",
           "dataViewId": "dataView_1",
           "fields": [
             "Site"
@@ -33832,7 +33834,7 @@
       "version": "1.18.0",
       "label": "Text 331",
       "config": {
-        "text": "<p style=\"text-align: right;\">&nbsp;<span style=\"font-size: 18px;\"><exp data-uniqueid=\"c39d2481_807e_0ec1_3e8e_2abb608aa618\" data-dsid=\"dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BStatus%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BStatus%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1%22%2C%22jimuFieldName%22%3A%22Status%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Status}﻿</span>﻿</exp></span>&nbsp;</p>",
+        "text": "<p style=\"text-align: right;\">&nbsp;&nbsp;<strong style=\"font-size: 18px;\"><exp data-uniqueid=\"c517781a_e036_d7f5_83a1_cd5ab24904b0\" data-dsid=\"dataSource_14-48-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BStatus%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BStatus%7D%22%2C%22dataSourceId%22%3A%22dataSource_14-48-dataView_1%22%2C%22jimuFieldName%22%3A%22Status%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Status}﻿</span>﻿</exp></strong>&nbsp;</p>",
         "style": {
           "wrap": true
         }
@@ -33840,9 +33842,9 @@
       "id": "widget_1469",
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-          "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-          "rootDataSourceId": "dataSource_12",
+          "dataSourceId": "dataSource_14-48-dataView_1",
+          "mainDataSourceId": "dataSource_14-48",
+          "rootDataSourceId": "dataSource_14",
           "dataViewId": "dataView_1",
           "fields": [
             "Status"
@@ -33915,9 +33917,9 @@
       "id": "widget_1470",
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-          "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-          "rootDataSourceId": "dataSource_12",
+          "dataSourceId": "dataSource_14-48-dataView_1",
+          "mainDataSourceId": "dataSource_14-48",
+          "rootDataSourceId": "dataSource_14",
           "dataViewId": "dataView_1",
           "fields": []
         }
@@ -37944,9 +37946,9 @@
       },
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-          "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-          "rootDataSourceId": "dataSource_12",
+          "dataSourceId": "dataSource_14-48-dataView_1",
+          "mainDataSourceId": "dataSource_14-48",
+          "rootDataSourceId": "dataSource_14",
           "dataViewId": "dataView_1",
           "fields": []
         }
@@ -37959,7 +37961,7 @@
       "version": "1.18.0",
       "label": "Text 344",
       "config": {
-        "text": "<p style=\"line-height: 1;\"><strong style=\"font-size: 16px; color: var(--dark-800);\">﻿</strong><span style=\"font-size: 18px;\"><exp data-uniqueid=\"c7515cce_cc42_b10b_8bbe_3af118a9a015\" data-dsid=\"dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Site}﻿</span>﻿</exp></span>&nbsp;</p>",
+        "text": "<p style=\"line-height: 1;\"><strong style=\"color: var(--dark-800); font-size: 16px;\">﻿</strong>&nbsp;<strong style=\"font-size: 18px;\"><exp data-uniqueid=\"1e5e9c6a_a2d3_f6ce_8e03_3f73fbbb72c0\" data-dsid=\"dataSource_14-48-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_14-48-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{Site}﻿﻿</span>﻿</exp></strong>&nbsp;</p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -37970,9 +37972,9 @@
       "id": "widget_1513",
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-          "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-          "rootDataSourceId": "dataSource_12",
+          "dataSourceId": "dataSource_14-48-dataView_1",
+          "mainDataSourceId": "dataSource_14-48",
+          "rootDataSourceId": "dataSource_14",
           "dataViewId": "dataView_1",
           "fields": [
             "Site"
@@ -37986,7 +37988,7 @@
       "version": "1.18.0",
       "label": "Text 345",
       "config": {
-        "text": "<p style=\"line-height: 1.5;\"><span style=\"color: var(--dark-800); font-size: 12px;\">﻿</span><exp data-uniqueid=\"b58901e6_ee91_d538_e743_714ce8c8eee2\" data-dsid=\"dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BStatus%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BStatus%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1%22%2C%22jimuFieldName%22%3A%22Status%22%7D%5D%7D\">﻿<span contenteditable=\"false\">{Status}</span>﻿</exp>&nbsp;&nbsp;</p>",
+        "text": "<p style=\"line-height: 1.5;\"><span style=\"color: var(--dark-800); font-size: 12px;\">﻿</span><exp data-uniqueid=\"eb6024f3_8c4e_452e_49bc_198f45b0df5b\" data-dsid=\"dataSource_14-48-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BStatus%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BStatus%7D%22%2C%22dataSourceId%22%3A%22dataSource_14-48-dataView_1%22%2C%22jimuFieldName%22%3A%22Status%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Status}﻿</span>﻿</exp>&nbsp;</p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -37997,9 +37999,9 @@
       "id": "widget_1514",
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-          "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-          "rootDataSourceId": "dataSource_12",
+          "dataSourceId": "dataSource_14-48-dataView_1",
+          "mainDataSourceId": "dataSource_14-48",
+          "rootDataSourceId": "dataSource_14",
           "dataViewId": "dataView_1",
           "fields": [
             "Status"
@@ -38078,9 +38080,9 @@
       "id": "widget_1515",
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-          "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-          "rootDataSourceId": "dataSource_12",
+          "dataSourceId": "dataSource_14-48-dataView_1",
+          "mainDataSourceId": "dataSource_14-48",
+          "rootDataSourceId": "dataSource_14",
           "dataViewId": "dataView_1",
           "fields": []
         }
@@ -39954,7 +39956,7 @@
     },
     "widget_1548": {
       "uri": "widgets/arcgis/basemap-gallery/",
-      "version": "1.17.0",
+      "version": "1.18.0",
       "label": "Basemap Gallery",
       "config": {
         "basemapsType": "CUSTOM",
@@ -40059,7 +40061,7 @@
     },
     "widget_1554": {
       "uri": "widgets/arcgis/basemap-gallery/",
-      "version": "1.17.0",
+      "version": "1.18.0",
       "label": "Basemap Gallery",
       "config": {
         "basemapsType": "CUSTOM",
@@ -40292,7 +40294,7 @@
     },
     "widget_1573": {
       "uri": "widgets/arcgis/basemap-gallery/",
-      "version": "1.17.0",
+      "version": "1.18.0",
       "label": "Basemap Gallery 2",
       "config": {
         "basemapsType": "CUSTOM",
@@ -42656,8 +42658,8 @@
           "description": null,
           "config": {
             "messageUseDataSource": {
-              "dataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
-              "mainDataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
+              "dataSourceId": "dataSource_15-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "mainDataSourceId": "dataSource_15-198a51cae11-layer-76-198a51cb18a-layer-114",
               "rootDataSourceId": "dataSource_15",
               "fields": [
                 "Site"
@@ -42678,8 +42680,8 @@
           "version": "1.18.0",
           "useDataSources": [
             {
-              "dataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
-              "mainDataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
+              "dataSourceId": "dataSource_15-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "mainDataSourceId": "dataSource_15-198a51cae11-layer-76-198a51cb18a-layer-114",
               "rootDataSourceId": "dataSource_15",
               "fields": [
                 "Site"
@@ -42709,10 +42711,10 @@
           "description": null,
           "config": {
             "messageUseDataSource": {
-              "dataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-              "mainDataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
+              "dataSourceId": "dataSource_14-48-dataView_1",
+              "mainDataSourceId": "dataSource_14-48",
               "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_15",
+              "rootDataSourceId": "dataSource_14",
               "fields": [
                 "Site"
               ]
@@ -42732,10 +42734,10 @@
           "version": "1.17.0",
           "useDataSources": [
             {
-              "dataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-              "mainDataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
+              "dataSourceId": "dataSource_14-48-dataView_1",
+              "mainDataSourceId": "dataSource_14-48",
               "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_15",
+              "rootDataSourceId": "dataSource_14",
               "fields": [
                 "Site"
               ]
@@ -42751,36 +42753,58 @@
           ]
         },
         {
-          "actionId": "widget_1382-flash-1749162070677",
+          "actionId": "widget_1382-flash-1755121407183",
           "widgetId": "widget_1382",
+          "sectionId": null,
           "messageWidgetId": "widget_1372",
           "actionName": "flash",
           "description": null,
           "config": {
-            "useAnyTriggerData": true,
+            "useAnyTriggerData": false,
             "messageUseDataSource": {
-              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+              "dataSourceId": "dataSource_14-48-dataView_1",
+              "mainDataSourceId": "dataSource_14-48",
               "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_12"
+              "rootDataSourceId": "dataSource_14",
+              "fields": [
+                "Site"
+              ]
             },
-            "actionUseDataSource": null,
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_15-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "mainDataSourceId": "dataSource_15-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "rootDataSourceId": "dataSource_15",
+              "fields": [
+                "Site"
+              ]
+            },
             "sqlExprObj": null,
             "enabledDataRelationShip": true,
             "connectionType": "SET_CUSTOM_FIELDS"
           },
-          "version": "1.17.0",
+          "version": "1.18.0",
           "useDataSources": [
             {
-              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+              "dataSourceId": "dataSource_14-48-dataView_1",
+              "mainDataSourceId": "dataSource_14-48",
               "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_12"
+              "rootDataSourceId": "dataSource_14",
+              "fields": [
+                "Site"
+              ]
+            },
+            {
+              "dataSourceId": "dataSource_15-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "mainDataSourceId": "dataSource_15-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "rootDataSourceId": "dataSource_15",
+              "fields": [
+                "Site"
+              ]
             }
           ]
         },
         {
-          "actionId": "widget_1382-panTo-1751484719336",
+          "actionId": "widget_1382-panTo-1755121440674",
           "widgetId": "widget_1382",
           "sectionId": null,
           "messageWidgetId": "widget_1372",
@@ -42788,28 +42812,28 @@
           "description": null,
           "config": {
             "useDataSource": {
-              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-              "rootDataSourceId": "dataSource_12",
+              "dataSourceId": "dataSource_14-48-dataView_1",
+              "mainDataSourceId": "dataSource_14-48",
+              "rootDataSourceId": "dataSource_14",
               "dataViewId": "dataView_1"
             },
             "useDataSources": [
               {
-                "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-                "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-                "rootDataSourceId": "dataSource_12",
+                "dataSourceId": "dataSource_14-48-dataView_1",
+                "mainDataSourceId": "dataSource_14-48",
+                "rootDataSourceId": "dataSource_14",
                 "dataViewId": "dataView_1"
               }
             ],
             "goToInitialMapExtentWhenSelectionCleared": true,
-            "useAnyTriggerData": true
+            "useAnyTriggerData": false
           },
           "version": "1.18.0",
           "useDataSources": [
             {
-              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-              "rootDataSourceId": "dataSource_12",
+              "dataSourceId": "dataSource_14-48-dataView_1",
+              "mainDataSourceId": "dataSource_14-48",
+              "rootDataSourceId": "dataSource_14",
               "dataViewId": "dataView_1"
             }
           ]
@@ -42828,8 +42852,8 @@
           "description": null,
           "config": {
             "messageUseDataSource": {
-              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+              "dataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "mainDataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
               "rootDataSourceId": "dataSource_12",
               "fields": [
                 "Site"
@@ -42850,8 +42874,8 @@
           "version": "1.17.0",
           "useDataSources": [
             {
-              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+              "dataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "mainDataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
               "rootDataSourceId": "dataSource_12",
               "fields": [
                 "Site"
@@ -42904,15 +42928,6 @@
           "version": "1.17.0",
           "useDataSources": [
             {
-              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-              "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_12",
-              "fields": [
-                "Site"
-              ]
-            },
-            {
               "dataSourceId": "dataSource_12-1977fb8f4bc-layer-104",
               "mainDataSourceId": "dataSource_12-1977fb8f4bc-layer-104",
               "rootDataSourceId": "dataSource_12",
@@ -42929,13 +42944,24 @@
           "actionName": "flash",
           "description": null,
           "config": {
-            "useAnyTriggerData": true,
+            "useAnyTriggerData": false,
             "messageUseDataSource": {
-              "dataSourceId": "dataSource_12-22d06255a91c4634aa1a8c31e85b5c47",
-              "mainDataSourceId": "dataSource_12-22d06255a91c4634aa1a8c31e85b5c47",
-              "rootDataSourceId": "dataSource_12"
+              "dataSourceId": "dataSource_14-48-dataView_1",
+              "mainDataSourceId": "dataSource_14-48",
+              "dataViewId": "dataView_1",
+              "rootDataSourceId": "dataSource_14",
+              "fields": [
+                "Site"
+              ]
             },
-            "actionUseDataSource": null,
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "mainDataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "rootDataSourceId": "dataSource_12",
+              "fields": [
+                "Site"
+              ]
+            },
             "sqlExprObj": null,
             "enabledDataRelationShip": true,
             "connectionType": "SET_CUSTOM_FIELDS"
@@ -42943,9 +42969,21 @@
           "version": "1.17.0",
           "useDataSources": [
             {
-              "dataSourceId": "dataSource_12-22d06255a91c4634aa1a8c31e85b5c47",
-              "mainDataSourceId": "dataSource_12-22d06255a91c4634aa1a8c31e85b5c47",
-              "rootDataSourceId": "dataSource_12"
+              "dataSourceId": "dataSource_14-48-dataView_1",
+              "mainDataSourceId": "dataSource_14-48",
+              "dataViewId": "dataView_1",
+              "rootDataSourceId": "dataSource_14",
+              "fields": [
+                "Site"
+              ]
+            },
+            {
+              "dataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "mainDataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "rootDataSourceId": "dataSource_12",
+              "fields": [
+                "Site"
+              ]
             }
           ]
         },
@@ -42957,28 +42995,35 @@
           "description": null,
           "config": {
             "useDataSource": {
-              "dataSourceId": "dataSource_12-22d06255a91c4634aa1a8c31e85b5c47-dataView_1",
-              "mainDataSourceId": "dataSource_12-22d06255a91c4634aa1a8c31e85b5c47",
-              "rootDataSourceId": "dataSource_12",
-              "dataViewId": "dataView_1"
+              "dataSourceId": "dataSource_14-48-dataView_1",
+              "mainDataSourceId": "dataSource_14-48",
+              "dataViewId": "dataView_1",
+              "rootDataSourceId": "dataSource_14"
             },
             "useDataSources": [
               {
-                "dataSourceId": "dataSource_12-22d06255a91c4634aa1a8c31e85b5c47-dataView_1",
-                "mainDataSourceId": "dataSource_12-22d06255a91c4634aa1a8c31e85b5c47",
-                "rootDataSourceId": "dataSource_12",
-                "dataViewId": "dataView_1"
+                "dataSourceId": "dataSource_14-48-dataView_1",
+                "mainDataSourceId": "dataSource_14-48",
+                "dataViewId": "dataView_1",
+                "rootDataSourceId": "dataSource_14"
               }
             ],
-            "goToInitialMapExtentWhenSelectionCleared": false,
-            "useAnyTriggerData": true,
+            "goToInitialMapExtentWhenSelectionCleared": true,
+            "useAnyTriggerData": false,
             "isUseCustomZoomToOption": true,
             "zoomToOption": {
               "scale": 500000
             }
           },
           "version": "1.17.0",
-          "useDataSources": []
+          "useDataSources": [
+            {
+              "dataSourceId": "dataSource_14-48-dataView_1",
+              "mainDataSourceId": "dataSource_14-48",
+              "dataViewId": "dataView_1",
+              "rootDataSourceId": "dataSource_14"
+            }
+          ]
         },
         {
           "actionId": "widget_1462-panTo-1751484571824",
@@ -42989,29 +43034,29 @@
           "description": null,
           "config": {
             "useDataSource": {
-              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-              "rootDataSourceId": "dataSource_12",
-              "dataViewId": "dataView_1"
+              "dataSourceId": "dataSource_14-48-dataView_1",
+              "mainDataSourceId": "dataSource_14-48",
+              "dataViewId": "dataView_1",
+              "rootDataSourceId": "dataSource_14"
             },
             "useDataSources": [
               {
-                "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-                "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-                "rootDataSourceId": "dataSource_12",
-                "dataViewId": "dataView_1"
+                "dataSourceId": "dataSource_14-48-dataView_1",
+                "mainDataSourceId": "dataSource_14-48",
+                "dataViewId": "dataView_1",
+                "rootDataSourceId": "dataSource_14"
               }
             ],
             "goToInitialMapExtentWhenSelectionCleared": true,
-            "useAnyTriggerData": true
+            "useAnyTriggerData": false
           },
           "version": "1.18.0",
           "useDataSources": [
             {
-              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
-              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-              "rootDataSourceId": "dataSource_12",
-              "dataViewId": "dataView_1"
+              "dataSourceId": "dataSource_14-48-dataView_1",
+              "mainDataSourceId": "dataSource_14-48",
+              "dataViewId": "dataView_1",
+              "rootDataSourceId": "dataSource_14"
             }
           ]
         }
@@ -43074,8 +43119,8 @@
           "description": null,
           "config": {
             "messageUseDataSource": {
-              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+              "dataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "mainDataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
               "rootDataSourceId": "dataSource_12",
               "fields": [
                 "Site"
@@ -43096,8 +43141,8 @@
           "version": "1.17.0",
           "useDataSources": [
             {
-              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+              "dataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "mainDataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
               "rootDataSourceId": "dataSource_12",
               "fields": [
                 "Site"
@@ -43127,20 +43172,48 @@
           "actionName": "flash",
           "description": null,
           "config": {
-            "useAnyTriggerData": true,
+            "useAnyTriggerData": false,
             "messageUseDataSource": {
-              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-108-dataView_1",
-              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-108",
+              "dataSourceId": "dataSource_14-48-dataView_1",
+              "mainDataSourceId": "dataSource_14-48",
               "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_12"
+              "rootDataSourceId": "dataSource_14",
+              "fields": [
+                "Site"
+              ]
             },
-            "actionUseDataSource": null,
+            "actionUseDataSource": {
+              "dataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "mainDataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "rootDataSourceId": "dataSource_12",
+              "fields": [
+                "Site"
+              ]
+            },
             "sqlExprObj": null,
             "enabledDataRelationShip": true,
             "connectionType": "SET_CUSTOM_FIELDS"
           },
           "version": "1.17.0",
-          "useDataSources": []
+          "useDataSources": [
+            {
+              "dataSourceId": "dataSource_14-48-dataView_1",
+              "mainDataSourceId": "dataSource_14-48",
+              "dataViewId": "dataView_1",
+              "rootDataSourceId": "dataSource_14",
+              "fields": [
+                "Site"
+              ]
+            },
+            {
+              "dataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "mainDataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "rootDataSourceId": "dataSource_12",
+              "fields": [
+                "Site"
+              ]
+            }
+          ]
         },
         {
           "actionId": "widget_1571-zoomToFeature-1749575082808",
@@ -43494,17 +43567,7 @@
           "id": "dataSource_12-196d6000d40-layer-97",
           "type": "GROUP_LAYER",
           "sourceLabel": "GSL Map 4_14_25_WFL1",
-          "childDataSourceJsons": {
-            "196d600117c-layer-133": {
-              "id": "dataSource_12-196d6000d40-layer-97-196d600117c-layer-133",
-              "type": "FEATURE_LAYER",
-              "sourceLabel": "GSL4200Poly Merge",
-              "portalUrl": "https://www.arcgis.com",
-              "itemId": "0c10f97d7db94fa78d86df2d9bec999c",
-              "layerId": "47",
-              "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_Map_4_14_25_WFL1/FeatureServer/47"
-            }
-          },
+          "childDataSourceJsons": {},
           "label": "GSL Map 4_14_25_WFL1"
         },
         "196d600117d-layer-137": {
@@ -43635,36 +43698,6 @@
           "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_causeway/FeatureServer/0",
           "label": "Causeway"
         },
-        "1977fd74288-layer-105": {
-          "id": "dataSource_12-1977fd74288-layer-105",
-          "type": "GROUP_LAYER",
-          "sourceLabel": "GSL 61725",
-          "childDataSourceJsons": {
-            "1977fd74403-layer-107": {
-              "id": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
-              "type": "FEATURE_LAYER",
-              "sourceLabel": "Brine chem data sample locations 4 3 25",
-              "portalUrl": "https://www.arcgis.com",
-              "itemId": "a426e888994c402895196707d9ae96bb",
-              "layerId": "48",
-              "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_61725/FeatureServer/48",
-              "dataViews": {
-                "dataView_1": {
-                  "id": "dataView_1",
-                  "label": "Data view 1",
-                  "orderBy": [
-                    {
-                      "jimuFieldName": "Status",
-                      "order": "ASC"
-                    }
-                  ]
-                }
-              }
-            }
-          },
-          "label": "GSL 61725",
-          "isHidden": false
-        },
         "1977fd74404-layer-111": {
           "id": "dataSource_12-1977fd74404-layer-111",
           "type": "FEATURE_LAYER",
@@ -43706,6 +43739,209 @@
           "itemId": "a426e888994c402895196707d9ae96bb",
           "layerId": "51",
           "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_61725/FeatureServer/51"
+        },
+        "1977fd74403-layer-107": {
+          "id": "dataSource_12-1977fd74403-layer-107",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "Brine Chemistry Sample Locations",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "a426e888994c402895196707d9ae96bb",
+          "layerId": "48",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_61725/FeatureServer/48",
+          "dataViews": {
+            "dataView_1": {
+              "id": "dataView_1",
+              "label": "Data view 1",
+              "orderBy": [
+                {
+                  "jimuFieldName": "Status",
+                  "order": "ASC"
+                }
+              ]
+            }
+          }
+        },
+        "198a51cae11-layer-76": {
+          "id": "dataSource_12-198a51cae11-layer-76",
+          "type": "GROUP_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25",
+          "childDataSourceJsons": {
+            "198a51cb18a-layer-114": {
+              "id": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "Brine chem data sample locations 4 3 25",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "69429d48cc234209a071993211d2825a",
+              "layerId": "48",
+              "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/48",
+              "dataViews": {
+                "dataView_1": {
+                  "id": "dataView_1",
+                  "label": "Data view 1",
+                  "orderBy": [
+                    {
+                      "jimuFieldName": "Status",
+                      "order": "ASC"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "isHidden": false
+        },
+        "196d600117c-layer-133": {
+          "id": "dataSource_12-196d600117c-layer-133",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "Contours",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "0c10f97d7db94fa78d86df2d9bec999c",
+          "layerId": "47",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_Map_4_14_25_WFL1/FeatureServer/47"
+        },
+        "198a51cb18c-layer-122": {
+          "id": "dataSource_12-198a51cb18c-layer-122",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - AS2 ",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "3",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/3"
+        },
+        "198a51cb18c-layer-121": {
+          "id": "dataSource_12-198a51cb18c-layer-121",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data test",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "4",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/4"
+        },
+        "198a51cb18c-layer-120": {
+          "id": "dataSource_12-198a51cb18c-layer-120",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - AS2 ",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "5",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/5"
+        },
+        "198a51cb18a-layer-119": {
+          "id": "dataSource_12-198a51cb18a-layer-119",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine-chem-data-4-3-25.csv",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "49",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/49"
+        },
+        "198a51cb18a-layer-118": {
+          "id": "dataSource_12-198a51cb18a-layer-118",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine-chem-data-4-14-25.csv",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "53",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/53"
+        },
+        "198a51cb18a-layer-117": {
+          "id": "dataSource_12-198a51cb18a-layer-117",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 14 25",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "54",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/54"
+        },
+        "198a51cb18a-layer-116": {
+          "id": "dataSource_12-198a51cb18a-layer-116",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 14 25",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "55",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/55"
+        },
+        "198a51cb18a-layer-115": {
+          "id": "dataSource_12-198a51cb18a-layer-115",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 3 25 csv",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "56",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/56"
+        },
+        "198a51184a1-layer-75": {
+          "id": "dataSource_12-198a51184a1-layer-75",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - AS2 ",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "3",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/3"
+        },
+        "198a51184a1-layer-74": {
+          "id": "dataSource_12-198a51184a1-layer-74",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data test",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "4",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/4"
+        },
+        "198a51184a1-layer-73": {
+          "id": "dataSource_12-198a51184a1-layer-73",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - AS2 ",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "5",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/5"
+        },
+        "198a51184a1-layer-72": {
+          "id": "dataSource_12-198a51184a1-layer-72",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine-chem-data-4-3-25.csv",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "49",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/49"
+        },
+        "198a51184a0-layer-71": {
+          "id": "dataSource_12-198a51184a0-layer-71",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine-chem-data-4-14-25.csv",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "53",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/53"
+        },
+        "198a51184a0-layer-70": {
+          "id": "dataSource_12-198a51184a0-layer-70",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 14 25",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "54",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/54"
+        },
+        "198a51184a0-layer-69": {
+          "id": "dataSource_12-198a51184a0-layer-69",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 14 25",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "55",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/55"
+        },
+        "198a51184a0-layer-68": {
+          "id": "dataSource_12-198a51184a0-layer-68",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 3 25 csv",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "56",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/56"
         }
       },
       "isHidden": false
@@ -44210,35 +44446,6 @@
       "itemId": "d49c020616a24528924490dec5ac1c2a",
       "portalUrl": "https://utahDNR.maps.arcgis.com",
       "childDataSourceJsons": {
-        "1977fd74288-layer-105": {
-          "id": "dataSource_15-1977fd74288-layer-105",
-          "type": "GROUP_LAYER",
-          "sourceLabel": "Brine Chemistry Locations",
-          "childDataSourceJsons": {
-            "1977fd74403-layer-107": {
-              "id": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
-              "type": "FEATURE_LAYER",
-              "sourceLabel": "Brine chem data sample locations 4 3 25",
-              "portalUrl": "https://www.arcgis.com",
-              "itemId": "a426e888994c402895196707d9ae96bb",
-              "layerId": "48",
-              "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_61725/FeatureServer/48",
-              "dataViews": {
-                "dataView_1": {
-                  "id": "dataView_1",
-                  "label": "Data view 1",
-                  "orderBy": [
-                    {
-                      "jimuFieldName": "Status",
-                      "order": "ASC"
-                    }
-                  ]
-                }
-              }
-            }
-          },
-          "isHidden": false
-        },
         "1973c3107e2-layer-99": {
           "id": "dataSource_15-1973c3107e2-layer-99",
           "type": "FEATURE_LAYER",
@@ -44261,17 +44468,7 @@
           "id": "dataSource_15-196d6000d40-layer-97",
           "type": "GROUP_LAYER",
           "sourceLabel": "Water Level Contours",
-          "childDataSourceJsons": {
-            "196d600117c-layer-133": {
-              "id": "dataSource_15-196d6000d40-layer-97-196d600117c-layer-133",
-              "type": "FEATURE_LAYER",
-              "sourceLabel": "Contours",
-              "portalUrl": "https://www.arcgis.com",
-              "itemId": "0c10f97d7db94fa78d86df2d9bec999c",
-              "layerId": "47",
-              "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_Map_4_14_25_WFL1/FeatureServer/47"
-            }
-          }
+          "childDataSourceJsons": {}
         },
         "1977fd74404-layer-111": {
           "id": "dataSource_15-1977fd74404-layer-111",
@@ -44461,6 +44658,196 @@
           "itemId": "0c10f97d7db94fa78d86df2d9bec999c",
           "layerId": "3",
           "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_Map_4_14_25_WFL1/FeatureServer/3"
+        },
+        "1977fd74403-layer-107": {
+          "id": "dataSource_15-1977fd74403-layer-107",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "Brine Chemistry Sample Locations",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "a426e888994c402895196707d9ae96bb",
+          "layerId": "48",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_61725/FeatureServer/48",
+          "dataViews": {
+            "dataView_1": {
+              "id": "dataView_1",
+              "label": "Data view 1",
+              "orderBy": [
+                {
+                  "jimuFieldName": "Status",
+                  "order": "ASC"
+                }
+              ]
+            }
+          }
+        },
+        "198a51cae11-layer-76": {
+          "id": "dataSource_15-198a51cae11-layer-76",
+          "type": "GROUP_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25",
+          "childDataSourceJsons": {
+            "198a51cb18a-layer-114": {
+              "id": "dataSource_15-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "Brine chem data sample locations 4 3 25",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "69429d48cc234209a071993211d2825a",
+              "layerId": "48",
+              "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/48"
+            }
+          }
+        },
+        "196d600117c-layer-133": {
+          "id": "dataSource_15-196d600117c-layer-133",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "Contours",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "0c10f97d7db94fa78d86df2d9bec999c",
+          "layerId": "47",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_Map_4_14_25_WFL1/FeatureServer/47"
+        },
+        "198a51cb18c-layer-122": {
+          "id": "dataSource_15-198a51cb18c-layer-122",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - AS2 ",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "3",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/3"
+        },
+        "198a51cb18c-layer-121": {
+          "id": "dataSource_15-198a51cb18c-layer-121",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data test",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "4",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/4"
+        },
+        "198a51cb18c-layer-120": {
+          "id": "dataSource_15-198a51cb18c-layer-120",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - AS2 ",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "5",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/5"
+        },
+        "198a51cb18a-layer-119": {
+          "id": "dataSource_15-198a51cb18a-layer-119",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine-chem-data-4-3-25.csv",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "49",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/49"
+        },
+        "198a51cb18a-layer-118": {
+          "id": "dataSource_15-198a51cb18a-layer-118",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine-chem-data-4-14-25.csv",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "53",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/53"
+        },
+        "198a51cb18a-layer-117": {
+          "id": "dataSource_15-198a51cb18a-layer-117",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 14 25",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "54",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/54"
+        },
+        "198a51cb18a-layer-116": {
+          "id": "dataSource_15-198a51cb18a-layer-116",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 14 25",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "55",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/55"
+        },
+        "198a51cb18a-layer-115": {
+          "id": "dataSource_15-198a51cb18a-layer-115",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 3 25 csv",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "56",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/56"
+        },
+        "198a51184a1-layer-75": {
+          "id": "dataSource_15-198a51184a1-layer-75",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - AS2 ",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "3",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/3"
+        },
+        "198a51184a1-layer-74": {
+          "id": "dataSource_15-198a51184a1-layer-74",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data test",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "4",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/4"
+        },
+        "198a51184a1-layer-73": {
+          "id": "dataSource_15-198a51184a1-layer-73",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - AS2 ",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "5",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/5"
+        },
+        "198a51184a1-layer-72": {
+          "id": "dataSource_15-198a51184a1-layer-72",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine-chem-data-4-3-25.csv",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "49",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/49"
+        },
+        "198a51184a0-layer-71": {
+          "id": "dataSource_15-198a51184a0-layer-71",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine-chem-data-4-14-25.csv",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "53",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/53"
+        },
+        "198a51184a0-layer-70": {
+          "id": "dataSource_15-198a51184a0-layer-70",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 14 25",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "54",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/54"
+        },
+        "198a51184a0-layer-69": {
+          "id": "dataSource_15-198a51184a0-layer-69",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 14 25",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "55",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/55"
+        },
+        "198a51184a0-layer-68": {
+          "id": "dataSource_15-198a51184a0-layer-68",
+          "type": "FEATURE_LAYER",
+          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 3 25 csv",
+          "portalUrl": "https://www.arcgis.com",
+          "itemId": "69429d48cc234209a071993211d2825a",
+          "layerId": "56",
+          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/56"
         }
       },
       "isHidden": false
@@ -45456,7 +45843,11 @@
           "dataSourceId": "dataSource_12-1977fb8f4bc-layer-104-selection",
           "mainDataSourceId": "dataSource_12-1977fb8f4bc-layer-104",
           "rootDataSourceId": "dataSource_12",
-          "dataViewId": "selection"
+          "dataViewId": "selection",
+          "fields": [
+            "DATE",
+            "LAB_DEN__g_cm3_"
+          ]
         }
       ],
       "isOutputFromWidget": true,
@@ -45483,12 +45874,12 @@
               "DATE"
             ]
           },
-          "LAB_DEN__g_cm3_": {
-            "jimuName": "LAB_DEN__g_cm3_",
-            "name": "LAB_DEN__g_cm3_",
+          "avg_of_LAB_DEN__g_cm3_": {
+            "jimuName": "avg_of_LAB_DEN__g_cm3_",
+            "name": "avg_of_LAB_DEN__g_cm3_",
             "type": "NUMBER",
             "esriType": "esriFieldTypeDouble",
-            "alias": "LAB-DEN_(g/cm3)",
+            "alias": "Avg of LAB-DEN_(g/cm3)",
             "format": {
               "digitSeparator": false,
               "places": 6
@@ -46874,7 +47265,7 @@
     },
     "backgroundColor": "#000000"
   },
-  "timestamp": "1755024672274",
+  "timestamp": "1755177077119",
   "customTheme": {
     "colors": {
       "primary": "#ea7f1d",
@@ -46914,5 +47305,5 @@
       "LARGE": 75
     }
   },
-  "publishTimestamp": 1755037274685
+  "publishTimestamp": 1755177097267
 }
