@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "exb/ArcGISExperienceBuilder/app",
+    "public": "exb/app",
     "ignore": [
       "firebase.json",
       "**/.*",

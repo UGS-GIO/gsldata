@@ -10318,6 +10318,7 @@
       "label": "Text 10",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\">Utah Geological Survey</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -10725,6 +10726,7 @@
       "label": "Text 26",
       "config": {
         "text": "<p style=\"line-height: 1.3; text-align: left;\"><strong style=\"font-size: 15px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Great Salt Lake </strong></p><p style=\"line-height: 1.3; text-align: left;\"><strong style=\"font-size: 13px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Brine Density and Chemistry Hub</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true,
           "color": "#ffffff"
@@ -10738,6 +10740,7 @@
       "label": "Text 73",
       "config": {
         "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 15px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Great Salt Lake Brine Density and Chemistry Hub</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true,
           "color": "#ffffff"
@@ -10775,6 +10778,7 @@
       "label": "Text 93",
       "config": {
         "text": "<p style=\"text-align: left; line-height: 1;\"><strong style=\"background-color: transparent; color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;; font-size: 12px;\">Great Salt Lake Brine</strong></p><p style=\"text-align: left; line-height: 1;\"><strong style=\"background-color: transparent; color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;; font-size: 12px;\">Density and Chemistry Hub</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true,
           "color": "#ffffff"
@@ -10988,6 +10992,7 @@
       "label": "Text 100",
       "config": {
         "text": "<p style=\"text-align: left;\"><span style=\"font-size: 18px;\"> </span><strong style=\"font-size: 16px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"0b9a2b5f_2b6a_1beb_2402_05996934f523\" data-dsid=\"dataSource_11-1a4c7328bfa74a858a73ae8afc33516c-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-1a4c7328bfa74a858a73ae8afc33516c-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Site}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><span style=\"font-size: 18px;\">&nbsp;</span>&nbsp;</p>",
+        "placeholder": "<p><span style=\"font-size: 13px;color: var(--dark-800);\">Lorem ipsum dolor sit amet</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": false,
@@ -11015,6 +11020,7 @@
       "label": "Text 101",
       "config": {
         "text": "<p style=\"text-align: right;\">﻿<exp data-uniqueid=\"2915a191_68d7_375c_fdb4_5e13867ee3a8\" data-dsid=\"dataSource_11-1a4c7328bfa74a858a73ae8afc33516c-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BStatus%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BStatus%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-1a4c7328bfa74a858a73ae8afc33516c-dataView_1%22%2C%22jimuFieldName%22%3A%22Status%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">{Status}</span>﻿</exp>&nbsp;</p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -11039,6 +11045,7 @@
       "label": "Text 102",
       "config": {
         "text": "<p><strong style=\"font-size: 22px; font-family: &quot;Avenir Next&quot;;\">Density and Salinity</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -11097,6 +11104,7 @@
       "label": "Text 103",
       "config": {
         "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 18.2px;\">Great Salt Lake Brine Chemistry Database</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -11169,6 +11177,7 @@
       "label": "Text 104",
       "config": {
         "text": "<p><span style=\"font-size: 16px;\">The salinity level of Great Salt Lake (GSL) is quite dynamic due to natural lake level fluctuations and man-made barriers within the lake. At a number of sites throughout the lake, the UGS takes samples at various depths through the water column, measures those samples for density, and analyzes them for chemistry. This sampling program has largely been funded by the Utah Division of Forestry, Fire and State Lands.</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -11272,6 +11281,7 @@
       "label": "Text 105",
       "config": {
         "text": "<p><strong style=\"font-size: 15px;\">﻿Chart Data</strong></p><p>Use the depth and chemical filters below to view the data of interest. </p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -11284,6 +11294,7 @@
       "label": "Text 106",
       "config": {
         "text": "<p>﻿Select a depth</p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -12193,6 +12204,7 @@
       "label": "Text 107",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"ee05ab55_c1e6_24c4_88a7_5cdcea469b3d\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22Density%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22%C2%A0%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22%2B%22%7D%2C%7B%22type%22%3A%22STRING%22%2C%22exp%22%3A%22%5C%22%20Density%5C%22%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22%C2%A0%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿Density﻿</span>﻿</exp>&nbsp;g/cm3</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -12627,6 +12639,7 @@
       "label": "Text 108",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{SITE}﻿</span>﻿</exp>&nbsp;Density g/cm3</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -13079,6 +13092,7 @@
       "label": "Text 109",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{SITE}﻿﻿</span>﻿</exp>&nbsp;Na+ g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -13462,6 +13476,7 @@
       "label": "Text 110",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{SITE}﻿﻿</span>﻿</exp>&nbsp;Na+ g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -13865,6 +13880,7 @@
       "label": "Text 111",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿{SITE}﻿﻿﻿</span>﻿</exp>&nbsp;Mg g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -14397,6 +14413,7 @@
       "label": "Text 112",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿{SITE}﻿﻿﻿</span>﻿</exp>&nbsp;Mg g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -14700,6 +14717,7 @@
       "label": "Text 113",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿{SITE}﻿﻿﻿﻿</span>﻿</exp>&nbsp;K g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -15232,6 +15250,7 @@
       "label": "Text 114",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿{SITE}﻿﻿﻿﻿</span>﻿</exp> K g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -15635,6 +15654,7 @@
       "label": "Text 115",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿{SITE}﻿﻿﻿﻿﻿</span>﻿</exp>&nbsp;Ca g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -16067,6 +16087,7 @@
       "label": "Text 116",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿{SITE}﻿﻿﻿﻿﻿</span>﻿</exp>&nbsp;Ca g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -16370,6 +16391,7 @@
       "label": "Text 117",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿{SITE}﻿﻿﻿﻿﻿﻿</span>﻿</exp>&nbsp;Cl g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -16802,6 +16824,7 @@
       "label": "Text 118",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿{SITE}﻿﻿﻿﻿﻿﻿</span>﻿</exp>&nbsp;Cl g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -17205,6 +17228,7 @@
       "label": "Text 119",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿{SITE}﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp> SO4 g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -17637,6 +17661,7 @@
       "label": "Text 120",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿{SITE}﻿﻿﻿﻿﻿﻿</span>﻿</exp>&nbsp;SO4 g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -18040,6 +18065,7 @@
       "label": "Text 121",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿{SITE}﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp>&nbsp;Lab TDS g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -18472,6 +18498,7 @@
       "label": "Text 122",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿{SITE}﻿﻿﻿﻿﻿﻿</span>﻿</exp>&nbsp;Lab TDS g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -18798,6 +18825,7 @@
       "label": "Text 125",
       "config": {
         "text": "<p style=\"line-height: 1.38;\"><span style=\"font-size: 18px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">This heatmap shows monthly chemical conditions of active sampling sites at the Great Salt Lake. Use the slider or play button to view monthly changes.</span></p><p style=\"line-height: 1.38;\"><br></p><p style=\"line-height: 1.38;\"><strong style=\"font-size: 18px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Interpretation guide:</strong></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 18px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Heatmap shows interpolated density (darker blue = higher g/cm³) or salinity (darker green = higher g/L). </span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 18px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Circles are sampling stations; color matches legend if data exists. </span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 18px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Observe potential correlations between temperature (Avg Temp) and density or salinity patterns. </span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 18px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Data is interpolated between stations using inverse distance weighting. </span></li></ol>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -18859,6 +18887,7 @@
       "label": "Text 135",
       "config": {
         "text": "<p><strong style=\"font-size: 22px;\">Great Salt Lake Brine Chemistry Database</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -18871,6 +18900,7 @@
       "label": "Text 136",
       "config": {
         "text": "<p><span style=\"font-size: 18px;\">The salinity level of Great Salt Lake (GSL) is quite dynamic due to natural lake level fluctuations and man-made barriers within the lake. At a number of sites throughout the lake, the UGS takes samples at various depths through the water column, measures those samples for density, and analyzes them for chemistry. This sampling program has largely been funded by the Utah Division of Forestry, Fire and State Lands.</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19011,6 +19041,7 @@
       "label": "Text 139",
       "config": {
         "text": "<p style=\"line-height: 1.38;\"><span style=\"font-size: 16px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">This heatmap shows monthly chemical conditions of active sampling sites at the Great Salt Lake. Use the slider or play button to view monthly changes.</span></p><p style=\"line-height: 1.38;\"><br></p><p style=\"line-height: 1.38;\"><strong style=\"font-size: 16px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Interpretation guide:</strong></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 16px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Heatmap shows interpolated density (darker blue = higher g/cm³) or salinity (darker green = higher g/L). </span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 16px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Circles are sampling stations; color matches legend if data exists. </span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 16px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Observe potential correlations between temperature (Avg Temp) and density or salinity patterns. </span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 16px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Data is interpolated between stations using inverse distance weighting. </span></li></ol>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19053,6 +19084,7 @@
       "label": "Text 142",
       "config": {
         "text": "<p><span style=\"font-size: 13px;\">The salinity level of Great Salt Lake (GSL) is quite dynamic due to natural lake level fluctuations and man-made barriers within the lake. At a number of sites throughout the lake, the UGS takes samples at various depths through the water column, measures those samples for density, and analyzes them for chemistry. This sampling program has largely been funded by the Utah Division of Forestry, Fire and State Lands.</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19133,6 +19165,7 @@
       "label": "Text 143",
       "config": {
         "text": "<p style=\"line-height: 1.38;\"><span style=\"font-size: 16px; background-color: transparent; color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;;\">This heatmap shows monthly chemical conditions of active sampling sites at the Great Salt Lake. Use the slider or play button to view monthly changes.</span></p><p style=\"line-height: 1.38;\"><br></p><p style=\"line-height: 1.38;\"><strong style=\"font-size: 16px; background-color: transparent; color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;;\">Interpretation guide:</strong></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 16px; background-color: transparent; color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;;\">Heatmap shows interpolated density (darker blue = higher g/cm³) or salinity (darker green = higher g/L). </span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 16px; background-color: transparent; color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;;\">Circles are sampling stations; color matches legend if data exists. </span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 16px; background-color: transparent; color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;;\">Observe potential correlations between temperature (Avg Temp) and density or salinity patterns. </span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 16px; background-color: transparent; color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;;\">Data is interpolated between stations using inverse distance weighting. </span></li></ol>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19379,6 +19412,7 @@
       "label": "Text 150",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 20px;\">Title</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19391,6 +19425,7 @@
       "label": "Text 151",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Date</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19403,6 +19438,7 @@
       "label": "Text 152",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Author</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19415,6 +19451,7 @@
       "label": "Text 153",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Publisher</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19427,6 +19464,7 @@
       "label": "Text 154",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">View</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19487,6 +19525,7 @@
       "label": "Text 165",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"color: var(--dark-800); font-size: 18px;\">﻿</span><span style=\"font-size: 18px;\"><exp data-uniqueid=\"6fa76795_20f4_110f_5d9c_abe9fac22c56\" data-dsid=\"dataSource_16-0\" data-expression=\"%7B%22name%22%3A%22%7BTitle%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BTitle%7D%22%2C%22dataSourceId%22%3A%22dataSource_16-0%22%2C%22jimuFieldName%22%3A%22Title%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿{Title}﻿﻿﻿﻿</span>﻿</exp>&nbsp;</span></p>",
+        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -19613,6 +19652,7 @@
       "label": "Text 166",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><exp data-uniqueid=\"11c747f6_3557_4ea1_7282_067935cb9da2\" data-dsid=\"dataSource_16-0\" data-expression=\"%7B%22name%22%3A%22(Date)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDate%7D%22%2C%22dataSourceId%22%3A%22dataSource_16-0%22%2C%22jimuFieldName%22%3A%22Date%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿(Date)﻿</span>﻿</exp></span>&nbsp;&nbsp;</p>",
+        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -19639,6 +19679,7 @@
       "label": "Text 167",
       "config": {
         "text": "<p style=\"text-align: left;\"><span style=\"color: var(--dark-800); font-size: 18px;\">﻿</span><span style=\"font-size: 18px;\"><exp data-uniqueid=\"b09a3933_a267_d481_4027_e128ffbff765\" data-dsid=\"dataSource_16-0\" data-expression=\"%7B%22name%22%3A%22%7BAuthor%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BAuthor%7D%22%2C%22dataSourceId%22%3A%22dataSource_16-0%22%2C%22jimuFieldName%22%3A%22Author%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{Author}﻿﻿</span>﻿</exp>&nbsp;</span></p>",
+        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -19665,6 +19706,7 @@
       "label": "Text 168",
       "config": {
         "text": "<p><span style=\"font-size: 18px; color: var(--dark-800);\">﻿</span><span style=\"font-size: 18px;\"><exp data-uniqueid=\"b83e7b01_876f_0f8b_02e9_48d521ac83ec\" data-dsid=\"dataSource_16-0\" data-expression=\"%7B%22name%22%3A%22%7BPublisher%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPublisher%7D%22%2C%22dataSourceId%22%3A%22dataSource_16-0%22%2C%22jimuFieldName%22%3A%22Publisher%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Publisher}﻿</span>﻿</exp>&nbsp;</span></p>",
+        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -19786,6 +19828,7 @@
       "label": "Text 169",
       "config": {
         "text": "<p><strong style=\"font-size: 30px;\">Great Salt Lake Report Archive</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19822,6 +19865,7 @@
       "label": "Text 170",
       "config": {
         "text": "<p style=\"line-height: 1.5;\"><strong style=\"font-size: 18px;\">Great Salt Lake Brine Chemistry Database﻿</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19834,6 +19878,7 @@
       "label": "Text 171",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 22px;\">Density and Salinity﻿</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19873,6 +19918,7 @@
       "label": "Text 217",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 20px;\">MORE INFORMATION</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19886,6 +19932,7 @@
       "label": "Text 221",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">Density and Salinity</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19925,6 +19972,7 @@
       "label": "Text 222",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">MORE INFORMATION</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19938,6 +19986,7 @@
       "label": "Text 223",
       "config": {
         "text": "<p><span style=\"font-family: &quot;Avenir Next&quot;; color: var(--dark); background-color: transparent; font-size: 18px;\">This page serves as a hub for technical reports, research studies, and other documents related to Great Salt Lake from state agencies, research and preservation organizations, and other stakeholders. A primary purpose of the archive is to preserve Great Salt Lake reports and documents that are unpublished. The available material includes information from various disciplines (e.g., hydrology, ecology, and chemistry) to serve as a resource for informed decision-making, sustainable management practices, and further research. If you are aware of Great Salt Lake documents in need of preservation, please contact Andrew Rupke (andrewrupke@utah.gov).</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -20025,6 +20074,7 @@
       "label": "Text 224",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 20px;\">Title</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -20045,6 +20095,7 @@
       "label": "Text 225",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 17px;\">Date</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -20057,6 +20108,7 @@
       "label": "Text 226",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Authors</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -20069,6 +20121,7 @@
       "label": "Text 227",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Publisher</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -20242,6 +20295,7 @@
       "label": "Text 229",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"color: var(--dark-800); font-size: 16px;\">﻿</span><span style=\"font-size: 12px;\"><exp data-uniqueid=\"3df043ec_5eb3_5097_9480_1001c4ff0192\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BTitle%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BTitle%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Title%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Title}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></span><span style=\"font-size: 16px;\"> </span><u style=\"font-size: 12px; color: var(--dark);\"><a href=\"\" target=\"_blank\" data-uniqueid=\"d43d227a_2460_04fe_0f51_52b684d2e470\" data-dsid=\"dataSource_18-0-dataView_1\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22%22%2C%22expression%22%3A%7B%22name%22%3A%22%7BDOI_link%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDOI_link%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22DOI_link%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D%7D\"><exp data-uniqueid=\"5f03aab3_db85_2d52_623e_b2e634e284dc\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BDOI_link%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDOI_link%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22DOI_link%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{DOI_link}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></a></u></p><p style=\"text-align: center;\"><strong style=\"font-size: 16px;\"><a href=\"\" target=\"_blank\" data-uniqueid=\"002d1912_2e11_ece0_9090_2dda3c6fc4d0\" data-dsid=\"dataSource_18-0-dataView_1\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22%22%2C%22expression%22%3A%7B%22name%22%3A%22%7BPDF_link%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPDF_link%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22PDF_link%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D%7D\"><exp data-uniqueid=\"6189dae4_b3cb_8a4d_ec6e_ea1467aa71db\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%20%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPDF_text%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22PDF_text%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></a></strong></p>",
+        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -20272,6 +20326,7 @@
       "label": "Text 230",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 14px;\"><exp data-uniqueid=\"a20c3074_bfb0_ead8_5f38_1c35507c1198\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BDate%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDate%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Date%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿{Date}﻿﻿﻿</span>﻿</exp></span></p>",
+        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -20299,6 +20354,7 @@
       "label": "Text 231",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 16px; color: var(--dark-800);\">﻿</span><span style=\"font-size: 12px;\"><exp data-uniqueid=\"109dc7ec_b910_8a01_81e9_78e3ea032042\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BAuthor_abbreviated%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BAuthor_abbreviated%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Author_abbreviated%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿{Author_abbreviated}﻿﻿﻿﻿</span>﻿</exp></span></p>",
+        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -20326,6 +20382,7 @@
       "label": "Text 232",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"color: var(--dark-800); font-size: 16px;\">﻿</span><span style=\"font-size: 12px;\"><exp data-uniqueid=\"63112373_3181_8eaa_63e2_ffc3d5ff29ae\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BPublisher%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPublisher%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Publisher%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿{Publisher}﻿﻿﻿﻿</span>﻿</exp></span></p>",
+        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -20353,6 +20410,7 @@
       "label": "Text 233",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\">Filter by Topic:</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -21212,6 +21270,7 @@
       "label": "Text 234",
       "config": {
         "text": "<p><strong style=\"font-size: 30px;\">Great Salt Lake Report Archive</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -21254,6 +21313,7 @@
       "label": "Text 235",
       "config": {
         "text": "<p><span style=\"font-family: &quot;Avenir Next&quot;; color: var(--dark); background-color: transparent; font-size: 18px;\">This page serves as a hub for technical reports, research studies, and other documents related to Great Salt Lake from state agencies, research and preservation organizations, and other stakeholders. A primary purpose of the archive is to preserve Great Salt Lake reports and documents that are unpublished. The available material includes information from various disciplines (e.g., hydrology, ecology, and chemistry) to serve as a resource for informed decision-making, sustainable management practices, and further research. If you are aware of Great Salt Lake documents in need of preservation, please contact Andrew Rupke (andrewrupke@utah.gov).</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -21454,6 +21514,7 @@
       "label": "Text 236",
       "config": {
         "text": "<p style=\"text-align: left;\"><span style=\"color: var(--dark-800); font-size: 16px;\">﻿</span><a href=\"\" target=\"_blank\" data-uniqueid=\"9feda7ae_2112_c98e_71d5_2572a1e69627\" data-dsid=\"dataSource_17-0-dataView_1\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22%22%2C%22expression%22%3A%7B%22name%22%3A%22%7BPDF%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPDF%7D%22%2C%22dataSourceId%22%3A%22dataSource_17-0-dataView_1%22%2C%22jimuFieldName%22%3A%22PDF%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D%7D\" style=\"color: var(--dark); font-size: 16px;\"><exp data-uniqueid=\"11f09c66_1eeb_1c2e_d370_7e0a446f40ce\" data-dsid=\"dataSource_17-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BTitle%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BTitle%7D%22%2C%22dataSourceId%22%3A%22dataSource_17-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Title%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Title}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></a></p><p style=\"text-align: left;\"><a href=\"\" target=\"_blank\" data-uniqueid=\"1a96d7dc_9cf4_5de6_7e9f_84d73beb1864\" data-dsid=\"dataSource_17-0-dataView_1\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22%22%2C%22expression%22%3A%7B%22name%22%3A%22%7BPDF%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPDF%7D%22%2C%22dataSourceId%22%3A%22dataSource_17-0-dataView_1%22%2C%22jimuFieldName%22%3A%22PDF%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D%7D\" style=\"font-size: 16px;\"><exp data-uniqueid=\"07928c5c_5b29_b77a_e34d_48a8039358d3\" data-dsid=\"dataSource_17-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%20%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7Bcolumn6%7D%22%2C%22dataSourceId%22%3A%22dataSource_17-0-dataView_1%22%2C%22jimuFieldName%22%3A%22column6%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></a><span style=\"font-size: 16px;\">&nbsp;| </span><a href=\"\" target=\"_blank\" data-uniqueid=\"6855cb7b_2e36_1b66_d914_8b4b1ab46430\" data-dsid=\"dataSource_17-0-dataView_1\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22%22%2C%22expression%22%3A%7B%22name%22%3A%22%7BDOI%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDOI%7D%22%2C%22dataSourceId%22%3A%22dataSource_17-0-dataView_1%22%2C%22jimuFieldName%22%3A%22DOI%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D%7D\" style=\"font-size: 16px;\"><exp data-uniqueid=\"a7ecbddf_e2cd_c6d5_9009_fa8bf9ea2f5b\" data-dsid=\"dataSource_17-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%20%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDOI_text%7D%22%2C%22dataSourceId%22%3A%22dataSource_17-0-dataView_1%22%2C%22jimuFieldName%22%3A%22DOI_text%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿ ﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></a><span style=\"font-size: 16px;\">&nbsp;</span></p>",
+        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -21471,6 +21532,7 @@
       "label": "Text 237",
       "config": {
         "text": "<p style=\"text-align: left;\"><span style=\"font-size: 16px;\"><exp data-uniqueid=\"69b7e7dd_cde6_843c_7845_ed63c2365429\" data-dsid=\"dataSource_17-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BDate%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDate%7D%22%2C%22dataSourceId%22%3A%22dataSource_17-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Date%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">{Date}</span>﻿</exp>&nbsp;</span></p>",
+        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -21488,6 +21550,7 @@
       "label": "Text 238",
       "config": {
         "text": "<p style=\"text-align: left;\"><span style=\"color: var(--dark-800); font-size: 16px;\">﻿</span><span style=\"font-size: 16px;\"><exp data-uniqueid=\"19984b5e_90b8_027d_3eb2_3af03d3f8e4e\" data-dsid=\"dataSource_17-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BAuthor%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BAuthor%7D%22%2C%22dataSourceId%22%3A%22dataSource_17-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Author%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">{Author}</span>﻿</exp>&nbsp;</span></p>",
+        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -21505,6 +21568,7 @@
       "label": "Text 239",
       "config": {
         "text": "<p style=\"text-align: left;\"><span style=\"font-size: 16px; color: var(--dark-800);\">﻿</span><span style=\"font-size: 16px;\"><exp data-uniqueid=\"368a887d_477e_2d56_ec73_aff36c8742c4\" data-dsid=\"dataSource_17-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BPublisher%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPublisher%7D%22%2C%22dataSourceId%22%3A%22dataSource_17-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Publisher%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Publisher}﻿</span>﻿</exp>&nbsp;</span></p>",
+        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -21522,6 +21586,7 @@
       "label": "Text 240",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\">Filter by Topic:</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -22303,6 +22368,7 @@
       "label": "Text 241",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 20px;\">Title</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -22323,6 +22389,7 @@
       "label": "Text 242",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Date</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -22335,6 +22402,7 @@
       "label": "Text 243",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Authors</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -22347,6 +22415,7 @@
       "label": "Text 244",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Publisher</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -22407,6 +22476,7 @@
       "label": "Text 249",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\">Filter by Topic:</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -22431,6 +22501,7 @@
       "label": "Text 250",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 20px;\">Title</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -22451,6 +22522,7 @@
       "label": "Text 252",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Authors</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -22621,6 +22693,7 @@
       "label": "Text 253",
       "config": {
         "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 17px;\"><exp data-uniqueid=\"3df043ec_5eb3_5097_9480_1001c4ff0192\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BTitle%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BTitle%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Title%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Title}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp> (<exp data-uniqueid=\"03adc27b_1789_1166_7d84_761a976ee92c\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BDate%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDate%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Date%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Date}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp>) </strong><u style=\"font-size: 15px; color: var(--dark);\"><a href=\"\" target=\"_blank\" data-uniqueid=\"c2191141_f478_8749_d7f5_ebd61c76883c\" data-dsid=\"dataSource_18-0-dataView_1\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22%22%2C%22expression%22%3A%7B%22name%22%3A%22%7BDOI_link%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDOI_link%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22DOI_link%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D%7D\"><exp data-uniqueid=\"e72543a9_a4ae_aa68_c75d_882e110d8615\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BDOI_link%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDOI_link%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22DOI_link%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿{DOI_link}﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></a></u></p><p style=\"text-align: left;\"><span style=\"font-size: 15px;\"><exp data-uniqueid=\"109dc7ec_b910_8a01_81e9_78e3ea032042\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BAuthor_abbreviated%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BAuthor_abbreviated%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Author_abbreviated%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Author_abbreviated}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></span></p><p style=\"text-align: left;\"><a href=\"\" target=\"_blank\" data-uniqueid=\"002d1912_2e11_ece0_9090_2dda3c6fc4d0\" data-dsid=\"dataSource_18-0-dataView_1\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22%22%2C%22expression%22%3A%7B%22name%22%3A%22%7BPDF_link%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPDF_link%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22PDF_link%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D%7D\" style=\"font-size: 15px;\"><exp data-uniqueid=\"6189dae4_b3cb_8a4d_ec6e_ea1467aa71db\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%20%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPDF_text%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22PDF_text%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></a></p>",
+        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -23488,6 +23561,7 @@
       "label": "Text 254",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">Great Salt Lake Report Archive</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -23500,6 +23574,7 @@
       "label": "Text 255",
       "config": {
         "text": "<p style=\"line-height: 1.2;\"><span style=\"font-family: &quot;Avenir Next&quot;; color: var(--dark); background-color: transparent; font-size: 14px;\">This page serves as a hub for technical reports, research studies, and other documents related to Great Salt Lake from state agencies, research and preservation organizations, and other stakeholders. </span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -23718,6 +23793,7 @@
       "label": "Text 257",
       "config": {
         "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 14px;\"><exp data-uniqueid=\"3df043ec_5eb3_5097_9480_1001c4ff0192\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BTitle%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BTitle%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Title%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Title}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp> (<exp data-uniqueid=\"03adc27b_1789_1166_7d84_761a976ee92c\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BDate%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDate%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Date%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Date}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp>) </strong><u style=\"color: var(--dark);\"><a href=\"\" target=\"_blank\" data-uniqueid=\"de6b0fcb_e6bf_e2c8_a491_c700197b6230\" data-dsid=\"dataSource_18-0-dataView_1\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22%22%2C%22expression%22%3A%7B%22name%22%3A%22%7BDOI_link%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDOI_link%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22DOI_link%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D%7D\"><exp data-uniqueid=\"0f2a4f26_19d4_ad60_7d73_f13c4d9dbc9a\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BDOI_link%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDOI_link%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22DOI_link%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{DOI_link}﻿﻿</span>﻿</exp></a></u>&nbsp;</p><p style=\"text-align: left;\"><span style=\"font-size: 13px;\"><exp data-uniqueid=\"109dc7ec_b910_8a01_81e9_78e3ea032042\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BAuthor_abbreviated%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BAuthor_abbreviated%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Author_abbreviated%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Author_abbreviated}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></span></p><p style=\"text-align: left;\"><a href=\"\" target=\"_blank\" data-uniqueid=\"002d1912_2e11_ece0_9090_2dda3c6fc4d0\" data-dsid=\"dataSource_18-0-dataView_1\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22%22%2C%22expression%22%3A%7B%22name%22%3A%22%7BPDF_link%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPDF_link%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22PDF_link%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D%7D\" style=\"font-size: 13px;\"><exp data-uniqueid=\"6189dae4_b3cb_8a4d_ec6e_ea1467aa71db\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%20%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPDF_text%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22PDF_text%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></a></p>",
+        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -23750,6 +23826,7 @@
       "label": "Text 260",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\">Filter by Topic:</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -24453,6 +24530,7 @@
       "label": "Text 267",
       "config": {
         "text": "<p>﻿Select a depth</p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -25262,9 +25340,9 @@
       },
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_14-48-dataView_1",
-          "mainDataSourceId": "dataSource_14-48",
-          "rootDataSourceId": "dataSource_14",
+          "dataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+          "mainDataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
+          "rootDataSourceId": "dataSource_15",
           "dataViewId": "dataView_1",
           "fields": []
         }
@@ -25280,7 +25358,8 @@
       "version": "1.18.0",
       "label": "Text 306",
       "config": {
-        "text": "<p style=\"text-align: left;\">&nbsp;&nbsp;&nbsp;<span style=\"font-size: 18px;\">&nbsp;<exp data-uniqueid=\"9ff869e8_027b_47df_d063_a28e08cf91da\" data-dsid=\"dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></span>&nbsp;<strong style=\"font-size: 18px;\"><exp data-uniqueid=\"307acc28_fafd_a4db_4c7b_edda6edc2504\" data-dsid=\"dataSource_14-48-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_14-48-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿{Site}﻿﻿﻿</span>﻿</exp></strong>&nbsp;</p>",
+        "text": "<p style=\"text-align: left;\">&nbsp;&nbsp;&nbsp;&nbsp;<strong style=\"font-size: 18px;\"><exp data-uniqueid=\"2768b54a_1491_a19d_abb4_1de88abe8786\" data-dsid=\"dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Site}﻿</span>﻿</exp></strong><span style=\"font-size: 18px;\">&nbsp;<exp data-uniqueid=\"9ff869e8_027b_47df_d063_a28e08cf91da\" data-dsid=\"dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿</span>﻿</exp></span></p>",
+        "placeholder": "<p><span style=\"font-size: 13px;color: var(--dark-800);\">Lorem ipsum dolor sit amet</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": false,
@@ -25291,9 +25370,9 @@
       "id": "widget_1373",
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_14-48-dataView_1",
-          "mainDataSourceId": "dataSource_14-48",
-          "rootDataSourceId": "dataSource_14",
+          "dataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+          "mainDataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
+          "rootDataSourceId": "dataSource_15",
           "dataViewId": "dataView_1",
           "fields": [
             "Site"
@@ -25307,7 +25386,8 @@
       "version": "1.18.0",
       "label": "Text 307",
       "config": {
-        "text": "<p style=\"text-align: right;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong style=\"font-size: 18px;\"><exp data-uniqueid=\"5f057a85_58bc_2a09_429e_58a58bd48ac3\" data-dsid=\"dataSource_14-48-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BStatus%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BStatus%7D%22%2C%22dataSourceId%22%3A%22dataSource_14-48-dataView_1%22%2C%22jimuFieldName%22%3A%22Status%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Status}﻿</span>﻿</exp></strong>&nbsp;</p>",
+        "text": "<p style=\"text-align: right;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 18px;\"><exp data-uniqueid=\"146f74cf_070d_d842_3fa1_4116eb578bcf\" data-dsid=\"dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BStatus%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BStatus%7D%22%2C%22dataSourceId%22%3A%22dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1%22%2C%22jimuFieldName%22%3A%22Status%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Status}﻿</span>﻿</exp></span>&nbsp;</p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -25315,9 +25395,9 @@
       "id": "widget_1374",
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_14-48-dataView_1",
-          "mainDataSourceId": "dataSource_14-48",
-          "rootDataSourceId": "dataSource_14",
+          "dataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+          "mainDataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
+          "rootDataSourceId": "dataSource_15",
           "dataViewId": "dataView_1",
           "fields": [
             "Status"
@@ -25332,6 +25412,7 @@
       "label": "Text 308",
       "config": {
         "text": "<p><strong style=\"font-size: 22px;\">Select A Site﻿</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -25390,6 +25471,7 @@
       "label": "Text 309",
       "config": {
         "text": "<p><strong style=\"font-size: 22px;\">Great Salt Lake Brine Chemistry Database</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -25464,6 +25546,7 @@
       "label": "Text 310",
       "config": {
         "text": "<p><span style=\"font-size: 16px;\">The salinity level of Great Salt Lake (GSL) is quite dynamic due to natural lake level fluctuations and man-made barriers within the lake. At a number of sites throughout the lake, the UGS takes samples at various depths through the water column, measures those samples for density, and analyzes them for chemistry. This sampling program has largely been funded by the Utah Division of Forestry, Fire and State Lands.</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -25558,7 +25641,7 @@
           "canNavigation": true,
           "canBaseMap": false,
           "canScaleBar": true,
-          "canLayers": false,
+          "canLayers": true,
           "canCompass": true
         },
         "isUseCustomMapState": true,
@@ -25590,7 +25673,7 @@
           "viewType": "2d"
         },
         "scaleRange": null,
-        "disablePopUp": true,
+        "disablePopUp": false,
         "showPopupUponSelection": false,
         "popupDockPosition": "",
         "layoutIndex": 1
@@ -25771,6 +25854,7 @@
       "label": "Text 311",
       "config": {
         "text": "<p><span style=\"font-size: 16px;\">Use the depth and chemical filters below to view the data of interest.</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -25795,6 +25879,7 @@
       "label": "Text 312",
       "config": {
         "text": "<p>﻿Select a depth</p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -26484,12 +26569,8 @@
               "groupByFieldsForStatistics": [
                 "DATE"
               ],
-              "outStatistics": [
-                {
-                  "statisticType": "avg",
-                  "onStatisticField": "LAB_DEN__g_cm3_",
-                  "outStatisticFieldName": "avg_of_LAB_DEN__g_cm3_"
-                }
+              "outFields": [
+                "LAB_DEN__g_cm3_"
               ]
             }
           },
@@ -26502,11 +26583,11 @@
               "id": "LAB_DEN__g_cm3_",
               "name": "LAB-DEN_(g/cm3)",
               "x": "DATE",
-              "y": "avg_of_LAB_DEN__g_cm3_",
+              "y": "LAB_DEN__g_cm3_",
               "lineSymbol": {
                 "type": "esriSLS",
                 "style": "esriSLSSolid",
-                "color": "#282828",
+                "color": "rgba(33,37,41,0)",
                 "width": 2
               },
               "dataLabels": {
@@ -26534,11 +26615,11 @@
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
                 "color": "#ee994a",
-                "size": 6,
+                "size": 7,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "#ee994a",
+                  "color": "var(--primary-700)",
                   "width": 2
                 }
               },
@@ -26663,7 +26744,8 @@
                 "width": 0
               },
               "minimum": 1,
-              "maximum": 1.3
+              "maximum": 1.3,
+              "integerOnlyValues": false
             }
           ],
           "background": "var(--secondary-300)",
@@ -26759,7 +26841,8 @@
           "dataViewId": "selection",
           "fields": [
             "DATE",
-            "LAB_DEN__g_cm3_"
+            "LAB_DEN__g_cm3_",
+            "LK_ELEV__feet_"
           ]
         }
       ],
@@ -26774,6 +26857,7 @@
       "label": "Text 313",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"f8312349_9192_d45b_e0c0_b4676cd37afc\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{SITE}﻿﻿</span>﻿</exp> Density&nbsp;g/cm3</strong>&nbsp;</p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -27202,6 +27286,7 @@
       "label": "Text 314",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"18c50846_a6d1_ddc5_0d41_2c6da3bf7b52\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{SITE}﻿</span>﻿</exp>&nbsp;Density g/cm3</strong>&nbsp;</p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -27673,6 +27758,7 @@
       "label": "Text 315",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"9e984cf2_48f1_d0ef_2878_5f426b65c346\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{SITE}﻿</span>﻿</exp>&nbsp;Na+ g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -28050,6 +28136,7 @@
       "label": "Text 316",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"76aae201_12d4_7ae6_0719_9958a0c1e2f0\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;Na+ g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -28472,6 +28559,7 @@
       "label": "Text 317",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"764d258c_7879_40c3_dc97_2d9950ca8f1e\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;Mg g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -28998,6 +29086,7 @@
       "label": "Text 318",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"36f10064_6ea4_a3c4_1bee_6712469cc421\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;Mg g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": false
         }
@@ -29320,6 +29409,7 @@
       "label": "Text 319: K g/L",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"52ccae31_3fb1_c70b_ba33_1a500c777a53\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;K g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -29847,6 +29937,7 @@
       "label": "Text 320",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"b9857a65_8b9b_85bd_0b01_443e3bdd22cc\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;K g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -30269,6 +30360,7 @@
       "label": "Text 321: Ca",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"d8183323_9f0b_43ac_1a27_4b84cbafdede\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;<span class=\"ql-cursor\">﻿</span>Ca g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -30696,6 +30788,7 @@
       "label": "Text 322",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"af07338a_cca4_7b02_0e87_2e908ea04301\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;Ca g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -31019,6 +31112,7 @@
       "label": "Text 323: Cl",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"d6c3ad04_13f0_9143_1d85_ffe8be199d45\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;Cl g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -31445,6 +31539,7 @@
       "label": "Text 324",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"a92c8054_7b65_9769_69d9_3f926e193c16\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;Cl g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -31867,6 +31962,7 @@
       "label": "Text 325: SO4",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"f9cafd36_efdd_bf38_7a3b_13db38dce5a6\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{SITE}﻿</span>﻿</exp> SO4 g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -32293,6 +32389,7 @@
       "label": "Text 326",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"86f0049e_ce1f_ae90_fa3e_d0c9a1ad9f1c\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;SO4 g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -32715,6 +32812,7 @@
       "label": "Text 327: TDS",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"e25e821e_7fbc_9ccf_ea57_d6c2a0cd498b\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;Lab TDS g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -33141,6 +33239,7 @@
       "label": "Text 328",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"6028bde4_8a21_a6ee_ea85_92ddb57adff4\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{SITE}﻿</span>﻿</exp>&nbsp;Lab TDS g/L</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": false
         }
@@ -33504,6 +33603,7 @@
       "label": "Text 329",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 20px;\">SITE DETAILS: </strong><span style=\"font-size: 18px;\"><exp data-uniqueid=\"952a807f_bb0b_3bbe_7e88_8f158285f18d\" data-dsid=\"dataSource_12-1977fb8f4bc-layer-104-selection\" data-expression=\"%7B%22name%22%3A%22Select%20a%20site%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-1977fb8f4bc-layer-104-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿Select a site﻿</span>﻿</exp></span>&nbsp;&nbsp;&nbsp;</p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -33789,9 +33889,9 @@
       },
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_14-48-dataView_1",
-          "mainDataSourceId": "dataSource_14-48",
-          "rootDataSourceId": "dataSource_14",
+          "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+          "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+          "rootDataSourceId": "dataSource_12",
           "dataViewId": "dataView_1",
           "fields": []
         }
@@ -33807,7 +33907,8 @@
       "version": "1.18.0",
       "label": "Text 330",
       "config": {
-        "text": "<p style=\"text-align: left;\">&nbsp;&nbsp;<strong style=\"font-size: 18px;\"><exp data-uniqueid=\"91e358b1_7174_ee79_698d_c646c4842ffc\" data-dsid=\"dataSource_14-48-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_14-48-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{Site}﻿﻿</span>﻿</exp></strong>&nbsp;</p>",
+        "text": "<p style=\"text-align: left;\">&nbsp;<span style=\"font-size: 18px;\"><exp data-uniqueid=\"1c785fce_bb7f_5eff_95d6_f1e8c7e3df9c\" data-dsid=\"dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">{Site}</span>﻿</exp></span>&nbsp;</p>",
+        "placeholder": "<p><span style=\"font-size: 13px;color: var(--dark-800);\">Lorem ipsum dolor sit amet</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": false,
@@ -33818,9 +33919,9 @@
       "id": "widget_1468",
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_14-48-dataView_1",
-          "mainDataSourceId": "dataSource_14-48",
-          "rootDataSourceId": "dataSource_14",
+          "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+          "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+          "rootDataSourceId": "dataSource_12",
           "dataViewId": "dataView_1",
           "fields": [
             "Site"
@@ -33834,7 +33935,8 @@
       "version": "1.18.0",
       "label": "Text 331",
       "config": {
-        "text": "<p style=\"text-align: right;\">&nbsp;&nbsp;<strong style=\"font-size: 18px;\"><exp data-uniqueid=\"c517781a_e036_d7f5_83a1_cd5ab24904b0\" data-dsid=\"dataSource_14-48-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BStatus%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BStatus%7D%22%2C%22dataSourceId%22%3A%22dataSource_14-48-dataView_1%22%2C%22jimuFieldName%22%3A%22Status%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Status}﻿</span>﻿</exp></strong>&nbsp;</p>",
+        "text": "<p style=\"text-align: right;\">&nbsp;<span style=\"font-size: 18px;\"><exp data-uniqueid=\"c39d2481_807e_0ec1_3e8e_2abb608aa618\" data-dsid=\"dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BStatus%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BStatus%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1%22%2C%22jimuFieldName%22%3A%22Status%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Status}﻿</span>﻿</exp></span>&nbsp;</p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -33842,9 +33944,9 @@
       "id": "widget_1469",
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_14-48-dataView_1",
-          "mainDataSourceId": "dataSource_14-48",
-          "rootDataSourceId": "dataSource_14",
+          "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+          "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+          "rootDataSourceId": "dataSource_12",
           "dataViewId": "dataView_1",
           "fields": [
             "Status"
@@ -33917,9 +34019,9 @@
       "id": "widget_1470",
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_14-48-dataView_1",
-          "mainDataSourceId": "dataSource_14-48",
-          "rootDataSourceId": "dataSource_14",
+          "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+          "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+          "rootDataSourceId": "dataSource_12",
           "dataViewId": "dataView_1",
           "fields": []
         }
@@ -34434,6 +34536,7 @@
       "label": "Text 332",
       "config": {
         "text": "<p><span style=\"font-size: 14px;\">Depth</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -34840,6 +34943,7 @@
       "label": "Text 333: Desnity",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">Density - <exp data-uniqueid=\"84ab0bff_b88c_05ab_bcc1_dd5624339dec\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{SITE}﻿﻿</span>﻿</exp>&nbsp;&nbsp;</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -35162,6 +35266,7 @@
       "label": "Na+ - Select a site 4",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">Na+ - <exp data-uniqueid=\"43444ea3_ceba_7826_2ced_ca34f23cc6f9\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;﻿&nbsp;</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -35533,6 +35638,7 @@
       "label": "Text 334: Mg",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">Mg - <exp data-uniqueid=\"84ab0bff_b88c_05ab_bcc1_dd5624339dec\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;﻿&nbsp;</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -35904,6 +36010,7 @@
       "label": "Text 335: K",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">K - <exp data-uniqueid=\"7ba5a40d_622e_ed2c_8679_0448ce82f5e7\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;&nbsp;</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -36275,6 +36382,7 @@
       "label": "Text 336: Ca",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">Ca - <exp data-uniqueid=\"1a47d467_8152_819f_d353_d90c0868e10b\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;&nbsp;</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -36646,6 +36754,7 @@
       "label": "Text 337: Cl",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">Cl - <exp data-uniqueid=\"6760945a_6355_d077_8826_f734669ee38b\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;&nbsp;</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -37017,6 +37126,7 @@
       "label": "Text 338: SO4",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">SO4 - <exp data-uniqueid=\"e3c9d0fb_cecb_6ce0_30f7_83eef88f4c15\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;&nbsp;</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -37388,6 +37498,7 @@
       "label": "Text 339: TDS",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">Lab TDS - <exp data-uniqueid=\"f7fad78c_321f_639c_a05a_1a0db2e85a0b\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;﻿&nbsp;</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -37509,6 +37620,7 @@
       "label": "Text 340",
       "config": {
         "text": "<p><strong style=\"font-size: 22px;\">Great Salt Lake Brine Chemistry Database</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -37521,6 +37633,7 @@
       "label": "Text 341",
       "config": {
         "text": "<p><span style=\"font-size: 18px;\">The salinity level of Great Salt Lake (GSL) is quite dynamic due to natural lake level fluctuations and man-made barriers within the lake. At a number of sites throughout the lake, the UGS takes samples at various depths through the water column, measures those samples for density, and analyzes them for chemistry. This sampling program has largely been funded by the Utah Division of Forestry, Fire and State Lands.</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -37581,6 +37694,7 @@
       "label": "Text 342",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 22px;\">Chemistry Explorer</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -37750,6 +37864,7 @@
       "label": "Text 343",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">SITE DETAILS</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -37946,9 +38061,9 @@
       },
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_14-48-dataView_1",
-          "mainDataSourceId": "dataSource_14-48",
-          "rootDataSourceId": "dataSource_14",
+          "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+          "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+          "rootDataSourceId": "dataSource_12",
           "dataViewId": "dataView_1",
           "fields": []
         }
@@ -37961,7 +38076,8 @@
       "version": "1.18.0",
       "label": "Text 344",
       "config": {
-        "text": "<p style=\"line-height: 1;\"><strong style=\"color: var(--dark-800); font-size: 16px;\">﻿</strong>&nbsp;<strong style=\"font-size: 18px;\"><exp data-uniqueid=\"1e5e9c6a_a2d3_f6ce_8e03_3f73fbbb72c0\" data-dsid=\"dataSource_14-48-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_14-48-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{Site}﻿﻿</span>﻿</exp></strong>&nbsp;</p>",
+        "text": "<p style=\"line-height: 1;\"><strong style=\"font-size: 16px; color: var(--dark-800);\">﻿</strong><span style=\"font-size: 18px;\"><exp data-uniqueid=\"c7515cce_cc42_b10b_8bbe_3af118a9a015\" data-dsid=\"dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Site}﻿</span>﻿</exp></span>&nbsp;</p>",
+        "placeholder": "<p><span style=\"font-size: 13px;color: var(--dark-800);\">Lorem ipsum dolor sit amet</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -37972,9 +38088,9 @@
       "id": "widget_1513",
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_14-48-dataView_1",
-          "mainDataSourceId": "dataSource_14-48",
-          "rootDataSourceId": "dataSource_14",
+          "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+          "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+          "rootDataSourceId": "dataSource_12",
           "dataViewId": "dataView_1",
           "fields": [
             "Site"
@@ -37988,7 +38104,8 @@
       "version": "1.18.0",
       "label": "Text 345",
       "config": {
-        "text": "<p style=\"line-height: 1.5;\"><span style=\"color: var(--dark-800); font-size: 12px;\">﻿</span><exp data-uniqueid=\"eb6024f3_8c4e_452e_49bc_198f45b0df5b\" data-dsid=\"dataSource_14-48-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BStatus%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BStatus%7D%22%2C%22dataSourceId%22%3A%22dataSource_14-48-dataView_1%22%2C%22jimuFieldName%22%3A%22Status%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Status}﻿</span>﻿</exp>&nbsp;</p>",
+        "text": "<p style=\"line-height: 1.5;\"><span style=\"color: var(--dark-800); font-size: 12px;\">﻿</span><exp data-uniqueid=\"b58901e6_ee91_d538_e743_714ce8c8eee2\" data-dsid=\"dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BStatus%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BStatus%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1%22%2C%22jimuFieldName%22%3A%22Status%22%7D%5D%7D\">﻿<span contenteditable=\"false\">{Status}</span>﻿</exp>&nbsp;&nbsp;</p>",
+        "placeholder": "<p><span style=\"font-size: 13px;color: var(--dark-800);\">Lorem ipsum dolor sit amet</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -37999,9 +38116,9 @@
       "id": "widget_1514",
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_14-48-dataView_1",
-          "mainDataSourceId": "dataSource_14-48",
-          "rootDataSourceId": "dataSource_14",
+          "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+          "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+          "rootDataSourceId": "dataSource_12",
           "dataViewId": "dataView_1",
           "fields": [
             "Status"
@@ -38080,9 +38197,9 @@
       "id": "widget_1515",
       "useDataSources": [
         {
-          "dataSourceId": "dataSource_14-48-dataView_1",
-          "mainDataSourceId": "dataSource_14-48",
-          "rootDataSourceId": "dataSource_14",
+          "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+          "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+          "rootDataSourceId": "dataSource_12",
           "dataViewId": "dataView_1",
           "fields": []
         }
@@ -38152,6 +38269,7 @@
       "label": "Text 346",
       "config": {
         "text": "<p style=\"line-height: 1;\"><strong style=\"font-size: 16px;\">Density -&nbsp;</strong>&nbsp;<span style=\"font-size: 16px;\"><exp data-uniqueid=\"b69ac3b3_ae41_5ac1_2fd8_8f0074dad221\" data-dsid=\"dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-selection\" data-expression=\"%7B%22name%22%3A%22Select%20site%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-selection%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿Select site﻿</span>﻿</exp></span>&nbsp;&nbsp;</p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -38602,6 +38720,7 @@
       "label": "Text 347",
       "config": {
         "text": "<p><span style=\"font-size: 12px;\">Select depth</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -38986,6 +39105,7 @@
       "label": "Text 348",
       "config": {
         "text": "<p style=\"line-height: 1.5;\"><strong style=\"font-size: 19.6px;\">Great Salt Lake Brine Chemistry Database</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -39073,6 +39193,7 @@
       "label": "Text 349",
       "config": {
         "text": "<p><span style=\"font-size: 16px;\">The salinity level of Great Salt Lake (GSL) is quite dynamic due to natural lake level fluctuations and man-made barriers within the lake. At a number of sites throughout the lake, the UGS takes samples at various depths through the water column, measures those samples for density, and analyzes them for chemistry. This sampling program has largely been funded by the Utah Division of Forestry, Fire and State Lands.</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -39123,6 +39244,7 @@
       "label": "Text 350",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">Chemistry Explorer﻿</strong></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -39396,6 +39518,7 @@
       "label": "Text 352",
       "config": {
         "text": "<p><strong style=\"font-size: 22px;\">Chart Data: </strong><span style=\"font-size: 18px;\"><exp data-uniqueid=\"2ca4ce6c_8113_c73c_a656_8503b2b10d24\" data-dsid=\"dataSource_12-1977fb8f4bc-layer-104-selection\" data-expression=\"%7B%22name%22%3A%22Select%20a%20site%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-1977fb8f4bc-layer-104-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">Select a site</span>﻿</exp></span>&nbsp;&nbsp;</p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -39956,7 +40079,7 @@
     },
     "widget_1548": {
       "uri": "widgets/arcgis/basemap-gallery/",
-      "version": "1.18.0",
+      "version": "1.17.0",
       "label": "Basemap Gallery",
       "config": {
         "basemapsType": "CUSTOM",
@@ -40061,7 +40184,7 @@
     },
     "widget_1554": {
       "uri": "widgets/arcgis/basemap-gallery/",
-      "version": "1.18.0",
+      "version": "1.17.0",
       "label": "Basemap Gallery",
       "config": {
         "basemapsType": "CUSTOM",
@@ -40294,7 +40417,7 @@
     },
     "widget_1573": {
       "uri": "widgets/arcgis/basemap-gallery/",
-      "version": "1.18.0",
+      "version": "1.17.0",
       "label": "Basemap Gallery 2",
       "config": {
         "basemapsType": "CUSTOM",
@@ -40488,6 +40611,7 @@
       "label": "Text 353",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">WELCOME TO THE UTAH GEOLOGICAL SURVEY'S</strong></p><p><strong style=\"font-size: 28px;\">Great Salt Lake Brine Density and Chemistry Hub﻿</strong></p><p><span style=\"font-size: 18px;\">Explore data visualizations from the Great Salt Lake Brine Chemistry Database and access current and legacy reports on Great Salt Lake.</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -40530,6 +40654,7 @@
       "label": "Text 354",
       "config": {
         "text": "<p><strong style=\"color: var(--primary); font-size: 22px;\"><u><a href=\"page_21\" target=\"_self\" data-uniqueid=\"cd406f65_9c49_9b91_da0c_f372f75409bf\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_21%22%2C%22openType%22%3A%22_self%22%7D\">Chemistry Explorer</a></u></strong></p><p><span style=\"font-size: 18px;\">View chemistry measurement data and trends from Great Salt Lake sampling sites.</span></p><p><br></p><p><strong style=\"color: var(--primary); font-size: 22px;\"><u><a href=\"page_18\" target=\"_self\" data-uniqueid=\"1ea0d8f0_eded_a9bd_74d1_689c70472fac\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_18%22%2C%22openType%22%3A%22_self%22%7D\">Density and Salinity</a></u></strong></p><p><span style=\"font-size: 18px;\">View an interactive timeline of density and salinity measurements from selected sampling sites.</span></p><p><br></p><p><strong style=\"color: var(--primary); font-size: 22px;\"><u><a href=\"page_8\" target=\"_self\" data-uniqueid=\"92b604f4_db39_82c4_8e5d_2068635224fe\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_8%22%2C%22openType%22%3A%22_self%22%7D\">Great Salt Lake Report Archive</a></u></strong></p><p><span style=\"font-size: 18px;\">Access reports and data from a wide range of scientific studies on Great Salt Lake.</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -40701,6 +40826,7 @@
       "label": "Text 355",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">WELCOME TO THE UTAH GEOLOGICAL SURVEY'S</strong></p><p><strong style=\"font-size: 28px;\">Great Salt Lake Brine Density and Chemistry Hub﻿</strong></p><p><span style=\"font-size: 18px;\">Explore data visualizations from the Great Salt Lake Brine Chemistry Database and access current and legacy reports on Great Salt Lake.</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -40713,6 +40839,7 @@
       "label": "Text 356",
       "config": {
         "text": "<p><strong style=\"color: var(--primary); font-size: 22px;\"><u><a href=\"page_21\" target=\"_self\" data-uniqueid=\"217189fb_e122_5098_4278_e92eb2a4a26f\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_21%22%2C%22openType%22%3A%22_self%22%7D\">Chemistry Explorer</a></u></strong></p><p><span style=\"font-size: 18px;\">View chemistry measurement data and trends from Great Salt Lake sampling sites.</span></p><p><br></p><p><strong style=\"color: var(--primary); font-size: 22px;\"><u><a href=\"page_18\" target=\"_self\" data-uniqueid=\"1ea0d8f0_eded_a9bd_74d1_689c70472fac\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_18%22%2C%22openType%22%3A%22_self%22%7D\">Density and Salinity</a></u></strong></p><p><span style=\"font-size: 18px;\">View an interactive timeline of density and salinity measurements from selected sampling sites.</span></p><p><br></p><p><strong style=\"color: var(--primary); font-size: 22px;\"><u><a href=\"page_8\" target=\"_self\" data-uniqueid=\"92b604f4_db39_82c4_8e5d_2068635224fe\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_8%22%2C%22openType%22%3A%22_self%22%7D\">Great Salt Lake Report Archive</a></u></strong></p><p><span style=\"font-size: 18px;\">Access reports and data from a wide range of scientific studies on Great Salt Lake.</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -41092,6 +41219,7 @@
       "label": "Text 357",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">WELCOME TO THE UTAH GEOLOGICAL SURVEY'S</strong></p><p><strong style=\"font-size: 20px;\">Great Salt Lake Brine Density and Chemistry Hub﻿</strong></p><p><span style=\"font-size: 14px;\">Explore data visualizations from the Great Salt Lake Brine Chemistry Database and access current and legacy reports on Great Salt Lake.</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -41104,6 +41232,7 @@
       "label": "Text 358",
       "config": {
         "text": "<p><strong style=\"font-size: 16px; color: var(--primary);\"><u><a href=\"page_21\" target=\"_self\" data-uniqueid=\"103e55de_5f45_02d2_bb1f_33d6dc8ce570\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_21%22%2C%22openType%22%3A%22_self%22%7D\">Chemistry Explorer</a></u></strong></p><p><span style=\"font-size: 14px;\">View chemistry measurement data and trends from Great Salt Lake sampling sites.</span></p><p><br></p><p><strong style=\"font-size: 16px; color: var(--primary);\"><u><a href=\"page_18\" target=\"_self\" data-uniqueid=\"1ea0d8f0_eded_a9bd_74d1_689c70472fac\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_18%22%2C%22openType%22%3A%22_self%22%7D\">Density and Salinity</a></u></strong></p><p><span style=\"font-size: 14px;\">View an interactive timeline of density and salinity measurements from selected sampling sites.</span></p><p><br></p><p><strong style=\"font-size: 16px; color: var(--primary);\"><u><a href=\"page_8\" target=\"_self\" data-uniqueid=\"92b604f4_db39_82c4_8e5d_2068635224fe\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_8%22%2C%22openType%22%3A%22_self%22%7D\">Great Salt Lake Report Archive</a></u></strong></p><p><span style=\"font-size: 14px;\">Access reports and data from a wide range of scientific studies on Great Salt Lake.</span></p>",
+        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -42658,8 +42787,8 @@
           "description": null,
           "config": {
             "messageUseDataSource": {
-              "dataSourceId": "dataSource_15-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "mainDataSourceId": "dataSource_15-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "dataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
+              "mainDataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
               "rootDataSourceId": "dataSource_15",
               "fields": [
                 "Site"
@@ -42680,8 +42809,8 @@
           "version": "1.18.0",
           "useDataSources": [
             {
-              "dataSourceId": "dataSource_15-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "mainDataSourceId": "dataSource_15-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "dataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
+              "mainDataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
               "rootDataSourceId": "dataSource_15",
               "fields": [
                 "Site"
@@ -42711,10 +42840,10 @@
           "description": null,
           "config": {
             "messageUseDataSource": {
-              "dataSourceId": "dataSource_14-48-dataView_1",
-              "mainDataSourceId": "dataSource_14-48",
+              "dataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+              "mainDataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
               "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_14",
+              "rootDataSourceId": "dataSource_15",
               "fields": [
                 "Site"
               ]
@@ -42734,10 +42863,10 @@
           "version": "1.17.0",
           "useDataSources": [
             {
-              "dataSourceId": "dataSource_14-48-dataView_1",
-              "mainDataSourceId": "dataSource_14-48",
+              "dataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+              "mainDataSourceId": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
               "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_14",
+              "rootDataSourceId": "dataSource_15",
               "fields": [
                 "Site"
               ]
@@ -42753,58 +42882,36 @@
           ]
         },
         {
-          "actionId": "widget_1382-flash-1755121407183",
+          "actionId": "widget_1382-flash-1749162070677",
           "widgetId": "widget_1382",
-          "sectionId": null,
           "messageWidgetId": "widget_1372",
           "actionName": "flash",
           "description": null,
           "config": {
-            "useAnyTriggerData": false,
+            "useAnyTriggerData": true,
             "messageUseDataSource": {
-              "dataSourceId": "dataSource_14-48-dataView_1",
-              "mainDataSourceId": "dataSource_14-48",
+              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
               "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_14",
-              "fields": [
-                "Site"
-              ]
+              "rootDataSourceId": "dataSource_12"
             },
-            "actionUseDataSource": {
-              "dataSourceId": "dataSource_15-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "mainDataSourceId": "dataSource_15-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "rootDataSourceId": "dataSource_15",
-              "fields": [
-                "Site"
-              ]
-            },
+            "actionUseDataSource": null,
             "sqlExprObj": null,
             "enabledDataRelationShip": true,
             "connectionType": "SET_CUSTOM_FIELDS"
           },
-          "version": "1.18.0",
+          "version": "1.17.0",
           "useDataSources": [
             {
-              "dataSourceId": "dataSource_14-48-dataView_1",
-              "mainDataSourceId": "dataSource_14-48",
+              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
               "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_14",
-              "fields": [
-                "Site"
-              ]
-            },
-            {
-              "dataSourceId": "dataSource_15-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "mainDataSourceId": "dataSource_15-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "rootDataSourceId": "dataSource_15",
-              "fields": [
-                "Site"
-              ]
+              "rootDataSourceId": "dataSource_12"
             }
           ]
         },
         {
-          "actionId": "widget_1382-panTo-1755121440674",
+          "actionId": "widget_1382-panTo-1751484719336",
           "widgetId": "widget_1382",
           "sectionId": null,
           "messageWidgetId": "widget_1372",
@@ -42812,28 +42919,28 @@
           "description": null,
           "config": {
             "useDataSource": {
-              "dataSourceId": "dataSource_14-48-dataView_1",
-              "mainDataSourceId": "dataSource_14-48",
-              "rootDataSourceId": "dataSource_14",
+              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+              "rootDataSourceId": "dataSource_12",
               "dataViewId": "dataView_1"
             },
             "useDataSources": [
               {
-                "dataSourceId": "dataSource_14-48-dataView_1",
-                "mainDataSourceId": "dataSource_14-48",
-                "rootDataSourceId": "dataSource_14",
+                "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+                "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+                "rootDataSourceId": "dataSource_12",
                 "dataViewId": "dataView_1"
               }
             ],
             "goToInitialMapExtentWhenSelectionCleared": true,
-            "useAnyTriggerData": false
+            "useAnyTriggerData": true
           },
           "version": "1.18.0",
           "useDataSources": [
             {
-              "dataSourceId": "dataSource_14-48-dataView_1",
-              "mainDataSourceId": "dataSource_14-48",
-              "rootDataSourceId": "dataSource_14",
+              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+              "rootDataSourceId": "dataSource_12",
               "dataViewId": "dataView_1"
             }
           ]
@@ -42852,8 +42959,8 @@
           "description": null,
           "config": {
             "messageUseDataSource": {
-              "dataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "mainDataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
               "rootDataSourceId": "dataSource_12",
               "fields": [
                 "Site"
@@ -42874,8 +42981,8 @@
           "version": "1.17.0",
           "useDataSources": [
             {
-              "dataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "mainDataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
               "rootDataSourceId": "dataSource_12",
               "fields": [
                 "Site"
@@ -42928,6 +43035,15 @@
           "version": "1.17.0",
           "useDataSources": [
             {
+              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+              "dataViewId": "dataView_1",
+              "rootDataSourceId": "dataSource_12",
+              "fields": [
+                "Site"
+              ]
+            },
+            {
               "dataSourceId": "dataSource_12-1977fb8f4bc-layer-104",
               "mainDataSourceId": "dataSource_12-1977fb8f4bc-layer-104",
               "rootDataSourceId": "dataSource_12",
@@ -42944,24 +43060,13 @@
           "actionName": "flash",
           "description": null,
           "config": {
-            "useAnyTriggerData": false,
+            "useAnyTriggerData": true,
             "messageUseDataSource": {
-              "dataSourceId": "dataSource_14-48-dataView_1",
-              "mainDataSourceId": "dataSource_14-48",
-              "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_14",
-              "fields": [
-                "Site"
-              ]
+              "dataSourceId": "dataSource_12-22d06255a91c4634aa1a8c31e85b5c47",
+              "mainDataSourceId": "dataSource_12-22d06255a91c4634aa1a8c31e85b5c47",
+              "rootDataSourceId": "dataSource_12"
             },
-            "actionUseDataSource": {
-              "dataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "mainDataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "rootDataSourceId": "dataSource_12",
-              "fields": [
-                "Site"
-              ]
-            },
+            "actionUseDataSource": null,
             "sqlExprObj": null,
             "enabledDataRelationShip": true,
             "connectionType": "SET_CUSTOM_FIELDS"
@@ -42969,21 +43074,9 @@
           "version": "1.17.0",
           "useDataSources": [
             {
-              "dataSourceId": "dataSource_14-48-dataView_1",
-              "mainDataSourceId": "dataSource_14-48",
-              "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_14",
-              "fields": [
-                "Site"
-              ]
-            },
-            {
-              "dataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "mainDataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "rootDataSourceId": "dataSource_12",
-              "fields": [
-                "Site"
-              ]
+              "dataSourceId": "dataSource_12-22d06255a91c4634aa1a8c31e85b5c47",
+              "mainDataSourceId": "dataSource_12-22d06255a91c4634aa1a8c31e85b5c47",
+              "rootDataSourceId": "dataSource_12"
             }
           ]
         },
@@ -42995,35 +43088,28 @@
           "description": null,
           "config": {
             "useDataSource": {
-              "dataSourceId": "dataSource_14-48-dataView_1",
-              "mainDataSourceId": "dataSource_14-48",
-              "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_14"
+              "dataSourceId": "dataSource_12-22d06255a91c4634aa1a8c31e85b5c47-dataView_1",
+              "mainDataSourceId": "dataSource_12-22d06255a91c4634aa1a8c31e85b5c47",
+              "rootDataSourceId": "dataSource_12",
+              "dataViewId": "dataView_1"
             },
             "useDataSources": [
               {
-                "dataSourceId": "dataSource_14-48-dataView_1",
-                "mainDataSourceId": "dataSource_14-48",
-                "dataViewId": "dataView_1",
-                "rootDataSourceId": "dataSource_14"
+                "dataSourceId": "dataSource_12-22d06255a91c4634aa1a8c31e85b5c47-dataView_1",
+                "mainDataSourceId": "dataSource_12-22d06255a91c4634aa1a8c31e85b5c47",
+                "rootDataSourceId": "dataSource_12",
+                "dataViewId": "dataView_1"
               }
             ],
-            "goToInitialMapExtentWhenSelectionCleared": true,
-            "useAnyTriggerData": false,
+            "goToInitialMapExtentWhenSelectionCleared": false,
+            "useAnyTriggerData": true,
             "isUseCustomZoomToOption": true,
             "zoomToOption": {
               "scale": 500000
             }
           },
           "version": "1.17.0",
-          "useDataSources": [
-            {
-              "dataSourceId": "dataSource_14-48-dataView_1",
-              "mainDataSourceId": "dataSource_14-48",
-              "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_14"
-            }
-          ]
+          "useDataSources": []
         },
         {
           "actionId": "widget_1462-panTo-1751484571824",
@@ -43034,29 +43120,29 @@
           "description": null,
           "config": {
             "useDataSource": {
-              "dataSourceId": "dataSource_14-48-dataView_1",
-              "mainDataSourceId": "dataSource_14-48",
-              "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_14"
+              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+              "rootDataSourceId": "dataSource_12",
+              "dataViewId": "dataView_1"
             },
             "useDataSources": [
               {
-                "dataSourceId": "dataSource_14-48-dataView_1",
-                "mainDataSourceId": "dataSource_14-48",
-                "dataViewId": "dataView_1",
-                "rootDataSourceId": "dataSource_14"
+                "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+                "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+                "rootDataSourceId": "dataSource_12",
+                "dataViewId": "dataView_1"
               }
             ],
             "goToInitialMapExtentWhenSelectionCleared": true,
-            "useAnyTriggerData": false
+            "useAnyTriggerData": true
           },
           "version": "1.18.0",
           "useDataSources": [
             {
-              "dataSourceId": "dataSource_14-48-dataView_1",
-              "mainDataSourceId": "dataSource_14-48",
-              "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_14"
+              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1",
+              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+              "rootDataSourceId": "dataSource_12",
+              "dataViewId": "dataView_1"
             }
           ]
         }
@@ -43119,8 +43205,8 @@
           "description": null,
           "config": {
             "messageUseDataSource": {
-              "dataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "mainDataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
               "rootDataSourceId": "dataSource_12",
               "fields": [
                 "Site"
@@ -43141,8 +43227,8 @@
           "version": "1.17.0",
           "useDataSources": [
             {
-              "dataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "mainDataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
+              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
               "rootDataSourceId": "dataSource_12",
               "fields": [
                 "Site"
@@ -43172,48 +43258,20 @@
           "actionName": "flash",
           "description": null,
           "config": {
-            "useAnyTriggerData": false,
+            "useAnyTriggerData": true,
             "messageUseDataSource": {
-              "dataSourceId": "dataSource_14-48-dataView_1",
-              "mainDataSourceId": "dataSource_14-48",
+              "dataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-108-dataView_1",
+              "mainDataSourceId": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-108",
               "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_14",
-              "fields": [
-                "Site"
-              ]
+              "rootDataSourceId": "dataSource_12"
             },
-            "actionUseDataSource": {
-              "dataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "mainDataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "rootDataSourceId": "dataSource_12",
-              "fields": [
-                "Site"
-              ]
-            },
+            "actionUseDataSource": null,
             "sqlExprObj": null,
             "enabledDataRelationShip": true,
             "connectionType": "SET_CUSTOM_FIELDS"
           },
           "version": "1.17.0",
-          "useDataSources": [
-            {
-              "dataSourceId": "dataSource_14-48-dataView_1",
-              "mainDataSourceId": "dataSource_14-48",
-              "dataViewId": "dataView_1",
-              "rootDataSourceId": "dataSource_14",
-              "fields": [
-                "Site"
-              ]
-            },
-            {
-              "dataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "mainDataSourceId": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "rootDataSourceId": "dataSource_12",
-              "fields": [
-                "Site"
-              ]
-            }
-          ]
+          "useDataSources": []
         },
         {
           "actionId": "widget_1571-zoomToFeature-1749575082808",
@@ -43567,7 +43625,17 @@
           "id": "dataSource_12-196d6000d40-layer-97",
           "type": "GROUP_LAYER",
           "sourceLabel": "GSL Map 4_14_25_WFL1",
-          "childDataSourceJsons": {},
+          "childDataSourceJsons": {
+            "196d600117c-layer-133": {
+              "id": "dataSource_12-196d6000d40-layer-97-196d600117c-layer-133",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "GSL4200Poly Merge",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "0c10f97d7db94fa78d86df2d9bec999c",
+              "layerId": "47",
+              "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_Map_4_14_25_WFL1/FeatureServer/47"
+            }
+          },
           "label": "GSL Map 4_14_25_WFL1"
         },
         "196d600117d-layer-137": {
@@ -43698,6 +43766,36 @@
           "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_causeway/FeatureServer/0",
           "label": "Causeway"
         },
+        "1977fd74288-layer-105": {
+          "id": "dataSource_12-1977fd74288-layer-105",
+          "type": "GROUP_LAYER",
+          "sourceLabel": "GSL 61725",
+          "childDataSourceJsons": {
+            "1977fd74403-layer-107": {
+              "id": "dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "Brine chem data sample locations 4 3 25",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "a426e888994c402895196707d9ae96bb",
+              "layerId": "48",
+              "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_61725/FeatureServer/48",
+              "dataViews": {
+                "dataView_1": {
+                  "id": "dataView_1",
+                  "label": "Data view 1",
+                  "orderBy": [
+                    {
+                      "jimuFieldName": "Status",
+                      "order": "ASC"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "label": "GSL 61725",
+          "isHidden": false
+        },
         "1977fd74404-layer-111": {
           "id": "dataSource_12-1977fd74404-layer-111",
           "type": "FEATURE_LAYER",
@@ -43739,209 +43837,6 @@
           "itemId": "a426e888994c402895196707d9ae96bb",
           "layerId": "51",
           "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_61725/FeatureServer/51"
-        },
-        "1977fd74403-layer-107": {
-          "id": "dataSource_12-1977fd74403-layer-107",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "Brine Chemistry Sample Locations",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "a426e888994c402895196707d9ae96bb",
-          "layerId": "48",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_61725/FeatureServer/48",
-          "dataViews": {
-            "dataView_1": {
-              "id": "dataView_1",
-              "label": "Data view 1",
-              "orderBy": [
-                {
-                  "jimuFieldName": "Status",
-                  "order": "ASC"
-                }
-              ]
-            }
-          }
-        },
-        "198a51cae11-layer-76": {
-          "id": "dataSource_12-198a51cae11-layer-76",
-          "type": "GROUP_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25",
-          "childDataSourceJsons": {
-            "198a51cb18a-layer-114": {
-              "id": "dataSource_12-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "type": "FEATURE_LAYER",
-              "sourceLabel": "Brine chem data sample locations 4 3 25",
-              "portalUrl": "https://www.arcgis.com",
-              "itemId": "69429d48cc234209a071993211d2825a",
-              "layerId": "48",
-              "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/48",
-              "dataViews": {
-                "dataView_1": {
-                  "id": "dataView_1",
-                  "label": "Data view 1",
-                  "orderBy": [
-                    {
-                      "jimuFieldName": "Status",
-                      "order": "ASC"
-                    }
-                  ]
-                }
-              }
-            }
-          },
-          "isHidden": false
-        },
-        "196d600117c-layer-133": {
-          "id": "dataSource_12-196d600117c-layer-133",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "Contours",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "0c10f97d7db94fa78d86df2d9bec999c",
-          "layerId": "47",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_Map_4_14_25_WFL1/FeatureServer/47"
-        },
-        "198a51cb18c-layer-122": {
-          "id": "dataSource_12-198a51cb18c-layer-122",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - AS2 ",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "3",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/3"
-        },
-        "198a51cb18c-layer-121": {
-          "id": "dataSource_12-198a51cb18c-layer-121",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data test",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "4",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/4"
-        },
-        "198a51cb18c-layer-120": {
-          "id": "dataSource_12-198a51cb18c-layer-120",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - AS2 ",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "5",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/5"
-        },
-        "198a51cb18a-layer-119": {
-          "id": "dataSource_12-198a51cb18a-layer-119",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine-chem-data-4-3-25.csv",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "49",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/49"
-        },
-        "198a51cb18a-layer-118": {
-          "id": "dataSource_12-198a51cb18a-layer-118",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine-chem-data-4-14-25.csv",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "53",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/53"
-        },
-        "198a51cb18a-layer-117": {
-          "id": "dataSource_12-198a51cb18a-layer-117",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 14 25",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "54",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/54"
-        },
-        "198a51cb18a-layer-116": {
-          "id": "dataSource_12-198a51cb18a-layer-116",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 14 25",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "55",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/55"
-        },
-        "198a51cb18a-layer-115": {
-          "id": "dataSource_12-198a51cb18a-layer-115",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 3 25 csv",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "56",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/56"
-        },
-        "198a51184a1-layer-75": {
-          "id": "dataSource_12-198a51184a1-layer-75",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - AS2 ",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "3",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/3"
-        },
-        "198a51184a1-layer-74": {
-          "id": "dataSource_12-198a51184a1-layer-74",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data test",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "4",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/4"
-        },
-        "198a51184a1-layer-73": {
-          "id": "dataSource_12-198a51184a1-layer-73",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - AS2 ",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "5",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/5"
-        },
-        "198a51184a1-layer-72": {
-          "id": "dataSource_12-198a51184a1-layer-72",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine-chem-data-4-3-25.csv",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "49",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/49"
-        },
-        "198a51184a0-layer-71": {
-          "id": "dataSource_12-198a51184a0-layer-71",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine-chem-data-4-14-25.csv",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "53",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/53"
-        },
-        "198a51184a0-layer-70": {
-          "id": "dataSource_12-198a51184a0-layer-70",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 14 25",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "54",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/54"
-        },
-        "198a51184a0-layer-69": {
-          "id": "dataSource_12-198a51184a0-layer-69",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 14 25",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "55",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/55"
-        },
-        "198a51184a0-layer-68": {
-          "id": "dataSource_12-198a51184a0-layer-68",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 3 25 csv",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "56",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/56"
         }
       },
       "isHidden": false
@@ -44446,6 +44341,35 @@
       "itemId": "d49c020616a24528924490dec5ac1c2a",
       "portalUrl": "https://utahDNR.maps.arcgis.com",
       "childDataSourceJsons": {
+        "1977fd74288-layer-105": {
+          "id": "dataSource_15-1977fd74288-layer-105",
+          "type": "GROUP_LAYER",
+          "sourceLabel": "Brine Chemistry Locations",
+          "childDataSourceJsons": {
+            "1977fd74403-layer-107": {
+              "id": "dataSource_15-1977fd74288-layer-105-1977fd74403-layer-107",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "Brine chem data sample locations 4 3 25",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "a426e888994c402895196707d9ae96bb",
+              "layerId": "48",
+              "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_61725/FeatureServer/48",
+              "dataViews": {
+                "dataView_1": {
+                  "id": "dataView_1",
+                  "label": "Data view 1",
+                  "orderBy": [
+                    {
+                      "jimuFieldName": "Status",
+                      "order": "ASC"
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "isHidden": false
+        },
         "1973c3107e2-layer-99": {
           "id": "dataSource_15-1973c3107e2-layer-99",
           "type": "FEATURE_LAYER",
@@ -44468,7 +44392,17 @@
           "id": "dataSource_15-196d6000d40-layer-97",
           "type": "GROUP_LAYER",
           "sourceLabel": "Water Level Contours",
-          "childDataSourceJsons": {}
+          "childDataSourceJsons": {
+            "196d600117c-layer-133": {
+              "id": "dataSource_15-196d6000d40-layer-97-196d600117c-layer-133",
+              "type": "FEATURE_LAYER",
+              "sourceLabel": "Contours",
+              "portalUrl": "https://www.arcgis.com",
+              "itemId": "0c10f97d7db94fa78d86df2d9bec999c",
+              "layerId": "47",
+              "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_Map_4_14_25_WFL1/FeatureServer/47"
+            }
+          }
         },
         "1977fd74404-layer-111": {
           "id": "dataSource_15-1977fd74404-layer-111",
@@ -44658,196 +44592,6 @@
           "itemId": "0c10f97d7db94fa78d86df2d9bec999c",
           "layerId": "3",
           "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_Map_4_14_25_WFL1/FeatureServer/3"
-        },
-        "1977fd74403-layer-107": {
-          "id": "dataSource_15-1977fd74403-layer-107",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "Brine Chemistry Sample Locations",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "a426e888994c402895196707d9ae96bb",
-          "layerId": "48",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_61725/FeatureServer/48",
-          "dataViews": {
-            "dataView_1": {
-              "id": "dataView_1",
-              "label": "Data view 1",
-              "orderBy": [
-                {
-                  "jimuFieldName": "Status",
-                  "order": "ASC"
-                }
-              ]
-            }
-          }
-        },
-        "198a51cae11-layer-76": {
-          "id": "dataSource_15-198a51cae11-layer-76",
-          "type": "GROUP_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25",
-          "childDataSourceJsons": {
-            "198a51cb18a-layer-114": {
-              "id": "dataSource_15-198a51cae11-layer-76-198a51cb18a-layer-114",
-              "type": "FEATURE_LAYER",
-              "sourceLabel": "Brine chem data sample locations 4 3 25",
-              "portalUrl": "https://www.arcgis.com",
-              "itemId": "69429d48cc234209a071993211d2825a",
-              "layerId": "48",
-              "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/48"
-            }
-          }
-        },
-        "196d600117c-layer-133": {
-          "id": "dataSource_15-196d600117c-layer-133",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "Contours",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "0c10f97d7db94fa78d86df2d9bec999c",
-          "layerId": "47",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/GSL_Map_4_14_25_WFL1/FeatureServer/47"
-        },
-        "198a51cb18c-layer-122": {
-          "id": "dataSource_15-198a51cb18c-layer-122",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - AS2 ",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "3",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/3"
-        },
-        "198a51cb18c-layer-121": {
-          "id": "dataSource_15-198a51cb18c-layer-121",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data test",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "4",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/4"
-        },
-        "198a51cb18c-layer-120": {
-          "id": "dataSource_15-198a51cb18c-layer-120",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - AS2 ",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "5",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/5"
-        },
-        "198a51cb18a-layer-119": {
-          "id": "dataSource_15-198a51cb18a-layer-119",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine-chem-data-4-3-25.csv",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "49",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/49"
-        },
-        "198a51cb18a-layer-118": {
-          "id": "dataSource_15-198a51cb18a-layer-118",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine-chem-data-4-14-25.csv",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "53",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/53"
-        },
-        "198a51cb18a-layer-117": {
-          "id": "dataSource_15-198a51cb18a-layer-117",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 14 25",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "54",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/54"
-        },
-        "198a51cb18a-layer-116": {
-          "id": "dataSource_15-198a51cb18a-layer-116",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 14 25",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "55",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/55"
-        },
-        "198a51cb18a-layer-115": {
-          "id": "dataSource_15-198a51cb18a-layer-115",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 3 25 csv",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "56",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/56"
-        },
-        "198a51184a1-layer-75": {
-          "id": "dataSource_15-198a51184a1-layer-75",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - AS2 ",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "3",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/3"
-        },
-        "198a51184a1-layer-74": {
-          "id": "dataSource_15-198a51184a1-layer-74",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data test",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "4",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/4"
-        },
-        "198a51184a1-layer-73": {
-          "id": "dataSource_15-198a51184a1-layer-73",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - AS2 ",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "5",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/5"
-        },
-        "198a51184a1-layer-72": {
-          "id": "dataSource_15-198a51184a1-layer-72",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine-chem-data-4-3-25.csv",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "49",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/49"
-        },
-        "198a51184a0-layer-71": {
-          "id": "dataSource_15-198a51184a0-layer-71",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine-chem-data-4-14-25.csv",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "53",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/53"
-        },
-        "198a51184a0-layer-70": {
-          "id": "dataSource_15-198a51184a0-layer-70",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 14 25",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "54",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/54"
-        },
-        "198a51184a0-layer-69": {
-          "id": "dataSource_15-198a51184a0-layer-69",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 14 25",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "55",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/55"
-        },
-        "198a51184a0-layer-68": {
-          "id": "dataSource_15-198a51184a0-layer-68",
-          "type": "FEATURE_LAYER",
-          "sourceLabel": "brine_chem_data_sample_locations_4_3_25 - Brine chem data 4 3 25 csv",
-          "portalUrl": "https://www.arcgis.com",
-          "itemId": "69429d48cc234209a071993211d2825a",
-          "layerId": "56",
-          "url": "https://services.arcgis.com/ZzrwjTRez6FJiOq4/arcgis/rest/services/brine_chem_data_sample_locations_4_3_25/FeatureServer/56"
         }
       },
       "isHidden": false
@@ -45843,11 +45587,7 @@
           "dataSourceId": "dataSource_12-1977fb8f4bc-layer-104-selection",
           "mainDataSourceId": "dataSource_12-1977fb8f4bc-layer-104",
           "rootDataSourceId": "dataSource_12",
-          "dataViewId": "selection",
-          "fields": [
-            "DATE",
-            "LAB_DEN__g_cm3_"
-          ]
+          "dataViewId": "selection"
         }
       ],
       "isOutputFromWidget": true,
@@ -45874,12 +45614,12 @@
               "DATE"
             ]
           },
-          "avg_of_LAB_DEN__g_cm3_": {
-            "jimuName": "avg_of_LAB_DEN__g_cm3_",
-            "name": "avg_of_LAB_DEN__g_cm3_",
+          "LAB_DEN__g_cm3_": {
+            "jimuName": "LAB_DEN__g_cm3_",
+            "name": "LAB_DEN__g_cm3_",
             "type": "NUMBER",
             "esriType": "esriFieldTypeDouble",
-            "alias": "Avg of LAB-DEN_(g/cm3)",
+            "alias": "LAB-DEN_(g/cm3)",
             "format": {
               "digitSeparator": false,
               "places": 6
@@ -47265,7 +47005,7 @@
     },
     "backgroundColor": "#000000"
   },
-  "timestamp": "1755177077119",
+  "timestamp": "1755024672274",
   "customTheme": {
     "colors": {
       "primary": "#ea7f1d",
@@ -47304,6 +47044,5 @@
     "height": {
       "LARGE": 75
     }
-  },
-  "publishTimestamp": 1755177097267
+  }
 }

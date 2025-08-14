@@ -1,58 +1,92 @@
-name: Build and Deploy to Firebase Preview
-on: pull_request
+name: Build-and-Deploy
+on:
+  pull_request:
+    branches: [ main ]
+    
 permissions:
   checks: write
   contents: read
   pull-requests: write
+  
 jobs:
-  Build-and-Deploy:
+  build-and-deploy:
     if: ${{ github.event.pull_request.head.repo.full_name == github.repository }}
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository code
-        uses: actions/checkout@v4
-      - name: Download Experience Builder
-        run: curl -o exb.zip "$(curl -s 'https://downloads.arcgis.com/dms/rest/download/secured/arcgis-experience-builder-1.17.zip?f=json&folder=software%2FExperienceBuilder%2F1.17' | python3 -c "import sys, json; print(json.load(sys.stdin)['url'])")"
-      - name: Unzip Experience Builder
-        run: unzip -q exb.zip -d exb
-      # - name: Copy Custom Widgets
-      # run: cp -r widgets/* exb/ArcGISExperienceBuilder/client/your-extensions/widgets
-      # - name: Copy Custom Themes
-      # run: cp -r themes/* exb/ArcGISExperienceBuilder/client/your-extensions/themes
-      - name: Create App directory
-        run: mkdir public && cd public && mkdir apps && cd apps
-        working-directory: exb/ArcGISExperienceBuilder/server
-      - name: Copy apps
-        run: cp -r apps/* exb/ArcGISExperienceBuilder/server/public/apps
-      - name: NPM install client folder
-        run: npm ci
-        working-directory: exb/ArcGISExperienceBuilder/client
-      - name: NPM install in server folder
-        run: npm ci
-        working-directory: exb/ArcGISExperienceBuilder/server
-      - name: Build widgets - dev
-        run: npm run build:dev
-        working-directory: exb/ArcGISExperienceBuilder/client
-      - name: Build widgets
-        run: npm run build:prod
-        working-directory: exb/ArcGISExperienceBuilder/client
-      - name: Run download script
-        run: |
-          node -e "require('./server/src/middlewares/dev/apps/app-download.js').zipApp('0', 'app.zip')"
-          ls -la  # This will show where the file is created
-        working-directory: exb/ArcGISExperienceBuilder
-        env:
-          NODE_ENV: production
-      - name: Unzip app zip
-        run: |
-          unzip -o -q app.zip -d app
-          chmod -R 777 app
-        working-directory: exb/ArcGISExperienceBuilder
-
-      - name: Deploy to Firebase Preview Channel
-        uses: FirebaseExtended/action-hosting-deploy@v0
-        with:
-          repoToken: ${{ secrets.GITHUB_TOKEN }}
-          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_UT_DNR_UGS_GSLHUB }}
-          projectId: ut-dnr-ugs-gslhub
-          channelId: preview
+    - uses: actions/checkout@v4
+    
+    - name: Download Experience Builder 1.18
+      run: |
+        curl -o exb.zip "$(curl -s 'https://downloads.arcgis.com/dms/rest/download/secured/arcgis-experience-builder-1.18.zip?f=json&folder=software%2FExperienceBuilder%2F1.18' | python3 -c "import sys, json; print(json.load(sys.stdin)['url'])")"
+    
+    - name: Extract Experience Builder
+      run: |
+        unzip -q exb.zip -d exb
+    
+    - name: Setup app directories
+      run: |
+        mkdir -p exb/server/public/apps
+    
+    - name: Copy app files
+      run: |
+        cp -r apps/* exb/server/public/apps/
+    
+    - name: Install client dependencies
+      run: |
+        cd exb/client
+        npm ci
+    
+    - name: Install server dependencies
+      run: |
+        cd exb/server
+        npm ci
+        
+    - name: Build client (dev)
+      run: |
+        cd exb/client
+        npm run build:dev
+        
+    - name: Build client (prod)
+      run: |
+        cd exb/client
+        npm run build:prod
+        
+    - name: Publish and build app
+      run: |
+        cd exb
+        
+        # Publish the app first
+        node -e "
+          const fs = require('fs');
+          const configPath = './server/public/apps/0/config.json';
+          
+          if (fs.existsSync(configPath)) {
+            const config = JSON.parse(fs.readFileSync(configPath, 'utf8'));
+            config.published = true;
+            fs.writeFileSync(configPath, JSON.stringify(config, null, 2));
+            console.log('App marked as published');
+          } else {
+            console.error('Config file not found at', configPath);
+            process.exit(1);
+          }
+        "
+        
+        # Create the ZIP export
+        node -e "require('./server/src/middlewares/dev/apps/app-download.js').zipApp('0', 'app.zip')"
+        ls -la  # Show where the file is created
+      env:
+        NODE_ENV: production
+    
+    - name: Unzip app zip
+      run: |
+        unzip -o -q app.zip -d app
+        chmod -R 777 app
+      working-directory: exb
+    
+    - name: Deploy to Firebase Preview Channel
+      uses: FirebaseExtended/action-hosting-deploy@v0
+      with:
+        repoToken: ${{ secrets.GITHUB_TOKEN }}
+        firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_UT_DNR_UGS_GSLHUB }}
+        projectId: ut-dnr-ugs-gslhub
+        channelId: preview
