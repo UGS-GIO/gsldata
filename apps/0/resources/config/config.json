@@ -189,31 +189,32 @@
           "type": "WIDGET",
           "widgetId": "widget_75",
           "bbox": {
-            "left": "10.00px",
-            "right": "94.4%",
+            "left": "10px",
+            "right": "90.8%",
             "top": "50%",
-            "bottom": "12.399999999999999%",
-            "width": "35.00px",
-            "height": "37.66px"
+            "bottom": "6.9%",
+            "width": "123.00px",
+            "height": "38.00px"
           },
           "setting": {
             "autoProps": {
               "left": false,
               "right": true,
-              "top": false,
-              "bottom": true,
+              "top": true,
+              "bottom": false,
               "width": "CUSTOM",
               "height": "CUSTOM"
             },
             "vCenter": true,
-            "hCenter": false
+            "hCenter": false,
+            "lockParent": true
           }
         },
         "5": {
           "type": "WIDGET",
           "widgetId": "widget_190",
           "bbox": {
-            "left": "45px",
+            "left": "170.00px",
             "right": "60.7%",
             "top": "50%",
             "bottom": "0.0%",
@@ -239,11 +240,9 @@
         "lockDescendants": true
       },
       "order": [
-        "0",
-        "1",
-        "3",
+        "5",
         "4",
-        "5"
+        "0"
       ]
     },
     "layout_98": {
@@ -365,12 +364,12 @@
           "type": "WIDGET",
           "widgetId": "widget_75",
           "bbox": {
-            "left": "10.00px",
-            "right": "94.4%",
+            "left": "10px",
+            "right": "81.6%",
             "top": "50%",
-            "bottom": "12.399999999999999%",
-            "width": "35.00px",
-            "height": "37.66px"
+            "bottom": "6.5%",
+            "width": "143px",
+            "height": "38px"
           },
           "setting": {
             "autoProps": {
@@ -414,8 +413,8 @@
           "type": "WIDGET",
           "widgetId": "widget_394",
           "bbox": {
-            "left": "48.00px",
-            "right": "60.7%",
+            "left": "170.00px",
+            "right": "50.00px",
             "top": "50%",
             "bottom": "0.0%",
             "width": "35.8%",
@@ -425,8 +424,8 @@
             "vCenter": true,
             "hCenter": false,
             "autoProps": {
-              "left": false,
-              "right": true,
+              "left": true,
+              "right": false,
               "top": false,
               "bottom": true,
               "height": "AUTO",
@@ -464,11 +463,9 @@
         "lockDescendants": true
       },
       "order": [
-        "0",
         "4",
-        "5",
-        "6",
-        "7"
+        "7",
+        "6"
       ]
     },
     "layout_358": {
@@ -552,8 +549,8 @@
           "type": "WIDGET",
           "widgetId": "widget_587",
           "bbox": {
-            "left": "35.00px",
-            "right": "60.7%",
+            "left": "200.00px",
+            "right": "40.00px",
             "top": "50%",
             "bottom": "0.0%",
             "width": "35.8%",
@@ -563,39 +560,13 @@
             "vCenter": true,
             "hCenter": false,
             "autoProps": {
-              "left": false,
-              "right": true,
+              "left": true,
+              "right": false,
               "top": false,
               "bottom": true,
               "height": "AUTO",
               "width": "AUTO"
             }
-          }
-        },
-        "7": {
-          "type": "WIDGET",
-          "widgetId": "widget_588",
-          "bbox": {
-            "left": "5.00px",
-            "right": "94.4%",
-            "top": "50%",
-            "bottom": "12.399999999999999%",
-            "width": "30.00px",
-            "height": "28px"
-          },
-          "setting": {
-            "autoProps": {
-              "left": false,
-              "right": true,
-              "top": false,
-              "bottom": true,
-              "width": "CUSTOM",
-              "height": {}
-            },
-            "vCenter": true,
-            "hCenter": false,
-            "heightMode": "ratio",
-            "aspectRatio": 1.08
           }
         },
         "8": {
@@ -621,6 +592,30 @@
             "vCenter": true,
             "hCenter": false
           }
+        },
+        "9": {
+          "type": "WIDGET",
+          "widgetId": "widget_1781",
+          "bbox": {
+            "left": "-120px",
+            "right": "151px",
+            "top": "0px",
+            "bottom": "-0.8%",
+            "width": "384px",
+            "height": "44px"
+          },
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false,
+              "width": "CUSTOM",
+              "height": "CUSTOM"
+            },
+            "vCenter": false,
+            "hCenter": false
+          }
         }
       },
       "type": "FIXED",
@@ -628,11 +623,8 @@
         "lockDescendants": true
       },
       "order": [
-        "0",
-        "4",
-        "5",
+        "9",
         "6",
-        "7",
         "8"
       ]
     },
@@ -7699,10 +7691,10 @@
           "type": "WIDGET",
           "widgetId": "widget_1488",
           "bbox": {
-            "left": "85.3%",
-            "right": "6.00px",
-            "top": "6.00px",
-            "bottom": "89.3%",
+            "left": "85.2%",
+            "right": "7px",
+            "top": "6px",
+            "bottom": "89.6%",
             "width": "114px",
             "height": "26px"
           },
@@ -7730,12 +7722,12 @@
           "type": "WIDGET",
           "widgetId": "widget_1489",
           "bbox": {
-            "left": "0%",
-            "right": "0%",
-            "top": "0.00px",
-            "bottom": "0%",
-            "width": "100%",
-            "height": "100%"
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0px",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
           },
           "setting": {
             "autoProps": {
@@ -10627,7 +10619,6 @@
       "label": "Text 10",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\">Utah Geological Survey</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -10645,20 +10636,21 @@
           "linkParam": {},
           "scale": "Fit",
           "imageParam": {
-            "url": "${appResourceUrl}/images/widget_75/1741129066801.png",
-            "originalUrl": "${appResourceUrl}/images/widget_75/1741129066801.png",
-            "fileName": "1741129066801.png",
-            "originalName": "1712155160033.png",
+            "url": "${appResourceUrl}/images/widget_75/1789416184546.png",
+            "originalUrl": "${appResourceUrl}/images/widget_75/1789416184546.png",
+            "fileName": "1789416184546.png",
+            "originalName": "SM-UGSAcroynm_MottoIcon_Logo_Template-WHT.png",
             "imgSourceType": "BY_UPLOAD",
             "fileFormat": "image/png",
-            "originalId": "1741129066801",
-            "isUseCompress": false,
-            "originalWidth": 58,
-            "originalHeight": 65
+            "originalId": "1789416184546",
+            "originalWidth": 1335,
+            "originalHeight": 447
           },
           "imageDisplayQualityMode": "ORIGINAL",
           "imgSourceType": "",
-          "srcExpression": null
+          "srcExpression": null,
+          "imageViewer": false,
+          "imageFillMode": "FIT"
         },
         "styleConfig": {}
       },
@@ -10707,7 +10699,7 @@
               "lineSymbol": {
                 "type": "esriSLS",
                 "style": "esriSLSSolid",
-                "color": "#5E8FD0",
+                "color": "#4277be",
                 "width": 2
               },
               "dataLabels": {
@@ -10734,7 +10726,7 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#5E8FD0",
+                "color": "#4277be",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
@@ -11035,7 +11027,6 @@
       "label": "Text 26",
       "config": {
         "text": "<p style=\"line-height: 1.3; text-align: left;\"><strong style=\"font-size: 15px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Great Salt Lake </strong></p><p style=\"line-height: 1.3; text-align: left;\"><strong style=\"font-size: 13px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Brine Density and Chemistry Hub</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true,
           "color": "#ffffff"
@@ -11048,8 +11039,7 @@
       "version": "1.18.0",
       "label": "Text 73",
       "config": {
-        "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 15px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Great Salt Lake Brine Density and Chemistry Hub</strong></p>",
-        "placeholder": "Double click to edit text",
+        "text": "<p style=\"text-align: right;\"><strong style=\"background-color: transparent; color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;; font-size: 15px;\">Great Salt Lake Brine Density and Chemistry Hub</strong></p>",
         "style": {
           "wrap": true,
           "color": "#ffffff"
@@ -11086,44 +11076,13 @@
       "version": "1.18.0",
       "label": "Text 93",
       "config": {
-        "text": "<p style=\"text-align: left; line-height: 1;\"><strong style=\"background-color: transparent; color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;; font-size: 12px;\">Great Salt Lake Brine</strong></p><p style=\"text-align: left; line-height: 1;\"><strong style=\"background-color: transparent; color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;; font-size: 12px;\">Density and Chemistry Hub</strong></p>",
-        "placeholder": "Double click to edit text",
+        "text": "<p style=\"text-align: right; line-height: 1;\"><strong style=\"background-color: transparent; color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;; font-size: 12px;\">Great Salt Lake Brine</strong></p><p style=\"text-align: right; line-height: 1;\"><strong style=\"background-color: transparent; color: rgb(255, 255, 255); font-family: &quot;Avenir Next&quot;; font-size: 12px;\">Density and Chemistry Hub</strong></p>",
         "style": {
           "wrap": true,
           "color": "#ffffff"
         }
       },
       "id": "widget_587"
-    },
-    "widget_588": {
-      "uri": "widgets/common/image/",
-      "version": "1.18.0",
-      "label": "Image 10",
-      "config": {
-        "functionConfig": {
-          "altText": "",
-          "toolTip": "",
-          "linkParam": {},
-          "scale": "Fit",
-          "imageParam": {
-            "url": "${appResourceUrl}/images/widget_75/1741129066801.png",
-            "originalUrl": "${appResourceUrl}/images/widget_75/1741129066801.png",
-            "fileName": "1741129066801.png",
-            "originalName": "1712155160033.png",
-            "imgSourceType": "BY_UPLOAD",
-            "fileFormat": "image/png",
-            "originalId": "1741129066801",
-            "isUseCompress": false,
-            "originalWidth": 58,
-            "originalHeight": 65
-          },
-          "imageDisplayQualityMode": "ORIGINAL",
-          "imgSourceType": "",
-          "srcExpression": null
-        },
-        "styleConfig": {}
-      },
-      "id": "widget_588"
     },
     "widget_589": {
       "uri": "widgets/common/menu/",
@@ -11301,7 +11260,6 @@
       "label": "Text 100",
       "config": {
         "text": "<p style=\"text-align: left;\"><span style=\"font-size: 18px;\"> </span><strong style=\"font-size: 16px; color: rgb(255, 255, 255);\"><exp data-uniqueid=\"0b9a2b5f_2b6a_1beb_2402_05996934f523\" data-dsid=\"dataSource_11-1a4c7328bfa74a858a73ae8afc33516c-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-1a4c7328bfa74a858a73ae8afc33516c-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Site}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></strong><span style=\"font-size: 18px;\">&nbsp;</span>&nbsp;</p>",
-        "placeholder": "<p><span style=\"font-size: 13px;color: var(--dark-800);\">Lorem ipsum dolor sit amet</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": false,
@@ -11319,7 +11277,6 @@
       "label": "Text 101",
       "config": {
         "text": "<p style=\"text-align: right;\">﻿<exp data-uniqueid=\"2915a191_68d7_375c_fdb4_5e13867ee3a8\" data-dsid=\"dataSource_11-1a4c7328bfa74a858a73ae8afc33516c-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BStatus%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BStatus%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-1a4c7328bfa74a858a73ae8afc33516c-dataView_1%22%2C%22jimuFieldName%22%3A%22Status%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">{Status}</span>﻿</exp>&nbsp;</p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -11334,7 +11291,6 @@
       "label": "Text 102",
       "config": {
         "text": "<h1><strong style=\"font-size: 22px;\">Density and Salinity</strong></h1>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -11393,7 +11349,6 @@
       "label": "Text 103",
       "config": {
         "text": "<h1 style=\"text-align: left;\"><strong style=\"font-size: 18.2px;\">Great Salt Lake Brine Chemistry Database</strong></h1>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -11470,7 +11425,6 @@
       "label": "Text 104",
       "config": {
         "text": "<p><span style=\"font-size: 16px;\">The salinity level of Great Salt Lake (GSL) is quite dynamic due to natural lake level fluctuations and man-made barriers within the lake. At a number of sites throughout the lake, the UGS takes samples at various depths through the water column, measures those samples for density, and analyzes them for chemistry. This sampling program has largely been funded by the Utah Division of Forestry, Fire and State Lands.</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -11570,7 +11524,6 @@
       "label": "Text 105",
       "config": {
         "text": "<p><strong style=\"font-size: 15px;\">﻿Chart Data</strong></p><p>Use the depth and chemical filters below to view the data of interest. </p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -11583,7 +11536,6 @@
       "label": "Text 106",
       "config": {
         "text": "<p>﻿Select a depth</p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -12471,7 +12423,6 @@
       "label": "Text 107",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"ee05ab55_c1e6_24c4_88a7_5cdcea469b3d\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22Density%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22%C2%A0%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22%2B%22%7D%2C%7B%22type%22%3A%22STRING%22%2C%22exp%22%3A%22%5C%22%20Density%5C%22%22%7D%2C%7B%22type%22%3A%22OPERATOR%22%2C%22exp%22%3A%22%C2%A0%22%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿Density﻿</span>﻿</exp>&nbsp;g/cm3</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -12884,7 +12835,6 @@
       "label": "Text 108",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{SITE}﻿</span>﻿</exp>&nbsp;Density g/cm3</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -13315,7 +13265,6 @@
       "label": "Text 109",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{SITE}﻿﻿</span>﻿</exp>&nbsp;Na+ g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -13677,7 +13626,6 @@
       "label": "Text 110",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{SITE}﻿﻿</span>﻿</exp>&nbsp;Na+ g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -14059,7 +14007,6 @@
       "label": "Text 111",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿{SITE}﻿﻿﻿</span>﻿</exp>&nbsp;Mg g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -14570,7 +14517,6 @@
       "label": "Text 112",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿{SITE}﻿﻿﻿</span>﻿</exp>&nbsp;Mg g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -14852,7 +14798,6 @@
       "label": "Text 113",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿{SITE}﻿﻿﻿﻿</span>﻿</exp>&nbsp;K g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -15363,7 +15308,6 @@
       "label": "Text 114",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿{SITE}﻿﻿﻿﻿</span>﻿</exp> K g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -15745,7 +15689,6 @@
       "label": "Text 115",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿{SITE}﻿﻿﻿﻿﻿</span>﻿</exp>&nbsp;Ca g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -16156,7 +16099,6 @@
       "label": "Text 116",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿{SITE}﻿﻿﻿﻿﻿</span>﻿</exp>&nbsp;Ca g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -16438,7 +16380,6 @@
       "label": "Text 117",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿{SITE}﻿﻿﻿﻿﻿﻿</span>﻿</exp>&nbsp;Cl g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -16849,7 +16790,6 @@
       "label": "Text 118",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿{SITE}﻿﻿﻿﻿﻿﻿</span>﻿</exp>&nbsp;Cl g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -17231,7 +17171,6 @@
       "label": "Text 119",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿{SITE}﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp> SO4 g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -17642,7 +17581,6 @@
       "label": "Text 120",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿{SITE}﻿﻿﻿﻿﻿﻿</span>﻿</exp>&nbsp;SO4 g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -18024,7 +17962,6 @@
       "label": "Text 121",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿{SITE}﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp>&nbsp;Lab TDS g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -18435,7 +18372,6 @@
       "label": "Text 122",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"800e9348_c5f0_1765_2864_a66e5f77628e\" data-dsid=\"dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_11-6f24d7af38874fe2bfc59b41d6810ed7-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿{SITE}﻿﻿﻿﻿﻿﻿</span>﻿</exp>&nbsp;Lab TDS g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -18753,7 +18689,6 @@
       "label": "Text 125",
       "config": {
         "text": "<p style=\"line-height: 1.38;\"><span style=\"font-size: 18px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">This heatmap shows monthly chemical conditions of active sampling sites at the Great Salt Lake. Use the slider or play button to view monthly changes.</span></p><p style=\"line-height: 1.38;\"><br></p><p style=\"line-height: 1.38;\"><strong style=\"font-size: 18px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Interpretation guide:</strong></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 18px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Heatmap shows interpolated density (darker blue = higher g/cm³) or salinity (darker green = higher g/L). </span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 18px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Circles are sampling stations; color matches legend if data exists. </span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 18px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Observe potential correlations between temperature (Avg Temp) and density or salinity patterns. </span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 18px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Data is interpolated between stations using inverse distance weighting. </span></li></ol>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -18815,7 +18750,6 @@
       "label": "Text 135",
       "config": {
         "text": "<p><strong style=\"font-size: 22px;\">Great Salt Lake Brine Chemistry Database</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -18828,7 +18762,6 @@
       "label": "Text 136",
       "config": {
         "text": "<p><span style=\"font-size: 18px;\">The salinity level of Great Salt Lake (GSL) is quite dynamic due to natural lake level fluctuations and man-made barriers within the lake. At a number of sites throughout the lake, the UGS takes samples at various depths through the water column, measures those samples for density, and analyzes them for chemistry. This sampling program has largely been funded by the Utah Division of Forestry, Fire and State Lands.</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -18969,7 +18902,6 @@
       "label": "Text 139",
       "config": {
         "text": "<p style=\"line-height: 1.38;\"><span style=\"font-size: 16px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">This heatmap shows monthly chemical conditions of active sampling sites at the Great Salt Lake. Use the slider or play button to view monthly changes.</span></p><p style=\"line-height: 1.38;\"><br></p><p style=\"line-height: 1.38;\"><strong style=\"font-size: 16px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Interpretation guide:</strong></p><ol><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 16px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Heatmap shows interpolated density (darker blue = higher g/cm³) or salinity (darker green = higher g/L). </span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 16px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Circles are sampling stations; color matches legend if data exists. </span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 16px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Observe potential correlations between temperature (Avg Temp) and density or salinity patterns. </span></li><li data-list=\"bullet\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-size: 16px; font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent;\">Data is interpolated between stations using inverse distance weighting. </span></li></ol>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19012,7 +18944,6 @@
       "label": "Text 142",
       "config": {
         "text": "<p><span style=\"font-size: 13px;\">The salinity level of Great Salt Lake (GSL) is quite dynamic due to natural lake level fluctuations and man-made barriers within the lake. At a number of sites throughout the lake, the UGS takes samples at various depths through the water column, measures those samples for density, and analyzes them for chemistry. This sampling program has largely been funded by the Utah Division of Forestry, Fire and State Lands.</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19093,7 +19024,6 @@
       "label": "Text 143",
       "config": {
         "text": "<p style=\"line-height: 1.29;\"><span style=\"font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent; font-size: 16px;\">This heatmap shows monthly chemical conditions of active sampling sites at the Great Salt Lake. Use the slider or play button to view monthly changes.</span></p><p style=\"line-height: 1.29;\"><br></p><p style=\"line-height: 1.29;\"><strong style=\"font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent; font-size: 16px;\">Interpretation guide:</strong></p><ol><li data-list=\"bullet\" style=\"line-height: 1.29;\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent; font-size: 16px;\">Heatmap shows interpolated density (darker blue = higher g/cm³) or salinity (darker green = higher g/L). </span></li><li data-list=\"bullet\" style=\"line-height: 1.29;\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent; font-size: 16px;\">Circles are sampling stations; color matches legend if data exists. </span></li><li data-list=\"bullet\" style=\"line-height: 1.29;\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent; font-size: 16px;\">Observe potential correlations between temperature (Avg Temp) and density or salinity patterns. </span></li><li data-list=\"bullet\" style=\"line-height: 1.29;\"><span class=\"ql-ui\" contenteditable=\"false\"></span><span style=\"font-family: &quot;Avenir Next&quot;; color: rgb(255, 255, 255); background-color: transparent; font-size: 16px;\">Data is interpolated between stations using inverse distance weighting. </span></li></ol>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19322,7 +19252,6 @@
       "label": "Text 150",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 20px;\">Title</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19335,7 +19264,6 @@
       "label": "Text 151",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Date</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19348,7 +19276,6 @@
       "label": "Text 152",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Author</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19361,7 +19288,6 @@
       "label": "Text 153",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Publisher</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19374,7 +19300,6 @@
       "label": "Text 154",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">View</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19435,7 +19360,6 @@
       "label": "Text 165",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"color: var(--dark-800); font-size: 18px;\">﻿</span><span style=\"font-size: 18px;\"><exp data-uniqueid=\"6fa76795_20f4_110f_5d9c_abe9fac22c56\" data-dsid=\"dataSource_16-0\" data-expression=\"%7B%22name%22%3A%22%7BTitle%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BTitle%7D%22%2C%22dataSourceId%22%3A%22dataSource_16-0%22%2C%22jimuFieldName%22%3A%22Title%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿{Title}﻿﻿﻿﻿</span>﻿</exp>&nbsp;</span></p>",
-        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -19543,7 +19467,6 @@
       "label": "Text 166",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><exp data-uniqueid=\"11c747f6_3557_4ea1_7282_067935cb9da2\" data-dsid=\"dataSource_16-0\" data-expression=\"%7B%22name%22%3A%22(Date)%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDate%7D%22%2C%22dataSourceId%22%3A%22dataSource_16-0%22%2C%22jimuFieldName%22%3A%22Date%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿(Date)﻿</span>﻿</exp></span>&nbsp;&nbsp;</p>",
-        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -19561,7 +19484,6 @@
       "label": "Text 167",
       "config": {
         "text": "<p style=\"text-align: left;\"><span style=\"color: var(--dark-800); font-size: 18px;\">﻿</span><span style=\"font-size: 18px;\"><exp data-uniqueid=\"b09a3933_a267_d481_4027_e128ffbff765\" data-dsid=\"dataSource_16-0\" data-expression=\"%7B%22name%22%3A%22%7BAuthor%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BAuthor%7D%22%2C%22dataSourceId%22%3A%22dataSource_16-0%22%2C%22jimuFieldName%22%3A%22Author%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{Author}﻿﻿</span>﻿</exp>&nbsp;</span></p>",
-        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -19579,7 +19501,6 @@
       "label": "Text 168",
       "config": {
         "text": "<p><span style=\"font-size: 18px; color: var(--dark-800);\">﻿</span><span style=\"font-size: 18px;\"><exp data-uniqueid=\"b83e7b01_876f_0f8b_02e9_48d521ac83ec\" data-dsid=\"dataSource_16-0\" data-expression=\"%7B%22name%22%3A%22%7BPublisher%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPublisher%7D%22%2C%22dataSourceId%22%3A%22dataSource_16-0%22%2C%22jimuFieldName%22%3A%22Publisher%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Publisher}﻿</span>﻿</exp>&nbsp;</span></p>",
-        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -19682,7 +19603,6 @@
       "label": "Text 169",
       "config": {
         "text": "<h1><strong>Great Salt Lake Report Archive</strong></h1>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19719,7 +19639,6 @@
       "label": "Text 170",
       "config": {
         "text": "<p style=\"line-height: 1.5;\"><strong style=\"font-size: 18px;\">Great Salt Lake Brine Chemistry Database﻿</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19732,7 +19651,6 @@
       "label": "Text 171",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 22px;\">Density and Salinity﻿</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19772,7 +19690,6 @@
       "label": "Text 217",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 20px;\">MORE INFORMATION</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19786,7 +19703,6 @@
       "label": "Text 221",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">Density and Salinity</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19826,7 +19742,6 @@
       "label": "Text 222",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">MORE INFORMATION</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19840,7 +19755,6 @@
       "label": "Text 223",
       "config": {
         "text": "<p><span style=\"font-family: &quot;Avenir Next&quot;; color: var(--dark); background-color: transparent; font-size: 18px;\">This page serves as a hub for technical reports, research studies, and other documents related to Great Salt Lake from state agencies, research and preservation organizations, and other stakeholders. A primary purpose of the archive is to preserve Great Salt Lake reports and documents that are unpublished. The available material includes information from various disciplines (e.g., hydrology, ecology, and chemistry) to serve as a resource for informed decision-making, sustainable management practices, and further research. If you are aware of Great Salt Lake documents in need of preservation, please contact Andrew Rupke (andrewrupke@utah.gov).</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19928,7 +19842,6 @@
       "label": "Text 224",
       "config": {
         "text": "<h3 style=\"text-align: center;\"><strong>Title</strong></h3>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19949,7 +19862,6 @@
       "label": "Text 225",
       "config": {
         "text": "<h3 style=\"text-align: center;\"><strong style=\"font-size: 17px;\">Date</strong></h3>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19962,7 +19874,6 @@
       "label": "Text 226",
       "config": {
         "text": "<h3 style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Authors</strong></h3>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -19975,7 +19886,6 @@
       "label": "Text 227",
       "config": {
         "text": "<h3 style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Publisher</strong></h3>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -20149,7 +20059,6 @@
       "label": "Text 229",
       "config": {
         "text": "<p style=\"text-align: left;\"><span style=\"color: var(--dark-800); font-size: 16px;\">﻿</span><span style=\"font-size: 16px;\"><exp data-uniqueid=\"3df043ec_5eb3_5097_9480_1001c4ff0192\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BTitle%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BTitle%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Title%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Title}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp> </span><u style=\"font-size: 16px; color: var(--dark);\"><a href=\"\" target=\"_blank\" data-uniqueid=\"d43d227a_2460_04fe_0f51_52b684d2e470\" data-dsid=\"dataSource_18-0-dataView_1\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22%22%2C%22expression%22%3A%7B%22name%22%3A%22%7BDOI_link%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDOI_link%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22DOI_link%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D%7D\"><exp data-uniqueid=\"5f03aab3_db85_2d52_623e_b2e634e284dc\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BDOI_link%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDOI_link%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22DOI_link%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{DOI_link}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></a></u></p><p style=\"text-align: left;\"><strong style=\"font-size: 16px;\"><a href=\"\" target=\"_blank\" data-uniqueid=\"002d1912_2e11_ece0_9090_2dda3c6fc4d0\" data-dsid=\"dataSource_18-0-dataView_1\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22%22%2C%22expression%22%3A%7B%22name%22%3A%22%7BPDF_link%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPDF_link%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22PDF_link%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D%7D\"><exp data-uniqueid=\"6189dae4_b3cb_8a4d_ec6e_ea1467aa71db\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%20%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPDF_text%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22PDF_text%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></a></strong></p>",
-        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -20180,7 +20089,6 @@
       "label": "Text 230",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 16px;\"><exp data-uniqueid=\"a20c3074_bfb0_ead8_5f38_1c35507c1198\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BDate%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDate%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Date%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿{Date}﻿﻿﻿﻿</span>﻿</exp></span></p>",
-        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -20208,7 +20116,6 @@
       "label": "Text 231",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"color: var(--dark-800); font-size: 16px;\">﻿</span><span style=\"font-size: 16px;\"><exp data-uniqueid=\"109dc7ec_b910_8a01_81e9_78e3ea032042\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BAuthor_abbreviated%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BAuthor_abbreviated%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Author_abbreviated%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿{Author_abbreviated}﻿﻿﻿﻿﻿</span>﻿</exp></span></p>",
-        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -20236,7 +20143,6 @@
       "label": "Text 232",
       "config": {
         "text": "<p style=\"text-align: center;\"><span style=\"font-size: 16px; color: var(--dark-800);\">﻿</span><span style=\"font-size: 16px;\"><exp data-uniqueid=\"63112373_3181_8eaa_63e2_ffc3d5ff29ae\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BPublisher%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPublisher%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Publisher%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿{Publisher}﻿﻿﻿﻿﻿</span>﻿</exp></span></p>",
-        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -20264,7 +20170,6 @@
       "label": "Text 233",
       "config": {
         "text": "<h2><strong style=\"font-size: 18px;\">Filter by Topic:</strong></h2>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -21124,7 +21029,6 @@
       "label": "Text 234",
       "config": {
         "text": "<h1><strong>Great Salt Lake Report Archive</strong></h1>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -21167,7 +21071,6 @@
       "label": "Text 235",
       "config": {
         "text": "<p><span style=\"font-family: &quot;Avenir Next&quot;; color: var(--dark); background-color: transparent; font-size: 18px;\">This page serves as a hub for technical reports, research studies, and other documents related to Great Salt Lake from state agencies, research and preservation organizations, and other stakeholders. A primary purpose of the archive is to preserve Great Salt Lake reports and documents that are unpublished. The available material includes information from various disciplines (e.g., hydrology, ecology, and chemistry) to serve as a resource for informed decision-making, sustainable management practices, and further research. If you are aware of Great Salt Lake documents in need of preservation, please contact Andrew Rupke (andrewrupke@utah.gov).</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -21368,7 +21271,6 @@
       "label": "Text 236",
       "config": {
         "text": "<p style=\"text-align: left;\"><span style=\"color: var(--dark-800); font-size: 16px;\">﻿</span><a href=\"\" target=\"_blank\" data-uniqueid=\"9feda7ae_2112_c98e_71d5_2572a1e69627\" data-dsid=\"dataSource_17-0-dataView_1\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22%22%2C%22expression%22%3A%7B%22name%22%3A%22%7BPDF%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPDF%7D%22%2C%22dataSourceId%22%3A%22dataSource_17-0-dataView_1%22%2C%22jimuFieldName%22%3A%22PDF%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D%7D\" style=\"color: var(--dark); font-size: 16px;\"><exp data-uniqueid=\"11f09c66_1eeb_1c2e_d370_7e0a446f40ce\" data-dsid=\"dataSource_17-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BTitle%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BTitle%7D%22%2C%22dataSourceId%22%3A%22dataSource_17-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Title%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Title}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></a></p><p style=\"text-align: left;\"><a href=\"\" target=\"_blank\" data-uniqueid=\"1a96d7dc_9cf4_5de6_7e9f_84d73beb1864\" data-dsid=\"dataSource_17-0-dataView_1\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22%22%2C%22expression%22%3A%7B%22name%22%3A%22%7BPDF%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPDF%7D%22%2C%22dataSourceId%22%3A%22dataSource_17-0-dataView_1%22%2C%22jimuFieldName%22%3A%22PDF%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D%7D\" style=\"font-size: 16px;\"><exp data-uniqueid=\"07928c5c_5b29_b77a_e34d_48a8039358d3\" data-dsid=\"dataSource_17-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%20%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7Bcolumn6%7D%22%2C%22dataSourceId%22%3A%22dataSource_17-0-dataView_1%22%2C%22jimuFieldName%22%3A%22column6%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></a><span style=\"font-size: 16px;\">&nbsp;| </span><a href=\"\" target=\"_blank\" data-uniqueid=\"6855cb7b_2e36_1b66_d914_8b4b1ab46430\" data-dsid=\"dataSource_17-0-dataView_1\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22%22%2C%22expression%22%3A%7B%22name%22%3A%22%7BDOI%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDOI%7D%22%2C%22dataSourceId%22%3A%22dataSource_17-0-dataView_1%22%2C%22jimuFieldName%22%3A%22DOI%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D%7D\" style=\"font-size: 16px;\"><exp data-uniqueid=\"a7ecbddf_e2cd_c6d5_9009_fa8bf9ea2f5b\" data-dsid=\"dataSource_17-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%20%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDOI_text%7D%22%2C%22dataSourceId%22%3A%22dataSource_17-0-dataView_1%22%2C%22jimuFieldName%22%3A%22DOI_text%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿ ﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></a><span style=\"font-size: 16px;\">&nbsp;</span></p>",
-        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -21386,7 +21288,6 @@
       "label": "Text 237",
       "config": {
         "text": "<p style=\"text-align: left;\"><span style=\"font-size: 16px;\"><exp data-uniqueid=\"69b7e7dd_cde6_843c_7845_ed63c2365429\" data-dsid=\"dataSource_17-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BDate%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDate%7D%22%2C%22dataSourceId%22%3A%22dataSource_17-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Date%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">{Date}</span>﻿</exp>&nbsp;</span></p>",
-        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -21404,7 +21305,6 @@
       "label": "Text 238",
       "config": {
         "text": "<p style=\"text-align: left;\"><span style=\"color: var(--dark-800); font-size: 16px;\">﻿</span><span style=\"font-size: 16px;\"><exp data-uniqueid=\"19984b5e_90b8_027d_3eb2_3af03d3f8e4e\" data-dsid=\"dataSource_17-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BAuthor%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BAuthor%7D%22%2C%22dataSourceId%22%3A%22dataSource_17-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Author%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">{Author}</span>﻿</exp>&nbsp;</span></p>",
-        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -21422,7 +21322,6 @@
       "label": "Text 239",
       "config": {
         "text": "<p style=\"text-align: left;\"><span style=\"font-size: 16px; color: var(--dark-800);\">﻿</span><span style=\"font-size: 16px;\"><exp data-uniqueid=\"368a887d_477e_2d56_ec73_aff36c8742c4\" data-dsid=\"dataSource_17-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BPublisher%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPublisher%7D%22%2C%22dataSourceId%22%3A%22dataSource_17-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Publisher%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Publisher}﻿</span>﻿</exp>&nbsp;</span></p>",
-        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -21440,7 +21339,6 @@
       "label": "Text 240",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\">Filter by Topic:</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -22222,7 +22120,6 @@
       "label": "Text 241",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 20px;\">Title</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -22243,7 +22140,6 @@
       "label": "Text 242",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Date</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -22256,7 +22152,6 @@
       "label": "Text 243",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Authors</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -22269,7 +22164,6 @@
       "label": "Text 244",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Publisher</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -22330,7 +22224,6 @@
       "label": "Text 249",
       "config": {
         "text": "<h2><strong style=\"font-size: 18px;\">Filter by Topic:</strong></h2>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -22355,7 +22248,6 @@
       "label": "Text 250",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 20px;\">Title</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -22376,7 +22268,6 @@
       "label": "Text 252",
       "config": {
         "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">Authors</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -22547,7 +22438,6 @@
       "label": "Text 253",
       "config": {
         "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 17px;\"><exp data-uniqueid=\"3df043ec_5eb3_5097_9480_1001c4ff0192\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BTitle%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BTitle%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Title%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Title}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp> (<exp data-uniqueid=\"03adc27b_1789_1166_7d84_761a976ee92c\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BDate%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDate%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Date%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Date}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp>) </strong><u style=\"font-size: 15px; color: var(--dark);\"><a href=\"\" target=\"_blank\" data-uniqueid=\"c2191141_f478_8749_d7f5_ebd61c76883c\" data-dsid=\"dataSource_18-0-dataView_1\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22%22%2C%22expression%22%3A%7B%22name%22%3A%22%7BDOI_link%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDOI_link%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22DOI_link%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D%7D\"><exp data-uniqueid=\"e72543a9_a4ae_aa68_c75d_882e110d8615\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BDOI_link%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDOI_link%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22DOI_link%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿{DOI_link}﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></a></u></p><p style=\"text-align: left;\"><span style=\"font-size: 15px;\"><exp data-uniqueid=\"109dc7ec_b910_8a01_81e9_78e3ea032042\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BAuthor_abbreviated%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BAuthor_abbreviated%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Author_abbreviated%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Author_abbreviated}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></span></p><p style=\"text-align: left;\"><a href=\"\" target=\"_blank\" data-uniqueid=\"002d1912_2e11_ece0_9090_2dda3c6fc4d0\" data-dsid=\"dataSource_18-0-dataView_1\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22%22%2C%22expression%22%3A%7B%22name%22%3A%22%7BPDF_link%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPDF_link%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22PDF_link%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D%7D\" style=\"font-size: 15px;\"><exp data-uniqueid=\"6189dae4_b3cb_8a4d_ec6e_ea1467aa71db\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%20%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPDF_text%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22PDF_text%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></a></p>",
-        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -23415,7 +23305,6 @@
       "label": "Text 254",
       "config": {
         "text": "<h1><strong style=\"font-size: 20px;\">Great Salt Lake Report Archive</strong></h1>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -23428,7 +23317,6 @@
       "label": "Text 255",
       "config": {
         "text": "<p style=\"line-height: 1.2;\"><span style=\"font-family: &quot;Avenir Next&quot;; color: var(--dark); background-color: transparent; font-size: 14px;\">This page serves as a hub for technical reports, research studies, and other documents related to Great Salt Lake from state agencies, research and preservation organizations, and other stakeholders. </span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -23647,7 +23535,6 @@
       "label": "Text 257",
       "config": {
         "text": "<p style=\"text-align: left;\"><strong style=\"font-size: 14px;\"><exp data-uniqueid=\"3df043ec_5eb3_5097_9480_1001c4ff0192\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BTitle%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BTitle%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Title%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Title}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp> (<exp data-uniqueid=\"03adc27b_1789_1166_7d84_761a976ee92c\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BDate%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDate%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Date%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Date}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp>) </strong><u style=\"color: var(--dark);\"><a href=\"\" target=\"_blank\" data-uniqueid=\"de6b0fcb_e6bf_e2c8_a491_c700197b6230\" data-dsid=\"dataSource_18-0-dataView_1\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22%22%2C%22expression%22%3A%7B%22name%22%3A%22%7BDOI_link%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDOI_link%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22DOI_link%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D%7D\"><exp data-uniqueid=\"0f2a4f26_19d4_ad60_7d73_f13c4d9dbc9a\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BDOI_link%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BDOI_link%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22DOI_link%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{DOI_link}﻿﻿</span>﻿</exp></a></u>&nbsp;</p><p style=\"text-align: left;\"><span style=\"font-size: 13px;\"><exp data-uniqueid=\"109dc7ec_b910_8a01_81e9_78e3ea032042\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BAuthor_abbreviated%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BAuthor_abbreviated%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22Author_abbreviated%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿{Author_abbreviated}﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></span></p><p style=\"text-align: left;\"><a href=\"\" target=\"_blank\" data-uniqueid=\"002d1912_2e11_ece0_9090_2dda3c6fc4d0\" data-dsid=\"dataSource_18-0-dataView_1\" data-link=\"%7B%22linkType%22%3A%22WEB_ADDRESS%22%2C%22openType%22%3A%22_blank%22%2C%22value%22%3A%22%22%2C%22expression%22%3A%7B%22name%22%3A%22%7BPDF_link%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPDF_link%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22PDF_link%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D%7D\" style=\"font-size: 13px;\"><exp data-uniqueid=\"6189dae4_b3cb_8a4d_ec6e_ea1467aa71db\" data-dsid=\"dataSource_18-0-dataView_1\" data-expression=\"%7B%22name%22%3A%22%20%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BPDF_text%7D%22%2C%22dataSourceId%22%3A%22dataSource_18-0-dataView_1%22%2C%22jimuFieldName%22%3A%22PDF_text%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿ ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></a></p>",
-        "placeholder": "<p><span style=\"font-size: 16px;color: var(--dark-800);\">Double click to edit text</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -23680,7 +23567,6 @@
       "label": "Text 260",
       "config": {
         "text": "<h2><strong style=\"font-size: 18px;\">Filter by Topic:</strong></h2>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -24384,7 +24270,6 @@
       "label": "Text 267",
       "config": {
         "text": "<p>﻿Select a depth</p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -25220,7 +25105,6 @@
       "label": "Text 306",
       "config": {
         "text": "<p style=\"text-align: left;\">&nbsp;&nbsp;&nbsp;<span style=\"font-size: 18px;\">&nbsp;<exp data-uniqueid=\"9ff869e8_027b_47df_d063_a28e08cf91da\" data-dsid=\"dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-1977fd74288-layer-105-1977fd74403-layer-107-dataView_1%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿</span>﻿</exp></span>&nbsp;<strong style=\"font-size: 18px;\"><exp data-uniqueid=\"894b7f74_79a9_b34d_b2d4_8c0148533aef\" data-dsid=\"dataSource_19-1977fd74403-layer-107\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_19-1977fd74403-layer-107%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">{Site}</span>﻿</exp></strong>&nbsp;&nbsp;</p>",
-        "placeholder": "<p><span style=\"font-size: 13px;color: var(--dark-800);\">Lorem ipsum dolor sit amet</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": false,
@@ -25247,7 +25131,6 @@
       "label": "Text 307",
       "config": {
         "text": "<p style=\"text-align: right;\"><strong style=\"font-size: 18px;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<exp data-uniqueid=\"c2afff13_7df1_607b_923e_cf06e3e3ba76\" data-dsid=\"dataSource_19-1977fd74403-layer-107\" data-expression=\"%7B%22name%22%3A%22%7BStatus%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BStatus%7D%22%2C%22dataSourceId%22%3A%22dataSource_19-1977fd74403-layer-107%22%2C%22jimuFieldName%22%3A%22Status%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{Status}﻿</span>﻿</exp>&nbsp;&nbsp;</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -25271,7 +25154,6 @@
       "label": "Text 308",
       "config": {
         "text": "<h2 style=\"line-height: 1.5;\"><strong style=\"font-size: 22px;\">Select A Site﻿</strong></h2>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -25330,7 +25212,6 @@
       "label": "Text 309",
       "config": {
         "text": "<h1 style=\"line-height: 1.15;\"><strong style=\"font-size: 22px;\">Great Salt Lake Brine Chemistry Database </strong></h1>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -25396,7 +25277,6 @@
       "label": "Text 310",
       "config": {
         "text": "<p><span style=\"font-size: 16px;\">The salinity level of Great Salt Lake (GSL) is quite dynamic due to natural lake level fluctuations and man-made barriers within the lake. At a number of sites throughout the lake, the UGS takes samples at various depths through the water column, measures those samples for density, and analyzes them for chemistry. This sampling program has largely been funded by the Utah Division of Forestry, Fire and State Lands.</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -25715,7 +25595,6 @@
       "label": "Text 311",
       "config": {
         "text": "<p><span style=\"font-size: 16px;\">Use the depth and chemical filters below to view the data of interest.</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -25740,7 +25619,6 @@
       "label": "Text 312",
       "config": {
         "text": "<p style=\"text-align: left;\"><span style=\"font-size: 14.5px;\">Select a depth</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -26311,22 +26189,26 @@
               "default": {
                 "border": {
                   "type": "solid",
-                  "color": "var(--primary-600)",
+                  "color": "var(--primary)",
                   "width": "0px"
                 },
                 "size": "16px"
               },
               "active": {
-                "bg": "#6f4930",
+                "bg": "#633d11",
                 "border": {
                   "type": "solid",
-                  "color": "var(--primary-600)",
+                  "color": "var(--primary)",
                   "width": "1px"
                 },
                 "color": "#ffffff"
               },
               "hover": {
-                "color": "var(--primary-300)"
+                "color": "var(--primary)",
+                "bg": "rgba(0,0,0,0)",
+                "border": {
+                  "color": "var(--primary)"
+                }
               }
             }
           }
@@ -26476,12 +26358,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "#ee994a",
+                  "color": "var(--primary)",
                   "width": 2
                 }
               },
@@ -26717,7 +26599,6 @@
       "label": "Text 313",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"f8312349_9192_d45b_e0c0_b4676cd37afc\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{SITE}﻿﻿</span>﻿</exp> Density&nbsp;g/cm3</strong>&nbsp;</p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -26747,20 +26628,25 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
-              "background": {
-                "color": "#0068ed",
-                "fillType": "fill"
-              },
               "border": {
                 "type": "solid",
                 "color": "#9fc4f0",
                 "width": "1px"
+              },
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
               }
             }
           }
@@ -26802,7 +26688,7 @@
             "hover": {
               "border": {
                 "type": "solid",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "width": "1px"
               }
             },
@@ -26813,12 +26699,12 @@
                 "size": "16px"
               },
               "background": {
-                "color": "rgba(111,73,48,0.6)",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "#7e4f25",
+                "color": "#633d11",
                 "width": "1px"
               }
             }
@@ -26879,7 +26765,7 @@
               "lineSymbol": {
                 "type": "esriSLS",
                 "style": "esriSLSSolid",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "width": 2
               },
               "dataLabels": {
@@ -26906,7 +26792,7 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
@@ -27147,7 +27033,6 @@
       "label": "Text 314",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"18c50846_a6d1_ddc5_0d41_2c6da3bf7b52\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{SITE}﻿</span>﻿</exp>&nbsp;Density g/cm3</strong>&nbsp;</p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -27184,7 +27069,7 @@
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -27227,7 +27112,12 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
@@ -27235,12 +27125,12 @@
                 "size": "16px"
               },
               "background": {
-                "color": "#6f4930",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "var(--primary-600)",
+                "color": "var(--primary)",
                 "width": "1px"
               }
             }
@@ -27324,12 +27214,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "#ee994a",
+                  "color": "var(--primary)",
                   "width": 2
                 }
               },
@@ -27579,14 +27469,33 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              },
+              "borderRadius": {
+                "number": [
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "unit": "px"
+              },
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -27615,7 +27524,6 @@
       "label": "Text 315",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"9e984cf2_48f1_d0ef_2878_5f426b65c346\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{SITE}﻿</span>﻿</exp>&nbsp;Na+ g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -27649,8 +27557,12 @@
             "hover": {
               "border": {
                 "type": "solid",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "width": "1px"
+              },
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
               }
             },
             "regular": {
@@ -27660,12 +27572,12 @@
                 "size": "16px"
               },
               "background": {
-                "color": "rgba(111,73,48,0.6)",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "#7e4f25",
+                "color": "#633d11",
                 "width": "1px"
               }
             }
@@ -27714,7 +27626,7 @@
             }
           },
           "rotated": false,
-          "colorMatch": true,
+          "colorMatch": false,
           "stackedType": "sideBySide",
           "series": [
             {
@@ -27726,7 +27638,7 @@
               "lineSymbol": {
                 "type": "esriSLS",
                 "style": "esriSLSSolid",
-                "color": "#5E8FD0",
+                "color": "var(--primary)",
                 "width": 2
               },
               "dataLabels": {
@@ -27753,12 +27665,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#5E8FD0",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "var(--light-900)",
+                  "color": "var(--primary)",
                   "width": 0
                 }
               },
@@ -27992,7 +27904,6 @@
       "label": "Text 316",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"76aae201_12d4_7ae6_0719_9958a0c1e2f0\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;Na+ g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -28029,7 +27940,7 @@
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -28142,7 +28053,7 @@
               "lineSymbol": {
                 "type": "esriSLS",
                 "style": "esriSLSSolid",
-                "color": "rgba(130,87,194,0)",
+                "color": "var(--primary)",
                 "width": 0
               },
               "dataLabels": {
@@ -28169,12 +28080,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "#ee994a",
+                  "color": "var(--primary)",
                   "width": 2
                 }
               },
@@ -28408,7 +28319,6 @@
       "label": "Text 317",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"764d258c_7879_40c3_dc97_2d9950ca8f1e\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;Mg g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -28442,8 +28352,12 @@
             "hover": {
               "border": {
                 "type": "solid",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "width": "1px"
+              },
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
               }
             },
             "regular": {
@@ -28453,12 +28367,12 @@
                 "size": "16px"
               },
               "background": {
-                "color": "rgba(111,73,48,0.6)",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "#7e4f25",
+                "color": "#633d11",
                 "width": "1px"
               }
             }
@@ -28497,14 +28411,33 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              },
+              "borderRadius": {
+                "number": [
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "unit": "px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -28558,7 +28491,7 @@
             }
           },
           "rotated": false,
-          "colorMatch": true,
+          "colorMatch": false,
           "stackedType": "sideBySide",
           "series": [
             {
@@ -28570,7 +28503,7 @@
               "lineSymbol": {
                 "type": "esriSLS",
                 "style": "esriSLSSolid",
-                "color": "#5E8FD0",
+                "color": "var(--primary)",
                 "width": 2
               },
               "dataLabels": {
@@ -28597,12 +28530,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#5E8FD0",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "var(--light-900)",
+                  "color": "var(--primary)",
                   "width": 0
                 }
               },
@@ -28903,14 +28836,33 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              },
+              "borderRadius": {
+                "number": [
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "unit": "px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -28939,7 +28891,6 @@
       "label": "Text 318",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"36f10064_6ea4_a3c4_1bee_6712469cc421\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;Mg g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": false
         }
@@ -28987,7 +28938,7 @@
               "lineSymbol": {
                 "type": "esriSLS",
                 "style": "esriSLSSolid",
-                "color": "rgba(130,87,194,0)",
+                "color": "var(--primary)",
                 "width": 0
               },
               "dataLabels": {
@@ -29014,12 +28965,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "#ee994a",
+                  "color": "var(--primary)",
                   "width": 2
                 }
               },
@@ -29253,7 +29204,6 @@
       "label": "Text 319: K g/L",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"52ccae31_3fb1_c70b_ba33_1a500c777a53\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;K g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -29283,14 +29233,33 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              },
+              "borderRadius": {
+                "number": [
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "unit": "px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -29338,8 +29307,12 @@
             "hover": {
               "border": {
                 "type": "solid",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "width": "1px"
+              },
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
               }
             },
             "regular": {
@@ -29349,12 +29322,12 @@
                 "size": "16px"
               },
               "background": {
-                "color": "rgba(111,73,48,0.6)",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "#7e4f25",
+                "color": "#633d11",
                 "width": "1px"
               }
             }
@@ -29378,7 +29351,7 @@
       "label": "K A Chart  6",
       "config": {
         "options": {
-          "hideEmptySeries": false
+          "hideEmptySeries": true
         },
         "messages": {
           "noDataMessage": "No data or point not selected.\n\n"
@@ -29403,7 +29376,7 @@
             }
           },
           "rotated": false,
-          "colorMatch": true,
+          "colorMatch": false,
           "stackedType": "sideBySide",
           "series": [
             {
@@ -29415,7 +29388,7 @@
               "lineSymbol": {
                 "type": "esriSLS",
                 "style": "esriSLSSolid",
-                "color": "#5E8FD0",
+                "color": "var(--primary)",
                 "width": 2
               },
               "dataLabels": {
@@ -29442,12 +29415,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#5E8FD0",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "var(--light-900)",
+                  "color": "var(--primary)",
                   "width": 0
                 }
               },
@@ -29695,7 +29668,26 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#633d11",
+                "width": "1px"
+              },
+              "borderRadius": {
+                "number": [
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "unit": "px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
@@ -29703,12 +29695,12 @@
                 "size": "16px"
               },
               "background": {
-                "color": "#6f4930",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "var(--primary-600)",
+                "color": "var(--primary)",
                 "width": "1px"
               }
             }
@@ -29747,14 +29739,33 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              },
+              "borderRadius": {
+                "number": [
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "unit": "px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -29783,7 +29794,6 @@
       "label": "Text 320",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"b9857a65_8b9b_85bd_0b01_443e3bdd22cc\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;K g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -29831,7 +29841,7 @@
               "lineSymbol": {
                 "type": "esriSLS",
                 "style": "esriSLSSolid",
-                "color": "rgba(130,87,194,0)",
+                "color": "var(--primary)",
                 "width": 0
               },
               "dataLabels": {
@@ -29858,12 +29868,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "#ee994a",
+                  "color": "var(--primary)",
                   "width": 2
                 }
               },
@@ -30116,8 +30126,12 @@
             "hover": {
               "border": {
                 "type": "solid",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "width": "1px"
+              },
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
               }
             },
             "regular": {
@@ -30127,12 +30141,12 @@
                 "size": "16px"
               },
               "background": {
-                "color": "rgba(111,73,48,0.6)",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "#7e4f25",
+                "color": "#633d11",
                 "width": "1px"
               }
             }
@@ -30171,14 +30185,24 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -30207,7 +30231,6 @@
       "label": "Text 321: Ca",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"d8183323_9f0b_43ac_1a27_4b84cbafdede\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;<span class=\"ql-cursor\">﻿</span>Ca g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -30247,7 +30270,7 @@
             }
           },
           "rotated": false,
-          "colorMatch": true,
+          "colorMatch": false,
           "stackedType": "sideBySide",
           "series": [
             {
@@ -30259,7 +30282,7 @@
               "lineSymbol": {
                 "type": "esriSLS",
                 "style": "esriSLSSolid",
-                "color": "#5E8FD0",
+                "color": "var(--primary)",
                 "width": 2
               },
               "dataLabels": {
@@ -30286,12 +30309,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#5E8FD0",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "var(--light-900)",
+                  "color": "var(--primary)",
                   "width": 0
                 }
               },
@@ -30591,14 +30614,24 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -30627,7 +30660,6 @@
       "label": "Text 322",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"af07338a_cca4_7b02_0e87_2e908ea04301\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;Ca g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -30642,7 +30674,7 @@
       "label": "Cl SP Chart 6",
       "config": {
         "options": {
-          "hideEmptySeries": false
+          "hideEmptySeries": true
         },
         "messages": {
           "noDataMessage": "No data or point not selected.\n\n"
@@ -30675,7 +30707,7 @@
               "lineSymbol": {
                 "type": "esriSLS",
                 "style": "esriSLSSolid",
-                "color": "rgba(130,87,194,0)",
+                "color": "var(--primary)",
                 "width": 0
               },
               "dataLabels": {
@@ -30702,12 +30734,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "#ee994a",
+                  "color": "var(--primary)",
                   "width": 2
                 }
               },
@@ -30941,7 +30973,6 @@
       "label": "Text 323: Cl",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"d6c3ad04_13f0_9143_1d85_ffe8be199d45\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;Cl g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -30971,14 +31002,24 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -31026,8 +31067,12 @@
             "hover": {
               "border": {
                 "type": "solid",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "width": "1px"
+              },
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
               }
             },
             "regular": {
@@ -31036,14 +31081,14 @@
                 "bold": false,
                 "size": "16px"
               },
-              "background": {
-                "color": "rgba(111,73,48,0.6)",
-                "fillType": "fill"
-              },
               "border": {
                 "type": "solid",
-                "color": "#7e4f25",
+                "color": "#633d11",
                 "width": "1px"
+              },
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
               }
             }
           }
@@ -31091,7 +31136,7 @@
             }
           },
           "rotated": false,
-          "colorMatch": true,
+          "colorMatch": false,
           "stackedType": "sideBySide",
           "series": [
             {
@@ -31103,7 +31148,7 @@
               "lineSymbol": {
                 "type": "esriSLS",
                 "style": "esriSLSSolid",
-                "color": "#5E8FD0",
+                "color": "var(--primary)",
                 "width": 2
               },
               "dataLabels": {
@@ -31130,12 +31175,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#5E8FD0",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "var(--light-900)",
+                  "color": "var(--primary)",
                   "width": 0
                 }
               },
@@ -31369,7 +31414,6 @@
       "label": "Text 324",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"a92c8054_7b65_9769_69d9_3f926e193c16\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;Cl g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -31398,21 +31442,31 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "var(--primary)",
+                "width": "1px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "bold": false,
                 "size": "16px"
               },
-              "background": {
-                "color": "#6f4930",
-                "fillType": "fill"
-              },
               "border": {
                 "type": "solid",
-                "color": "var(--primary-600)",
+                "color": "#633d11",
                 "width": "1px"
+              },
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
               }
             }
           }
@@ -31450,14 +31504,24 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -31519,7 +31583,7 @@
               "lineSymbol": {
                 "type": "esriSLS",
                 "style": "esriSLSSolid",
-                "color": "rgba(130,87,194,0)",
+                "color": "var(--primary)",
                 "width": 0
               },
               "dataLabels": {
@@ -31546,12 +31610,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "#ee994a",
+                  "color": "var(--primary)",
                   "width": 2
                 }
               },
@@ -31785,7 +31849,6 @@
       "label": "Text 325: SO4",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"f9cafd36_efdd_bf38_7a3b_13db38dce5a6\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{SITE}﻿</span>﻿</exp> SO4 g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -31819,7 +31882,7 @@
             "hover": {
               "border": {
                 "type": "solid",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "width": "1px"
               }
             },
@@ -31830,7 +31893,7 @@
                 "size": "16px"
               },
               "background": {
-                "color": "rgba(111,73,48,0.6)",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
@@ -31874,14 +31937,24 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -31935,7 +32008,7 @@
             }
           },
           "rotated": false,
-          "colorMatch": true,
+          "colorMatch": false,
           "stackedType": "sideBySide",
           "series": [
             {
@@ -31947,7 +32020,7 @@
               "lineSymbol": {
                 "type": "esriSLS",
                 "style": "esriSLSSolid",
-                "color": "#5E8FD0",
+                "color": "var(--primary)",
                 "width": 2
               },
               "dataLabels": {
@@ -31974,12 +32047,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#5E8FD0",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "var(--light-900)",
+                  "color": "var(--primary)",
                   "width": 0
                 }
               },
@@ -32213,7 +32286,6 @@
       "label": "Text 326",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"86f0049e_ce1f_ae90_fa3e_d0c9a1ad9f1c\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;SO4 g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -32294,14 +32366,24 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -32363,7 +32445,7 @@
               "lineSymbol": {
                 "type": "esriSLS",
                 "style": "esriSLSSolid",
-                "color": "rgba(130,87,194,0)",
+                "color": "var(--primary)",
                 "width": 0
               },
               "dataLabels": {
@@ -32390,12 +32472,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "#ee994a",
+                  "color": "var(--primary)",
                   "width": 2
                 }
               },
@@ -32629,7 +32711,6 @@
       "label": "Text 327: TDS",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"e25e821e_7fbc_9ccf_ea57_d6c2a0cd498b\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;Lab TDS g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -32663,7 +32744,7 @@
             "hover": {
               "border": {
                 "type": "solid",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "width": "1px"
               }
             },
@@ -32674,12 +32755,12 @@
                 "size": "16px"
               },
               "background": {
-                "color": "rgba(111,73,48,0.6)",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "#7e4f25",
+                "color": "#633d11",
                 "width": "1px"
               }
             }
@@ -32718,14 +32799,24 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -32779,7 +32870,7 @@
             }
           },
           "rotated": false,
-          "colorMatch": true,
+          "colorMatch": false,
           "stackedType": "sideBySide",
           "series": [
             {
@@ -32791,7 +32882,7 @@
               "lineSymbol": {
                 "type": "esriSLS",
                 "style": "esriSLSSolid",
-                "color": "#5E8FD0",
+                "color": "var(--primary)",
                 "width": 2
               },
               "dataLabels": {
@@ -32818,7 +32909,7 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#5E8FD0",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
@@ -33057,7 +33148,6 @@
       "label": "Text 328",
       "config": {
         "text": "<p><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"6028bde4_8a21_a6ee_ea85_92ddb57adff4\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿{SITE}﻿</span>﻿</exp>&nbsp;Lab TDS g/L</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": false
         }
@@ -33086,7 +33176,17 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "var(--primary)",
+                "width": "1px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
@@ -33094,12 +33194,12 @@
                 "size": "16px"
               },
               "background": {
-                "color": "#6f4930",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "var(--primary-600)",
+                "color": "#633d11",
                 "width": "1px"
               }
             }
@@ -33138,14 +33238,24 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -33413,7 +33523,6 @@
       "label": "Text 329",
       "config": {
         "text": "<h2 style=\"text-align: center;\"><strong style=\"font-size: 22px;\">SITE DETAILS: </strong><span style=\"font-size: 22px;\"><exp data-uniqueid=\"5ce6a847_5690_5ff7_e522_f5b4f6cbd3f4\" data-dsid=\"dataSource_19-1977fd74403-layer-107-selection\" data-expression=\"%7B%22name%22%3A%22Select%20a%20site%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_19-1977fd74403-layer-107-selection%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿Select a site﻿﻿</span>﻿</exp></span></h2>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -33503,7 +33612,7 @@
                 "bold": true,
                 "color": "#ffffff",
                 "border": {
-                  "color": "var(--info)",
+                  "color": "var(--primary)",
                   "width": "5px"
                 }
               },
@@ -33514,7 +33623,7 @@
               }
             },
             "root": {
-              "bg": "var(--secondary)"
+              "bg": "var(--secondary-300)"
             }
           }
         }
@@ -33726,7 +33835,6 @@
       "label": "Text 330",
       "config": {
         "text": "<p style=\"text-align: left;\"><strong>&nbsp;&nbsp;</strong><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"d3d49109_85e0_3b1d_9855_36bfa57aea44\" data-dsid=\"dataSource_19-1977fd74403-layer-107\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_19-1977fd74403-layer-107%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{Site}﻿﻿</span>﻿</exp></strong></p>",
-        "placeholder": "<p><span style=\"font-size: 13px;color: var(--dark-800);\">Lorem ipsum dolor sit amet</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": false,
@@ -33753,7 +33861,6 @@
       "label": "Text 331",
       "config": {
         "text": "<p style=\"text-align: right;\"><strong style=\"font-size: 18px;\">&nbsp;&nbsp;<exp data-uniqueid=\"39311280_bea5_5871_3402_ee4374ed7d2b\" data-dsid=\"dataSource_19-1977fd74403-layer-107\" data-expression=\"%7B%22name%22%3A%22%7BStatus%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BStatus%7D%22%2C%22dataSourceId%22%3A%22dataSource_19-1977fd74403-layer-107%22%2C%22jimuFieldName%22%3A%22Status%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{Status}﻿﻿</span>﻿</exp>&nbsp;</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -33872,6 +33979,18 @@
         "DEFAULT": {
           "MEDIUM": "layout_760"
         }
+      },
+      "style": {
+        "borderRadius": null,
+        "border": {
+          "color": null,
+          "type": "solid",
+          "width": "2px"
+        },
+        "background": {
+          "color": null,
+          "fillType": "fill"
+        }
       }
     },
     "widget_1472": {
@@ -33905,8 +34024,14 @@
       },
       "style": {
         "background": {
-          "color": "var(--light-700)",
+          "color": "var(--light-500)",
           "fillType": "fill"
+        },
+        "borderRadius": null,
+        "border": {
+          "color": null,
+          "type": "solid",
+          "width": "2px"
         }
       }
     },
@@ -33923,11 +34048,24 @@
       },
       "style": {
         "background": {
-          "color": "var(--light)",
+          "color": "var(--light-300)",
           "fillType": "fill",
           "image": {
             "url": ""
           }
+        },
+        "borderRadius": {
+          "number": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "unit": "px"
+        },
+        "border": {
+          "type": "solid",
+          "width": "0px"
         }
       }
     },
@@ -34344,7 +34482,13 @@
             "DEPTH_FT"
           ]
         }
-      ]
+      ],
+      "style": {
+        "background": {
+          "color": "var(--light-300)",
+          "fillType": "fill"
+        }
+      }
     },
     "widget_1475": {
       "uri": "widgets/common/text/",
@@ -34352,14 +34496,19 @@
       "label": "Text 332",
       "config": {
         "text": "<p><span style=\"font-size: 16px;\">Depth</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
       },
       "id": "widget_1475",
       "useDataSourcesEnabled": true,
-      "useDataSources": []
+      "useDataSources": [],
+      "style": {
+        "background": {
+          "color": "var(--light-300)",
+          "fillType": "fill"
+        }
+      }
     },
     "widget_1476": {
       "uri": "widgets/common/navigator/",
@@ -34387,16 +34536,30 @@
           "variant": {
             "item": {
               "default": {
-                "size": "16px"
+                "size": "16px",
+                "bg": "rgba(0,0,0,0)"
+              },
+              "active": {
+                "border": {
+                  "color": "var(--primary)"
+                }
               }
             },
             "root": {
-              "bg": "var(--light-100)"
+              "bg": "var(--light-300)"
             }
           }
         }
       },
-      "id": "widget_1476"
+      "id": "widget_1476",
+      "style": {
+        "borderRadius": null,
+        "border": {
+          "color": null,
+          "type": "solid",
+          "width": "2px"
+        }
+      }
     },
     "widget_1477": {
       "uri": "widgets/common/chart/",
@@ -34464,12 +34627,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "#ee994a",
+                  "color": "var(--primary)",
                   "width": 0
                 }
               },
@@ -34718,14 +34881,24 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -34754,7 +34927,6 @@
       "label": "Text 333: Desnity",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">Density - <exp data-uniqueid=\"84ab0bff_b88c_05ab_bcc1_dd5624339dec\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{SITE}﻿﻿</span>﻿</exp>&nbsp;&nbsp;</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -34829,12 +35001,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "#ee994a",
+                  "color": "var(--primary)",
                   "width": 0
                 }
               },
@@ -35068,7 +35240,6 @@
       "label": "Na+ - Select a site 4",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">Na+ - <exp data-uniqueid=\"43444ea3_ceba_7826_2ced_ca34f23cc6f9\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;﻿&nbsp;</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -35143,12 +35314,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "#ee994a",
+                  "color": "var(--primary)",
                   "width": 0
                 }
               },
@@ -35382,7 +35553,6 @@
       "label": "Text 334: Mg",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">Mg - <exp data-uniqueid=\"84ab0bff_b88c_05ab_bcc1_dd5624339dec\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;﻿&nbsp;</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -35508,12 +35678,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "#ee994a",
+                  "color": "var(--primary)",
                   "width": 0
                 }
               },
@@ -35747,7 +35917,6 @@
       "label": "Text 335: K",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">K - <exp data-uniqueid=\"7ba5a40d_622e_ed2c_8679_0448ce82f5e7\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;&nbsp;</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -35777,14 +35946,24 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -35873,12 +36052,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "#ee994a",
+                  "color": "var(--primary)",
                   "width": 0
                 }
               },
@@ -36112,7 +36291,6 @@
       "label": "Text 336: Ca",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">Ca - <exp data-uniqueid=\"1a47d467_8152_819f_d353_d90c0868e10b\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;&nbsp;</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -36142,14 +36320,24 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -36238,12 +36426,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "#ee994a",
+                  "color": "var(--primary)",
                   "width": 0
                 }
               },
@@ -36477,7 +36665,6 @@
       "label": "Text 337: Cl",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">Cl - <exp data-uniqueid=\"6760945a_6355_d077_8826_f734669ee38b\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;&nbsp;</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -36507,14 +36694,24 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -36603,12 +36800,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "#ee994a",
+                  "color": "var(--primary)",
                   "width": 0
                 }
               },
@@ -36842,7 +37039,6 @@
       "label": "Text 338: SO4",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">SO4 - <exp data-uniqueid=\"e3c9d0fb_cecb_6ce0_30f7_83eef88f4c15\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;&nbsp;</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -36872,14 +37068,24 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -36908,7 +37114,7 @@
       "label": "Density SP Chart  42",
       "config": {
         "options": {
-          "hideEmptySeries": false
+          "hideEmptySeries": true
         },
         "messages": {
           "noDataMessage": "No data or point not selected.\n\n"
@@ -36968,12 +37174,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "#ee994a",
+                  "color": "var(--primary)",
                   "width": 0
                 }
               },
@@ -37207,7 +37413,6 @@
       "label": "Text 339: TDS",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">Lab TDS - <exp data-uniqueid=\"f7fad78c_321f_639c_a05a_1a0db2e85a0b\" data-dsid=\"dataSource_12-196d600117d-layer-136-selection\" data-expression=\"%7B%22name%22%3A%22%7BSITE%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSITE%7D%22%2C%22dataSourceId%22%3A%22dataSource_12-196d600117d-layer-136-selection%22%2C%22jimuFieldName%22%3A%22SITE%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">{SITE}</span>﻿</exp>&nbsp;﻿&nbsp;</strong></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -37237,15 +37442,27 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "enableDynamicStyle": false,
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              }
+            },
             "regular": {
+              "enableDynamicStyle": false,
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
-              },
-              "background": {
-                "color": "#0068ed",
-                "fillType": "fill"
               },
               "border": {
                 "type": "solid",
@@ -37322,7 +37539,6 @@
       "label": "Text 340",
       "config": {
         "text": "<h3 style=\"line-height: 1.15;\"><strong style=\"font-size: 22px;\">Great Salt Lake Brine Chemistry Database</strong></h3>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -37335,7 +37551,6 @@
       "label": "Text 341",
       "config": {
         "text": "<p><span style=\"font-size: 18px;\">The salinity level of Great Salt Lake (GSL) is quite dynamic due to natural lake level fluctuations and man-made barriers within the lake. At a number of sites throughout the lake, the UGS takes samples at various depths through the water column, measures those samples for density, and analyzes them for chemistry. This sampling program has largely been funded by the Utah Division of Forestry, Fire and State Lands.</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -37397,7 +37612,6 @@
       "label": "Text 342",
       "config": {
         "text": "<h1 style=\"text-align: center;\"><strong style=\"font-size: 22px;\">Chemistry Explorer</strong></h1>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -37562,7 +37776,6 @@
       "label": "Text 343",
       "config": {
         "text": "<h2 style=\"text-align: center;\"><strong style=\"font-size: 16px;\">SITE DETAILS</strong></h2>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -37780,7 +37993,6 @@
       "label": "Text 344",
       "config": {
         "text": "<p style=\"line-height: 1;\"><strong style=\"font-size: 18px; color: var(--dark-800);\">﻿ </strong><strong style=\"font-size: 18px;\"><exp data-uniqueid=\"9df840cb_4c63_f4c3_c058_525d87176c8e\" data-dsid=\"dataSource_19-1977fd74403-layer-107\" data-expression=\"%7B%22name%22%3A%22%7BSite%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_19-1977fd74403-layer-107%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿﻿﻿{Site}﻿﻿﻿﻿</span>﻿</exp></strong></p>",
-        "placeholder": "<p><span style=\"font-size: 13px;color: var(--dark-800);\">Lorem ipsum dolor sit amet</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -37807,7 +38019,6 @@
       "label": "Text 345",
       "config": {
         "text": "<p style=\"line-height: 1.5;\"><span style=\"color: var(--dark-800); font-size: 16px;\">﻿</span><span style=\"font-size: 16px;\"><exp data-uniqueid=\"39c660ed_9400_3f58_5b55_d7f26d608621\" data-dsid=\"dataSource_19-1977fd74403-layer-107\" data-expression=\"%7B%22name%22%3A%22%7BStatus%7D%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BStatus%7D%22%2C%22dataSourceId%22%3A%22dataSource_19-1977fd74403-layer-107%22%2C%22jimuFieldName%22%3A%22Status%22%2C%22isFromRepeatedDataSourceContext%22%3Atrue%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿﻿{Status}﻿﻿</span>﻿</exp></span></p>",
-        "placeholder": "<p><span style=\"font-size: 13px;color: var(--dark-800);\">Lorem ipsum dolor sit amet</span></p>",
         "style": {
           "verticalAlign": "start",
           "wrap": true,
@@ -37961,6 +38172,12 @@
         "DEFAULT": {
           "SMALL": "layout_783"
         }
+      },
+      "style": {
+        "background": {
+          "color": "var(--light-300)",
+          "fillType": "fill"
+        }
       }
     },
     "widget_1518": {
@@ -37969,7 +38186,6 @@
       "label": "Text 346",
       "config": {
         "text": "<p style=\"line-height: 1;\"><strong style=\"font-size: 16px;\">Density -&nbsp;</strong>&nbsp;<span style=\"font-size: 16px;\"><exp data-uniqueid=\"2db641ac_8c2b_5041_ca9f_87ac72c7dfe5\" data-dsid=\"dataSource_19-1977fd74403-layer-107-selection\" data-expression=\"%7B%22name%22%3A%22Select%20site%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_19-1977fd74403-layer-107-selection%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">Select site</span>﻿</exp></span>&nbsp;&nbsp;</p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -38420,7 +38636,6 @@
       "label": "Text 347",
       "config": {
         "text": "<p><span style=\"font-size: 13px;\">Select depth</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -38449,6 +38664,15 @@
             "hover": {
               "text": {
                 "size": "16px"
+              },
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
               }
             },
             "regular": {
@@ -38456,7 +38680,7 @@
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -38537,12 +38761,12 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
                   "style": "esriSLSSolid",
-                  "color": "#ee994a",
+                  "color": "var(--primary)",
                   "width": 0
                 }
               },
@@ -38806,7 +39030,6 @@
       "label": "Text 348",
       "config": {
         "text": "<h3 style=\"line-height: 1.15;\"><strong style=\"font-size: 19.6px;\">Great Salt Lake Brine Chemistry Database</strong></h3>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -38895,7 +39118,6 @@
       "label": "Text 349",
       "config": {
         "text": "<p><span style=\"font-size: 16px;\">The salinity level of Great Salt Lake (GSL) is quite dynamic due to natural lake level fluctuations and man-made barriers within the lake. At a number of sites throughout the lake, the UGS takes samples at various depths through the water column, measures those samples for density, and analyzes them for chemistry. This sampling program has largely been funded by the Utah Division of Forestry, Fire and State Lands.</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -38939,7 +39161,8 @@
                 "size": "16px",
                 "border": {
                   "color": "undefined"
-                }
+                },
+                "borderRadius": "1px"
               },
               "hover": {
                 "border": {
@@ -38948,12 +39171,21 @@
               }
             },
             "root": {
-              "bg": "var(--secondary)"
+              "bg": "var(--secondary-300)",
+              "borderRadius": "1px"
             }
           }
         }
       },
-      "id": "widget_1529"
+      "id": "widget_1529",
+      "style": {
+        "borderRadius": null,
+        "border": {
+          "color": "var(--light-600)",
+          "type": "solid",
+          "width": "2px"
+        }
+      }
     },
     "widget_1530": {
       "uri": "widgets/common/text/",
@@ -38961,7 +39193,6 @@
       "label": "Text 350",
       "config": {
         "text": "<h1 style=\"text-align: center; line-height: 0.9;\"><strong style=\"font-size: 16px; letter-spacing: 0px;\">Chemistry Explorer﻿</strong></h1>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -39238,7 +39469,6 @@
       "label": "Text 352",
       "config": {
         "text": "<h3 style=\"line-height: 1.5;\"><strong style=\"font-size: 22px;\">Ch<span class=\"ql-cursor\">﻿</span>art </strong><strong>Data</strong><strong style=\"font-size: 22px;\">: </strong><span style=\"font-size: 18px;\"><exp data-uniqueid=\"5e820e30_bea5_5f0a_db13_6934a9e2d759\" data-dsid=\"dataSource_19-1977fd74403-layer-107-selection\" data-expression=\"%7B%22name%22%3A%22Select%20a%20site%22%2C%22parts%22%3A%5B%7B%22type%22%3A%22FIELD%22%2C%22exp%22%3A%22%7BSite%7D%22%2C%22dataSourceId%22%3A%22dataSource_19-1977fd74403-layer-107-selection%22%2C%22jimuFieldName%22%3A%22Site%22%2C%22isFromRepeatedDataSourceContext%22%3Afalse%7D%5D%7D\">﻿<span contenteditable=\"false\">﻿Select a site﻿</span>﻿</exp></span>&nbsp;&nbsp;&nbsp;</h3>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -39394,7 +39624,7 @@
               "lineSymbol": {
                 "type": "esriSLS",
                 "style": "esriSLSSolid",
-                "color": "#5E8FD0",
+                "color": "#4277be",
                 "width": 2
               },
               "dataLabels": {
@@ -39421,7 +39651,7 @@
               "markerSymbol": {
                 "type": "esriSMS",
                 "style": "esriSMSCircle",
-                "color": "#5E8FD0",
+                "color": "#4277be",
                 "size": 6,
                 "outline": {
                   "type": "esriSLS",
@@ -40346,7 +40576,6 @@
       "label": "Text 353",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">WELCOME TO THE UTAH GEOLOGICAL SURVEY'S</strong></p><p><strong style=\"font-size: 28px;\">Great Salt Lake Brine Density and Chemistry Hub﻿</strong></p><p><span style=\"font-size: 18px;\">Explore data visualizations from the Great Salt Lake Brine Chemistry Database and access current and legacy reports on Great Salt Lake.</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -40388,8 +40617,7 @@
       "version": "1.18.0",
       "label": "Text 354",
       "config": {
-        "text": "<p><strong style=\"color: var(--primary); font-size: 22px;\"><u><a href=\"page_21\" target=\"_self\" data-uniqueid=\"cd406f65_9c49_9b91_da0c_f372f75409bf\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_21%22%2C%22openType%22%3A%22_self%22%7D\">Chemistry Explorer</a></u></strong></p><p><span style=\"font-size: 18px;\">View chemistry measurement data and trends from Great Salt Lake sampling sites.</span></p><p><br></p><p><strong style=\"color: var(--primary); font-size: 22px;\"><u><a href=\"page_18\" target=\"_self\" data-uniqueid=\"1ea0d8f0_eded_a9bd_74d1_689c70472fac\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_18%22%2C%22openType%22%3A%22_self%22%7D\">Density and Salinity</a></u></strong></p><p><span style=\"font-size: 18px;\">View an interactive timeline of density and salinity measurements from selected sampling sites.</span></p><p><br></p><p><strong style=\"color: var(--primary); font-size: 22px;\"><u><a href=\"page_8\" target=\"_self\" data-uniqueid=\"92b604f4_db39_82c4_8e5d_2068635224fe\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_8%22%2C%22openType%22%3A%22_self%22%7D\">Great Salt Lake Report Archive</a></u></strong></p><p><span style=\"font-size: 18px;\">Access reports and data from a wide range of scientific studies on Great Salt Lake.</span></p>",
-        "placeholder": "Double click to edit text",
+        "text": "<p><strong style=\"font-size: 22px; color: var(--primary);\"><u><a href=\"page_21\" target=\"_self\" data-uniqueid=\"cd406f65_9c49_9b91_da0c_f372f75409bf\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_21%22%2C%22openType%22%3A%22_self%22%7D\">Chemistry Explorer</a></u></strong></p><p><span style=\"font-size: 18px;\">View chemistry measurement data and trends from Great Salt Lake sampling sites.</span></p><p><br></p><p><strong style=\"font-size: 22px; color: var(--primary);\"><u><a href=\"page_18\" target=\"_self\" data-uniqueid=\"1ea0d8f0_eded_a9bd_74d1_689c70472fac\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_18%22%2C%22openType%22%3A%22_self%22%7D\">Density and Salinity</a></u></strong></p><p><span style=\"font-size: 18px;\">View an interactive timeline of density and salinity measurements from selected sampling sites.</span></p><p><br></p><p><strong style=\"font-size: 22px; color: var(--primary);\"><u><a href=\"page_8\" target=\"_self\" data-uniqueid=\"92b604f4_db39_82c4_8e5d_2068635224fe\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_8%22%2C%22openType%22%3A%22_self%22%7D\">Great Salt Lake Report Archive</a></u></strong></p><p><span style=\"font-size: 18px;\">Access reports and data from a wide range of scientific studies on Great Salt Lake.</span></p>",
         "style": {
           "wrap": true
         }
@@ -40428,7 +40656,7 @@
               },
               "border": {
                 "type": "solid",
-                "color": "var(--primary)",
+                "color": "var(--primary-400)",
                 "width": "1px"
               },
               "borderRadius": {
@@ -40453,7 +40681,7 @@
               },
               "border": {
                 "type": "solid",
-                "color": "var(--primary-400)",
+                "color": "var(--primary)",
                 "width": "1px"
               },
               "borderRadius": {
@@ -40469,7 +40697,8 @@
           }
         }
       },
-      "id": "widget_1582"
+      "id": "widget_1582",
+      "useDataSources": []
     },
     "widget_1583": {
       "uri": "widgets/layout/column/",
@@ -40561,7 +40790,6 @@
       "label": "Text 355",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">WELCOME TO THE UTAH GEOLOGICAL SURVEY'S</strong></p><p><strong style=\"font-size: 28px;\">Great Salt Lake Brine Density and Chemistry Hub﻿</strong></p><p><span style=\"font-size: 18px;\">Explore data visualizations from the Great Salt Lake Brine Chemistry Database and access current and legacy reports on Great Salt Lake.</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -40574,7 +40802,6 @@
       "label": "Text 356",
       "config": {
         "text": "<p><strong style=\"color: var(--primary); font-size: 22px;\"><u><a href=\"page_21\" target=\"_self\" data-uniqueid=\"217189fb_e122_5098_4278_e92eb2a4a26f\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_21%22%2C%22openType%22%3A%22_self%22%7D\">Chemistry Explorer</a></u></strong></p><p><span style=\"font-size: 18px;\">View chemistry measurement data and trends from Great Salt Lake sampling sites.</span></p><p><br></p><p><strong style=\"color: var(--primary); font-size: 22px;\"><u><a href=\"page_18\" target=\"_self\" data-uniqueid=\"1ea0d8f0_eded_a9bd_74d1_689c70472fac\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_18%22%2C%22openType%22%3A%22_self%22%7D\">Density and Salinity</a></u></strong></p><p><span style=\"font-size: 18px;\">View an interactive timeline of density and salinity measurements from selected sampling sites.</span></p><p><br></p><p><strong style=\"color: var(--primary); font-size: 22px;\"><u><a href=\"page_8\" target=\"_self\" data-uniqueid=\"92b604f4_db39_82c4_8e5d_2068635224fe\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_8%22%2C%22openType%22%3A%22_self%22%7D\">Great Salt Lake Report Archive</a></u></strong></p><p><span style=\"font-size: 18px;\">Access reports and data from a wide range of scientific studies on Great Salt Lake.</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -40954,7 +41181,6 @@
       "label": "Text 357",
       "config": {
         "text": "<p><strong style=\"font-size: 20px;\">WELCOME TO THE UTAH GEOLOGICAL SURVEY'S</strong></p><p><strong style=\"font-size: 20px;\">Great Salt Lake Brine Density and Chemistry Hub﻿</strong></p><p><span style=\"font-size: 14px;\">Explore data visualizations from the Great Salt Lake Brine Chemistry Database and access current and legacy reports on Great Salt Lake.</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -40967,7 +41193,6 @@
       "label": "Text 358",
       "config": {
         "text": "<p><strong style=\"font-size: 16px; color: var(--primary);\"><u><a href=\"page_21\" target=\"_self\" data-uniqueid=\"103e55de_5f45_02d2_bb1f_33d6dc8ce570\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_21%22%2C%22openType%22%3A%22_self%22%7D\">Chemistry Explorer</a></u></strong></p><p><span style=\"font-size: 14px;\">View chemistry measurement data and trends from Great Salt Lake sampling sites.</span></p><p><br></p><p><strong style=\"font-size: 16px; color: var(--primary);\"><u><a href=\"page_18\" target=\"_self\" data-uniqueid=\"1ea0d8f0_eded_a9bd_74d1_689c70472fac\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_18%22%2C%22openType%22%3A%22_self%22%7D\">Density and Salinity</a></u></strong></p><p><span style=\"font-size: 14px;\">View an interactive timeline of density and salinity measurements from selected sampling sites.</span></p><p><br></p><p><strong style=\"font-size: 16px; color: var(--primary);\"><u><a href=\"page_8\" target=\"_self\" data-uniqueid=\"92b604f4_db39_82c4_8e5d_2068635224fe\" data-dsid=\"\" data-link=\"%7B%22linkType%22%3A%22PAGE%22%2C%22value%22%3A%22page_8%22%2C%22openType%22%3A%22_self%22%7D\">Great Salt Lake Report Archive</a></u></strong></p><p><span style=\"font-size: 14px;\">Access reports and data from a wide range of scientific studies on Great Salt Lake.</span></p>",
-        "placeholder": "Double click to edit text",
         "style": {
           "wrap": true
         }
@@ -41153,8 +41378,12 @@
             "hover": {
               "border": {
                 "type": "solid",
-                "color": "var(--primary-600)",
+                "color": "var(--primary)",
                 "width": "1px"
+              },
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
               }
             },
             "regular": {
@@ -41164,12 +41393,12 @@
                 "size": "16px"
               },
               "background": {
-                "color": "rgba(111,73,48,0.6)",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "#7e4f25",
+                "color": "#633d11",
                 "width": "1px"
               }
             }
@@ -41207,7 +41436,12 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
@@ -41220,7 +41454,7 @@
               },
               "border": {
                 "type": "solid",
-                "color": "var(--primary-600)",
+                "color": "var(--primary)",
                 "width": "1px"
               }
             }
@@ -41263,8 +41497,12 @@
             "hover": {
               "border": {
                 "type": "solid",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "width": "1px"
+              },
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
               }
             },
             "regular": {
@@ -41274,12 +41512,12 @@
                 "size": "16px"
               },
               "background": {
-                "color": "rgba(111,73,48,0.6)",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "#7e4f25",
+                "color": "#633d11",
                 "width": "1px"
               }
             }
@@ -41373,7 +41611,7 @@
             "hover": {
               "border": {
                 "type": "solid",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "width": "1px"
               }
             },
@@ -41384,7 +41622,7 @@
                 "size": "16px"
               },
               "background": {
-                "color": "rgba(111,73,48,0.6)",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
@@ -41427,7 +41665,26 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "var(--primary)",
+                "width": "1px"
+              },
+              "borderRadius": {
+                "number": [
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "unit": "px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
@@ -41435,12 +41692,12 @@
                 "size": "16px"
               },
               "background": {
-                "color": "#6f4930",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "var(--primary-600)",
+                "color": "var(--primary)",
                 "width": "1px"
               }
             }
@@ -41483,8 +41740,21 @@
             "hover": {
               "border": {
                 "type": "solid",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "width": "1px"
+              },
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
+              },
+              "borderRadius": {
+                "number": [
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "unit": "px"
               }
             },
             "regular": {
@@ -41494,12 +41764,12 @@
                 "size": "16px"
               },
               "background": {
-                "color": "rgba(111,73,48,0.6)",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "#7e4f25",
+                "color": "#633d11",
                 "width": "1px"
               }
             }
@@ -41593,8 +41863,12 @@
             "hover": {
               "border": {
                 "type": "solid",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "width": "1px"
+              },
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
               }
             },
             "regular": {
@@ -41604,12 +41878,12 @@
                 "size": "16px"
               },
               "background": {
-                "color": "rgba(111,73,48,0.6)",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "#7e4f25",
+                "color": "#633d11",
                 "width": "1px"
               }
             }
@@ -41703,8 +41977,12 @@
             "hover": {
               "border": {
                 "type": "solid",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "width": "1px"
+              },
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
               }
             },
             "regular": {
@@ -41714,12 +41992,12 @@
                 "size": "16px"
               },
               "background": {
-                "color": "rgba(111,73,48,0.6)",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "#7e4f25",
+                "color": "#633d11",
                 "width": "1px"
               }
             }
@@ -41813,8 +42091,12 @@
             "hover": {
               "border": {
                 "type": "solid",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "width": "1px"
+              },
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
               }
             },
             "regular": {
@@ -41824,12 +42106,12 @@
                 "size": "16px"
               },
               "background": {
-                "color": "rgba(111,73,48,0.6)",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "#7e4f25",
+                "color": "#633d11",
                 "width": "1px"
               }
             }
@@ -41867,7 +42149,17 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "var(--primary)",
+                "width": "1px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
@@ -41875,12 +42167,12 @@
                 "size": "16px"
               },
               "background": {
-                "color": "#6f4930",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "var(--primary-600)",
+                "color": "#633d11",
                 "width": "1px"
               }
             }
@@ -41974,8 +42266,12 @@
             "hover": {
               "border": {
                 "type": "solid",
-                "color": "#ee994a",
+                "color": "var(--primary)",
                 "width": "1px"
+              },
+              "background": {
+                "color": "#633d11",
+                "fillType": "fill"
               }
             },
             "regular": {
@@ -41985,12 +42281,12 @@
                 "size": "16px"
               },
               "background": {
-                "color": "rgba(111,73,48,0.6)",
+                "color": "#633d11",
                 "fillType": "fill"
               },
               "border": {
                 "type": "solid",
-                "color": "#7e4f25",
+                "color": "#633d11",
                 "width": "1px"
               }
             }
@@ -42029,14 +42325,24 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -42080,14 +42386,24 @@
           },
           "useCustom": true,
           "customStyle": {
-            "hover": {},
+            "hover": {
+              "background": {
+                "color": "#4277be",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#9fc4f0",
+                "width": "1px"
+              }
+            },
             "regular": {
               "text": {
                 "color": "#ffffff",
                 "size": "16px"
               },
               "background": {
-                "color": "#0068ed",
+                "color": "#4277be",
                 "fillType": "fill"
               },
               "border": {
@@ -42109,6 +42425,36 @@
         }
       },
       "useDataSources": []
+    },
+    "widget_1781": {
+      "uri": "widgets/common/image/",
+      "version": "1.18.0",
+      "label": "Image 23",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_75/1789416184546.png",
+            "originalUrl": "${appResourceUrl}/images/widget_75/1789416184546.png",
+            "fileName": "1789416184546.png",
+            "originalName": "SM-UGSAcroynm_MottoIcon_Logo_Template-WHT.png",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/png",
+            "originalId": "1789416184546",
+            "originalWidth": 1335,
+            "originalHeight": 447
+          },
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_1781"
     }
   },
   "widgetsManifest": {},
@@ -44089,12 +44435,11 @@
   "attributes": {
     "portalUrl": "https://utahdnr.maps.arcgis.com",
     "favicon": {
-      "svg": "${appResourceUrl}/images/icon_picker_in_setting/1750960326947.png",
+      "svg": "${appResourceUrl}/images/icon_picker_in_setting/1785350831806.png",
       "properties": {
-        "filename": "1750960326947.png",
-        "color": "var(--ref-palette-neutral-1100)",
-        "originalName": "ugs favicon.png",
-        "path": "${appResourceUrl}/images/icon_picker_in_setting/1750960326947.png",
+        "filename": "1785350831806.png",
+        "originalName": "UGS_Favicon_Logo_Template-BLU (1).png",
+        "path": "${appResourceUrl}/images/icon_picker_in_setting/1785350831806.png",
         "isUploaded": true,
         "inlineSvg": false
       }
@@ -45735,14 +46080,14 @@
     },
     "backgroundColor": "#000000"
   },
-  "timestamp": 1782765476365,
+  "timestamp": 1789580051793,
   "customTheme": {
     "colors": {
-      "primary": "#ea7f1d",
+      "primary": "#e37d49",
       "info": "#c3512f"
     },
     "focusedStyles": {
-      "color": "#ea7f1d"
+      "color": "#e37d49"
     }
   },
   "utilities": {
@@ -45775,5 +46120,16 @@
       "LARGE": 75
     }
   },
-  "useAutoSortInFixedLayout": true
+  "useAutoSortInFixedLayout": true,
+  "historyLabels": {
+    "dialogs": {
+      "dialog_3": [
+        "Lake Elevation DTM"
+      ],
+      "dialog_8": [
+        "Lake Elevation DTM 2"
+      ]
+    }
+  },
+  "publishTimestamp": 1789499153390
 }

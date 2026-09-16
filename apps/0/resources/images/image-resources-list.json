@@ -75,5 +75,44 @@
     "fileFormat": "image/jpeg",
     "originId": "1742320039204",
     "resourcesPrefix": "images/templates"
+  },
+  "1785350669931": {
+    "originalName": "UGS_MottoIcon_Logo_Template-WHT (1).png",
+    "fileName": "1785350669931.png",
+    "size": 23071,
+    "url": "${appResourceUrl}/images/widget_75/1785350669931.png",
+    "created": 1785350669931,
+    "resourcesPrefix": "images/widget_75",
+    "referredIds": [],
+    "originId": "1785350669931",
+    "fileFormat": "image/png",
+    "originalWidth": 397,
+    "originalHeight": 433
+  },
+  "1785351738357": {
+    "originalName": "UGS_MottoIcon_Logo_Template-WHT.png",
+    "fileName": "1785351738357.png",
+    "size": 43749,
+    "url": "${appResourceUrl}/images/widget_75/1785351738357.png",
+    "created": 1785351738357,
+    "resourcesPrefix": "images/widget_75",
+    "referredIds": [],
+    "originId": "1785351738357",
+    "fileFormat": "image/png",
+    "originalWidth": 1557,
+    "originalHeight": 433
+  },
+  "1789416184546": {
+    "originalName": "SM-UGSAcroynm_MottoIcon_Logo_Template-WHT.png",
+    "fileName": "1789416184546.png",
+    "size": 28495,
+    "url": "${appResourceUrl}/images/widget_75/1789416184546.png",
+    "created": 1789416184546,
+    "resourcesPrefix": "images/widget_75",
+    "referredIds": [],
+    "originId": "1789416184546",
+    "fileFormat": "image/png",
+    "originalWidth": 1335,
+    "originalHeight": 447
   }
 }

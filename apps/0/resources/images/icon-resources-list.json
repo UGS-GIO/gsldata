@@ -15,6 +15,25 @@
       "filename": "1750960326947.png",
       "originalName": "ugs favicon.png",
       "path": "${appResourceUrl}/images/icon_picker_in_setting/1750960326947.png",
+      "inlineSvg": false
+    }
+  },
+  "1785350767508.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1785350767508.png",
+    "properties": {
+      "filename": "1785350767508.png",
+      "originalName": "UGS_MottoIcon_Logo_Template-WHT (1).png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1785350767508.png",
+      "isUploaded": true,
+      "inlineSvg": false
+    }
+  },
+  "1785350831806.png": {
+    "svg": "${appResourceUrl}/images/icon_picker_in_setting/1785350831806.png",
+    "properties": {
+      "filename": "1785350831806.png",
+      "originalName": "UGS_Favicon_Logo_Template-BLU (1).png",
+      "path": "${appResourceUrl}/images/icon_picker_in_setting/1785350831806.png",
       "isUploaded": true,
       "inlineSvg": false
     }
